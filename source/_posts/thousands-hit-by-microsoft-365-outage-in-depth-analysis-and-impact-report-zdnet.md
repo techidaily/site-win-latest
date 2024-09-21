@@ -1,7 +1,7 @@
 ---
 title: "Thousands Hit by Microsoft 365 Outage: In-Depth Analysis & Impact Report | ZDNet"
-date: 2024-09-17 18:32:17
-updated: 2024-09-20 10:36:43
+date: 2024-09-16T20:26:48.832Z
+updated: 2024-09-20T19:17:08.498Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-recover-missing-youtube-like-icon-in-fb-watch/"><u>[New] In 2024, Recover Missing YouTube-Like Icon in FB Watch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-your-srt-file-dispatch-for-maximum-social-exposure/"><u>[New] Perfecting Your SRT File Dispatch for Maximum Social Exposure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleash-the-power-of-natural-and-artificentic-lights-on-iphone/"><u>[New] Unleash the Power of Natural and Artificentic Lights on iPhone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-fixed-shorts-are-now-easily-accessible-for-2024/"><u>[New] YouTube Fixed Shorts Are Now Easily Accessible for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-resolve-instagrams-video-problems-swiftly/"><u>2024 Approved Resolve Instagram's Video Problems Swiftly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y200e-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y200e 5Gwith/without a PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-on-camera-techniques-key-shots-for-aspiring-directors-for-2024/"><u>In-Depth on Camera Techniques Key Shots for Aspiring Directors for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lava-blaze-curve-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Blaze Curve 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mp4movavivegas-pro/"><u>MP4・MOV・AVIなどの動画形式を処理できるようにするVEGAS Proの解決策</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/process-for-adding-connecting-8720-printer-model-to-pc/"><u>Process for Adding: Connecting 8720 Printer Model to PC</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726027411272-windows-1011wav/"><u>Windows 10/11向けWAV形式ファイル仕様チェック</u></a></li>
+<li><a href="https://win-latest.techidaily.com/zero-cost-ways-to-convert-and-burn-iso-files-to-dvd-in-windows-os-guide-for-10817vista-users/"><u>Zero-Cost Ways to Convert and Burn ISO Files to DVD in Windows OS - Guide for 10/8.1/7/Vista Users</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

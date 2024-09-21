@@ -1,7 +1,7 @@
 ---
 title: "Top Budget-Friendly Windows Laptops: Comparing Brands Like Acer & Dell | ZDNet's Guide"
-date: 2024-09-18 21:24:22
-updated: 2024-09-20 10:55:55
+date: 2024-09-17T17:15:31.185Z
+updated: 2024-09-20T18:52:20.624Z
 tags:
   - windows
 categories:
@@ -48,11 +48,25 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -76,6 +90,13 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -119,11 +140,23 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevating-your-content-game-strategic-use-of-igtv-hashtags/"><u>[New] 2024 Approved Elevating Your Content Game Strategic Use of IGTV Hashtags</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chortlechaos-dive-deep-into-meme-genesis/"><u>2024 Approved ChortleChaos Dive Deep Into Meme Genesis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-22-addressed-device-now-online/"><u>Error 22 Addressed; Device Now Online</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-s17-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo S17 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-guide-converting-flv-files-into-mp3-with-simple-techniques/"><u>Quick Guide: Converting FLV Files Into MP3 with Simple Techniques</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-guide-high-quality-conversion-of-dvds-to-ipad-air-speedy-methods-explored/"><u>Quick Guide: High-Quality Conversion of DVDs to iPad Air - Speedy Methods Explored</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-solve-android-app-problems-with-youtube-no-more-buffering/"><u>Step-by-Step Guide: Solve Android App Problems with YouTube - No More Buffering!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-c51-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-5-dvd-ripper-tools-ultimate-guide-for-windows-and-mac-users/"><u>Top 5 DVD Ripper Tools: Ultimate Guide for Windows and Mac Users</u></a></li>
+</ul></div>
+

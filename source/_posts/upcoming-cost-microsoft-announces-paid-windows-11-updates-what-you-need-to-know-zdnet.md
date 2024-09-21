@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Cost: Microsoft Announces Paid Windows 11 Updates - What You Need To Know (ZDNet)"
-date: 2024-09-17 20:36:23
-updated: 2024-09-20 10:46:28
+date: 2024-09-15T09:03:44.159Z
+updated: 2024-09-21T01:44:28.869Z
 tags:
   - microsoft
 categories:
@@ -115,6 +115,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +131,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>[New] Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-android-movie-upturning/"><u>[Updated] Step-by-Step Guide to Android Movie Upturning</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-how-to-convert-any-youtube-video-into-flv-format-on-windows-without-restrictions/"><u>1. How to Convert Any YouTube Video Into FLV Format on Windows Without Restrictions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-becoming-an-expert-at-obs-studio-android-focus/"><u>2024 Approved Becoming an Expert at OBS Studio Android Focus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-searching-comments-on-youtube/"><u>2024 Approved Searching Comments on YouTube</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726027413856-wma/"><u>無料で最高レベルのWMAプレーヤーを発見！俺たちがおすすめする順位付けランキング</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-zte-axon-40-lite-device-sim-by-drfone-android/"><u>Easily Unlock Your ZTE Axon 40 Lite Device SIM</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-best-infinix-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Infinix FRP Bypass Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mp4movavivegas-pro/"><u>MP4・MOV・AVIなどの動画形式を処理できるようにするVEGAS Proの解決策</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-3-methods-for-optimizing-your-videos-how-to-seamlessly-compress-for-whatsapp/"><u>Top 3 Methods for Optimizing Your Videos: How to Seamlessly Compress for WhatsApp</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-hd-video-editor-app-beginner-friendly-no-cost-tutorials-and-features/"><u>Ultimate HD Video Editor App: Beginner-Friendly, No Cost Tutorials & Features</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726026606330-windows-11/"><u>Windows 11</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726030031556-windows-iphone-android/"><u>オールナイトニッポンの聴き逃しないための完全ガイド: Windows, iPhone, Androidで録音する方法</u></a></li>
+</ul></div>
+

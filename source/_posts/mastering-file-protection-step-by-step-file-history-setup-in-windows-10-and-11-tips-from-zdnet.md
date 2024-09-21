@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Protection: Step-by-Step File History Setup in Windows 10 and 11 - Tips From ZDNet"
-date: 2024-09-19 11:42:55
-updated: 2024-09-20 11:45:50
+date: 2024-09-16T03:42:50.972Z
+updated: 2024-09-21T07:36:03.252Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -120,6 +127,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-decoding-durecorder-features-and-user-guide-review/"><u>[New] Decoding DuRecorder Features and User Guide Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photo-realism-in-artwork-illustrator-motion-magic/"><u>[New] Photo Realism in Artwork Illustrator Motion Magic</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-metaspace-contrasted-with-cosmic-universe-for-2024/"><u>[Updated] Metaspace Contrasted with Cosmic Universe for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shine-up-your-android-videos-with-these-tips/"><u>[Updated] Shine Up Your Android Videos with These Tips</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726030563509-aac/"><u>「無劣化」保全AACデータ分割・トリミング・合成ガイド</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726027413856-wma/"><u>無料で最高レベルのWMAプレーヤーを発見！俺たちがおすすめする順位付けランキング</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-app-for-windows-enthusiasts/"><u>ChatGPT App for Windows Enthusiasts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratis-converter-van-wma-naar-3gp-online-movavi/"><u>Gratis Converter Van WMA Naar 3GP Online - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harvesting-stills-from-moving-images-on-windows/"><u>In 2024, Harvesting Stills From Moving Images on Windows</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726030632154-itunesaac/"><u>ITunesを使ってAACファイル作成が不可能な時の解決策と方法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726026606330-windows-11/"><u>Windows 11</u></a></li>
+<li><a href="https://win-latest.techidaily.com/44ki44ot44oh44og44od44kv44k544gr44ki44kl44ot44oh44kq44ov44kh44kk44or57wx5zci44ks44kk44oj/"><u>アビデムックスによるビデオファイル統合ガイド</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726030031556-windows-iphone-android/"><u>オールナイトニッポンの聴き逃しないための完全ガイド: Windows, iPhone, Androidで録音する方法</u></a></li>
+<li><a href="https://win-latest.techidaily.com/44ot44oh44kq44kz44oz44og44oz44oe44gl44kj6auy5zob6loq44gq5yaz55yf44ks5l2c5oiq44gz44kl44gf44kb44gu57ch5y2y44gq5pa55rov/"><u>ビデオコンテンツから高品質な写真を作成するための簡単な方法</u></a></li>
+</ul></div>
+

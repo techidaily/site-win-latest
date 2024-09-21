@@ -1,7 +1,7 @@
 ---
 title: Bring Your Eyes Some Relief with Bing Chat's Dark Mode Now Available - Tutorial | ZDNet
-date: 2024-09-19 16:42:17
-updated: 2024-09-20 12:41:12
+date: 2024-09-15T10:02:56.533Z
+updated: 2024-09-21T05:16:15.371Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-master-fades-with-ease-4-methods-unveiled/"><u>[Updated] Master Fades with Ease 4 Methods Unveiled</u></a></li>
+<li><a href="https://win-latest.techidaily.com/dvd-mpgmpeg-2mpeg-4-dvd/"><u>簡単DVDコンバート MPG、MPEG-2、MPEG-4 - DVD保存無劣化</u></a></li>
+<li><a href="https://win-latest.techidaily.com/5lia5bqm44gr5ywo44oq44k544oi44ks44oa44km44oz44ot44o844oj77ya44ol44kz44ol44kz5yuv55s744cm44oe44kk44oq44k544oi44cn44gu5yq5546h55qe44gq5lplusd5a2y5pa55rov/"><u>一度に全リストをダウンロード：ニコニコ動画「マイリスト」の効率的な保存方法</u></a></li>
+<li><a href="https://win-latest.techidaily.com/a-step-by-step-guide-to-mastering-the-free-swf-video-converter-factory/"><u>A Step-by-Step Guide to Mastering the Free SWF Video Converter Factory</u></a></li>
+<li><a href="https://win-latest.techidaily.com/best-free-m2ts-media-players-uncomplicated-watching-and-editing-options-for-your-m2ts-videos/"><u>Best Free M2TS Media Players: Uncomplicated Watching and Editing Options for Your .M2Ts Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-idevice-screenplay-techniques-for-2024/"><u>Comprehensive iDevice Screenplay Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/disappear-your-xbox-noise-quickly/"><u>Disappear Your Xbox Noise Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-electronics-through-toms-equipment-insights/"><u>Discover Cutting-Edge Electronics Through Tom's Equipment Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-chatgpt-and-its-amazing-potential-in-leveraging-cutting-edge-generative-ai-features/"><u>Discovering ChatGPT and Its Amazing Potential in Leveraging Cutting-Edge Generative AI Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-your-online-entertainment-with-lenovos-affordable-tab-m10-hd-2020-thorough-review-inside/"><u>Maximize Your Online Entertainment with Lenovo's Affordable Tab M10 HD (2020): Thorough Review Inside</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-6-plus-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 6 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/44ot44oh44kq44kz44oz44og44oz44oe44gl44kj6auy5zob6loq44gq5yaz55yf44ks5l2c5oiq44gz44kl44gf44kb44gu57ch5y2y44gq5pa55rov/"><u>ビデオコンテンツから高品質な写真を作成するための簡単な方法</u></a></li>
+<li><a href="https://win-latest.techidaily.com/44ov44kp44oi44cm44ot44oh44kq44ko44oh44kj44k44o844cn44gn5yuv55s757wx5zci5asx5pwx5pmc44gu5aplusplus5yem5rov77ya5a6m5ywo44ks44kk44oj/"><u>フォト「ビデオエディター」で動画統合失敗時の対処法：完全ガイド</u></a></li>
+</ul></div>
+
