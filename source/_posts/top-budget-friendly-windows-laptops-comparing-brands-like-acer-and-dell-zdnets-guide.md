@@ -1,7 +1,7 @@
 ---
 title: "Top Budget-Friendly Windows Laptops: Comparing Brands Like Acer & Dell | ZDNet's Guide"
-date: 2024-09-17T17:15:31.185Z
-updated: 2024-09-20T18:52:20.624Z
+date: 2024-09-24T22:56:32.276Z
+updated: 2024-09-25T21:29:35.061Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -48,13 +55,6 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -62,10 +62,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -73,6 +73,13 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -91,18 +98,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -147,5 +154,19 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-playstation-4-guide-to-perfect-gameplay-recording/"><u>2024 Approved The Ultimate PlayStation 4 Guide to Perfect Gameplay Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unleash-creativity-androids-leading-drawing-software-selection/"><u>2024 Approved Unleash Creativity Android's Leading Drawing Software Selection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-for-videos-vlc-or-mx-for-2024/"><u>Best for Videos VLC or MX for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-overview-dji-inspire-2/"><u>Comprehensive Overview - DJI Inspire 2</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy M34 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-note-12-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Redmi Note 12 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/is-investing-in-chatgpt-plus-over-chatgpt-worth-it-expert-insights-from-zdnet/"><u>Is Investing in ChatGPT Plus Over ChatGPT Worth It? Expert Insights From ZDNET</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-windows-11-vm-setup-a-comprehensive-guide-techtips-by-zdnet/"><u>Mastering Windows 11 VM Setup: A Comprehensive Guide - TechTips by ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/meeting-mayhem-reimagined-how-microsofts-innovation-could-up-the-ante-for-unproductivity-insights-from-zdnet/"><u>Meeting Mayhem Reimagined: How Microsoft's Innovation Could Up the Ante for Unproductivity - Insights From ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/microsoft-launches-copilot-lab-enhancing-user-experience-with-advanced-ai-assistance-technews/"><u>Microsoft Launches Copilot Lab, Enhancing User Experience with Advanced AI Assistance - TechNews</u></a></li>
+<li><a href="https://win-latest.techidaily.com/office-managers-frustration-with-staff-microsoft-teams-usage-leads-to-tension-and-missteps/"><u>Office Manager's Frustration with Staff Microsoft Teams Usage Leads to Tension and Missteps</u></a></li>
+</ul></div>
 
