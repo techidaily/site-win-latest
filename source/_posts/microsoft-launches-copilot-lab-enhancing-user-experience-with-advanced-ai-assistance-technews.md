@@ -1,7 +1,7 @@
 ---
 title: Microsoft Launches Copilot Lab, Enhancing User Experience with Advanced AI Assistance - TechNews
-date: 2024-09-21T16:26:52.210Z
-updated: 2024-09-25T16:08:24.618Z
+date: 2024-09-24T16:03:09.057Z
+updated: 2024-09-30T16:06:25.058Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>[New] In 2024, Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-fresh-content-massive-traction-secrets-to-a-thriving-insta-account/"><u>[Updated] Fresh Content, Massive Traction Secrets to a Thriving Insta Account</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-accelerate-your-arts-journey-with-these-7-nft-converters/"><u>2024 Approved Accelerate Your Art's Journey with These 7 NFT Converters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-cameras-for-face-viewing-easy-access/"><u>2024 Approved Best Cameras for Face Viewing Easy Access</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-why-your-black-ops-cold-war-voice-communication-isnt-functioning/"><u>Fixing Issues: Why Your Black Ops Cold War Voice Communication Isn't Functioning?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-handle-lameencdll-failures-in-audacitys-mp3-conversion/"><u>How to Correctly Handle lame_enc.dll Failures in Audacity's MP3 Conversion</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-complete-guide-to-youtubes-movie-maker-features/"><u>In 2024, The Complete Guide to YouTube's Movie Maker Features</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-converting-and-saving-gaskrank-tv-shows-in-multiple-formats/"><u>Step-by-Step Guide to Converting and Saving Gaskrank TV Shows in Multiple Formats</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-saving-vimeo-on-demand-content-as-high-quality-video-files-in-various-players-preferred-codecs/"><u>Step-by-Step Tutorial for Saving Vimeo On Demand Content as High-Quality Video Files in Various Players' Preferred Codecs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/streaming-battle-royale-analyzing-deezers-edge-over-spotify-in-the-digital-age/"><u>Streaming Battle Royale: Analyzing Deezer's Edge Over Spotify in the Digital Age</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-replacement-for-dxtory-on-mac-and-pc-discover-allavsoft/"><u>Top Replacement for Dxtory on Mac & PC: Discover Allavsoft</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-music-magic-for-instagram-a-guide/"><u>[New] 2024 Approved Music Magic for Instagram A Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-pinnacle-performance-the-best-8k-camera-technology/"><u>[Updated] In 2024, Pinnacle Performance The Best 8K Camera Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guia-completo-para-personalizar-seu-gif-com-texto-metodos-supremos-e-otimizados-para-google/"><u>Guia Completo Para Personalizar Seu GIF Com Texto: Métodos Supremos E Otimizados Para Google</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-15-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 15 Pro Max System Issues? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-connexent-drivers-on-your-windows-11-version-2004-system-today/"><u>Install Connexent Drivers on Your Windows 11 Version 2004 System Today!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-streaming-netflix-possible-on-nintendo-switch-platform/"><u>Is Streaming Netflix Possible on Nintendo Switch Platform?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/new-survey-reveals-over-half-of-executives-demand-ai-proficiency-in-job-candidates-zdnet-insights/"><u>New Survey Reveals: Over Half of Executives Demand AI Proficiency in Job Candidates | ZDNet Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/timeframe-tension-why-does-chatgpt-4-take-longer/"><u>Timeframe Tension: Why Does ChatGPT-4 Take Longer?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transforming-heic-images-into-jpg-format-on-your-ios-devices/"><u>Transforming HEIC Images Into JPG Format on Your iOS Devices</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-new-functionalities-the-latest-windows-11-updates-detailed-by-zdnet/"><u>Unveiling New Functionalities: The Latest Windows ˈ11 Updates Detailed by ZDNET</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-the-hidden-gems-microsofts-best-kept-secrets-in-surface-props-now-aimed-at-enterprise-techinsight/"><u>Unveiling the Hidden Gems: Microsoft's Best-Kept Secrets in Surface Props Now Aimed at Enterprise | TechInsight</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-the-latest-microsoft-365-copilot-ai-enhancements-discover-and-utilize-these-powerful-tools-zdnet/"><u>Unveiling the Latest Microsoft 365 Copilot AI Enhancements: Discover & Utilize These Powerful Tools | ZDNet</u></a></li>
 </ul></div>
 

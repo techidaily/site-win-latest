@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Relationship Between OpenAI & Microsoft: Strategic Collaboration or Cutthroat Competition?"
-date: 2024-09-20T18:34:50.553Z
-updated: 2024-09-25T21:56:23.395Z
+date: 2024-09-29T16:13:30.462Z
+updated: 2024-09-30T16:13:16.470Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-apeaks-leap-forward-in-screen-capture-review-and-results/"><u>[New] Apeak’s Leap Forward in Screen Capture – Review and Results</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-poll-power-play-best-election-strategy-games/"><u>[New] Poll Power Play Best Election Strategy Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-yt-thumbnail-design-for-enhanced-views/"><u>[Updated] Mastering YT Thumbnail Design for Enhanced Views</u></a></li>
-<li><a href="https://win-latest.techidaily.com/dvd-mpgmpeg-2mpeg-4-dvd/"><u>簡単DVDコンバート MPG、MPEG-2、MPEG-4 - DVD保存無劣化</u></a></li>
-<li><a href="https://win-latest.techidaily.com/filmora/"><u>簡単な手順で、Filmoraの無料版からロゴを取り外す方法</u></a></li>
-<li><a href="https://win-latest.techidaily.com/5lia5bqm44gr5ywo44oq44k544oi44ks44oa44km44oz44ot44o844oj77ya44ol44kz44ol44kz5yuv55s744cm44oe44kk44oq44k544oi44cn44gu5yq5546h55qe44gq5lplusd5a2y5pa55rov/"><u>一度に全リストをダウンロード：ニコニコ動画「マイリスト」の効率的な保存方法</u></a></li>
-<li><a href="https://win-latest.techidaily.com/a-step-by-step-guide-to-mastering-the-free-swf-video-converter-factory/"><u>A Step-by-Step Guide to Mastering the Free SWF Video Converter Factory</u></a></li>
-<li><a href="https://win-latest.techidaily.com/best-free-m2ts-media-players-uncomplicated-watching-and-editing-options-for-your-m2ts-videos/"><u>Best Free M2TS Media Players: Uncomplicated Watching and Editing Options for Your .M2Ts Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-all-that-the-3rd-gen-echo-dot-can-do-with-built-in-alexa-assistant-a-comprehensive-review/"><u>Discover All That the 3Rd Gen Echo Dot Can Do with Built-In Alexa Assistant – A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elgoog-examined-an-in-depth-analysis-of-googles-funny-twin/"><u>ElgooG Examined: An In-Depth Analysis of Google's Funny Twin</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-iphone-photos-with-hdr/"><u>Enhancing iPhone Photos with HDR</u></a></li>
-<li><a href="https://win-latest.techidaily.com/enjoy-uninterrupted-anime-viewing-three-effective-techniques-to-eliminate-commercials/"><u>Enjoy Uninterrupted Anime Viewing: Three Effective Techniques to Eliminate Commercials</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Meizu Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-magic-5-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor Magic 5 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/m4a-wav-5/"><u>M4A WAV変換が簡単に! 世界中のユーザーも愛しているベスト5フリーオーディオコンバーターソフト</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-format-transitions-how-to-switch-between-different-media-files-easily/"><u>Mastering Format Transitions: How to Switch Between Different Media Files Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-geforce-experience-launch-problems-a-comprehensive-fix-guide/"><u>Resolving GeForce Experience Launch Problems: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/44ov44kp44oi44cm44ot44oh44kq44ko44oh44kj44k44o844cn44gn5yuv55s757wx5zci5asx5pwx5pmc44gu5aplusplus5yem5rov77ya5a6m5ywo44ks44kk44oj/"><u>フォト「ビデオエディター」で動画統合失敗時の対処法：完全ガイド</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-your-youtube-with-partner-videos/"><u>[Updated] In 2024, Boosting Your YouTube with Partner Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-for-enhancing-livestream-quality/"><u>2024 Approved Innovative Techniques for Enhancing Livestream Quality</u></a></li>
+<li><a href="https://win-latest.techidaily.com/access-anywhere-learn-anytime-converting-online-education-into-downloadable-content-for-windows-and-mac-users/"><u>Access Anywhere, Learn Anytime: Converting Online Education Into Downloadable Content for Windows & Mac Users</u></a></li>
+<li><a href="https://win-latest.techidaily.com/access-top-quality-concert-footage-at-no-cost-exclusive-virtual-concert-archive/"><u>Access Top-Quality Concert Footage at No Cost: Exclusive Virtual Concert Archive</u></a></li>
+<li><a href="https://win-latest.techidaily.com/downloading-facebook-videos-into-mp4-format-a-guide-for-windows-and-mac-users/"><u>Downloading Facebook Videos Into MP4 Format: A Guide for Windows & Mac Users</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-guide-to-downloading-your-favorite-music-from-songslover-in-mp3-format/"><u>Easy Guide to Downloading Your Favorite Music From SongsLover in MP3 Format</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-measures-to-solve-winscomrsvc-failures-on-devices/"><u>Effective Measures to Solve WinscomrsVc Failures on Devices</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effortless-mp4mov-download-of-popular-anime-shows-secure-and-legal-streaming-alternatives/"><u>Effortless MP4/MOV Download of Popular Anime Shows – Secure and Legal Streaming Alternatives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elemental-story-articulation/"><u>Elemental Story Articulation</u></a></li>
+<li><a href="https://win-latest.techidaily.com/extract-nponl-videos-in-multiple-formats-get-mp4-wmv-mov-avi-flv-on-windows-and-macos/"><u>Extract npo.nl Videos in Multiple Formats: Get MP4, WMV, MOV, AVI, FLV on Windows and MacOS</u></a></li>
+<li><a href="https://win-latest.techidaily.com/free-downloads-convert-dekho-na-into-various-formats-mp3-wav-aac-flac-and-more/"><u>Free Downloads: Convert 'Dekho Na' Into Various Formats - MP3, WAV, AAC, FLAC & More!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/get-your-favorite-episodes-from-9now-with-ease-formerly-known-as-9jumpin-downloader/"><u>Get Your Favorite Episodes From 9Now with Ease, Formerly Known as 9Jumpin Downloader!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-lava-blaze-2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Lava Blaze 2 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/journey-through-the-metaverse-6-illustrative-examples/"><u>Journey Through the Metaverse 6 Illustrative Examples</u></a></li>
+<li><a href="https://facebook.techidaily.com/switching-your-facebook-page-for-a-modern-identity/"><u>Switching Your Facebook Page for a Modern Identity</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-kinemaster-way-to-enthralling-transitions/"><u>The Kinemaster Way to Enthralling Transitions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-dxgkrnl-fatal-error-blue-screen-on-windows-11-fixed/"><u>Video Dxgkrnl Fatal Error Blue Screen on Windows 11 [Fixed]</u></a></li>
 </ul></div>
 

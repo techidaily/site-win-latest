@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Faces Major Challenge with Windows 11: Just One Year Remaining to Find Solution | TechNewsZDNet"
-date: 2024-09-18T23:56:21.790Z
-updated: 2024-09-25T16:57:19.650Z
+date: 2024-09-23T16:11:45.704Z
+updated: 2024-09-30T16:00:12.223Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,16 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -193,20 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exporting-frames-as-images-in-windows-10-photos-viewer/"><u>[New] Exporting Frames as Images in Windows 10 Photos Viewer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-boost-creativity-and-engagement-10-best-sources-of-free-slide-show-patterns/"><u>[New] In 2024, Boost Creativity and Engagement - 10 Best Sources of Free Slide Show Patterns</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-choreographing-gripping-podcast-openings/"><u>[New] In 2024, Choreographing Gripping Podcast Openings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-how-to-solve-windows-10-photos-app-crashes-effectively/"><u>[Updated] 2024 Approved How to Solve Windows 10 Photos App Crashes Effectively</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps-for-2024/"><u>[Updated] Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-complete-guide-to-creating-impactful-snapshots/"><u>[Updated] In 2024, The Complete Guide to Creating Impactful Snapshots</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-minecraft-shaping-mastery-crafting-circles-and-spheres-for-2024/"><u>[Updated] Minecraft Shaping Mastery Crafting Circles & Spheres for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/bid-farewell-to-chaotic-email-overload-discover-how-one-trick-can-streamline-your-messages-featuring-zdnets-proven-method/"><u>Bid Farewell to Chaotic Email Overload: Discover How One Trick Can Streamline Your Messages, Featuring ZDNET's Proven Method</u></a></li>
-<li><a href="https://win-latest.techidaily.com/boosting-performance-and-security-the-benefits-of-upgrading-to-windows-professional-on-your-laptop-or-desktop/"><u>Boosting Performance & Security: The Benefits of Upgrading to Windows Professional on Your Laptop or Desktop</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/designing-your-own-minecraft-textures-using-stable-diffusion-techniques-easy-tutorial-for-beginners/"><u>Designing Your Own Minecraft Textures Using Stable Diffusion Techniques - Easy Tutorial for Beginners</u></a></li>
-<li><a href="https://win-latest.techidaily.com/future-directions-at-microsoft-groundbreaking-initiatives-transforming-cloud-services-ad-platforms-and-device-connectivity/"><u>Future Directions at Microsoft: Groundbreaking Initiatives Transforming Cloud Services, Ad Platforms & Device Connectivity.</u></a></li>
-<li><a href="https://win-latest.techidaily.com/great-news-from-southwest-airlines-all-are-welcome-just-not-mr-microsoft/"><u>Great News From Southwest Airlines: All Are Welcome, Just Not Mr. Microsoft!</u></a></li>
-<li><a href="https://win-latest.techidaily.com/stream-with-confidence-mastering-the-art-of-action-oriented-live-broadcasts/"><u>Stream with Confidence: Mastering the Art of Action-Oriented Live Broadcasts</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-play-40c-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor Play 40C Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-guide-mastering-the-art-of-snipping-movies-and-videos-on-windows-with-easy-steps/"><u>Ultimate Guide: Mastering the Art of Snipping Movies & Videos on Windows with Easy Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-full-overview-of-installing-wm6/"><u>[New] 2024 Approved Full Overview of Installing WM6</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premium-capture-suite-chromebook-focus/"><u>[Updated] 2024 Approved Premium Capture Suite Chromebook Focus</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secure-your-insta-reels-with-simple-download-strategies/"><u>[Updated] Secure Your Insta Reels with Simple Download Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-laying-the-foundation-of-zoom-room-use/"><u>2024 Approved Laying the Foundation of Zoom Room Use</u></a></li>
+<li><a href="https://win-latest.techidaily.com/countdown-begins-for-microsofts-major-crisis-in-windows-10-solutions-within-a-year-zdnet-reports/"><u>Countdown Begins for Microsoft's Major Crisis in Windows 10 | Solutions Within a Year? ZDNET Reports</u></a></li>
+<li><a href="https://win-latest.techidaily.com/defying-the-odds-successful-windows-11-installation-on-ineligible-pcs-real-life-examples-zdnet/"><u>Defying the Odds: Successful Windows 11 Installation on Ineligible PCs - Real-Life Examples | ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effortless-file-transfer-sharing-documents-between-your-pc-and-android-devices-using-google-quick-share-a-step-by-step-guide/"><u>Effortless File Transfer: Sharing Documents Between Your PC & Android Devices Using Google Quick Share - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-constant-crashes-a-users-manual-for-pacifc-drive-errors-on-windows-systems/"><u>Fixing Constant Crashes: A User's Manual for Pacifc Drive Errors on Windows Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy XCover 6 Pro Tactical Edition to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-infinix-note-30-pro-easily-by-drfone-android/"><u>How To Unlock a Infinix Note 30 Pro Easily?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone X</u></a></li>
+<li><a href="https://win-latest.techidaily.com/maximize-pc-performance-how-the-hidden-feature-in-windows-11-quickly-ends-frozen-programs/"><u>Maximize PC Performance: How the Hidden Feature in Windows 11 Quickly Ends Frozen Programs</u></a></li>
+<li><a href="https://win-latest.techidaily.com/optimal-user-account-selection-for-windows-11-installation-explained-smarttechguide/"><u>Optimal User Account Selection for Windows 11 Installation Explained | SmartTechGuide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-method-for-joining-your-bluetooth-sound-system/"><u>The Ultimate Method for Joining Your Bluetooth Sound System</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-budget-friendly-windows-laptop-picks-how-acer-dell-and-others-stack-up-zdnet/"><u>Top Budget-Friendly Windows Laptop Picks: How Acer, Dell & Others Stack Up - ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-budget-friendly-windows-laptops-comparing-brands-like-acer-and-dell-zdnets-guide/"><u>Top Budget-Friendly Windows Laptops: Comparing Brands Like Acer & Dell | ZDNet's Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-rated-gaming-seats-the-ultimate-guide-techradar/"><u>Top-Rated Gaming Seats : The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://win-latest.techidaily.com/understanding-the-role-of-a-tpm-in-enabling-windows-11-a-comprehensive-guide/"><u>Understanding the Role of a TPM in Enabling Windows 11: A Comprehensive Guide</u></a></li>
 </ul></div>
 

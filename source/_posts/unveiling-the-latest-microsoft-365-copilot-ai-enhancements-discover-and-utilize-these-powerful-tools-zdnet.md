@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest Microsoft 365 Copilot AI Enhancements: Discover & Utilize These Powerful Tools | ZDNet"
-date: 2024-09-18T18:54:49.758Z
-updated: 2024-09-25T16:19:19.223Z
+date: 2024-09-29T16:02:34.413Z
+updated: 2024-09-30T16:02:28.405Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/oosting-clickthrough-rates-with-attention-grabbing-youtube-thumbnails-for-2024/"><u>[New] Boosting Clickthrough Rates with Attention-Grabbing YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beats-and-banners-discovering-premium-dj-templates/"><u>[Updated] 2024 Approved Beats & Banners Discovering Premium DJ Templates</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-youtube-watch-parties-to-home-auditory-archives/"><u>[Updated] In 2024, From YouTube Watch Parties to Home Auditory Archives</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimize-your-livestream-top-5-best-practices/"><u>[Updated] Optimize Your Livestream Top 5 Best Practices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtube-cc-licensing-for-video-creators/"><u>[Updated] Understanding YouTube CC Licensing for Video Creators</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-15-creative-ventures-to-pursue-while-youre-heeding-stories/"><u>2024 Approved 15 Creative Ventures to Pursue While You're Heeding Stories</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-primer-on-aerial-robots-drone-dynamics-demystified/"><u>A Primer on Aerial Robots Drone Dynamics Demystified</u></a></li>
-<li><a href="https://win-latest.techidaily.com/batch-converting-files-into-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Batch Converting Files Into Ebooks with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/create-interactive-pages-with-buttons-in-your-ebook-learn-how-on-flipbuildercom/"><u>Create Interactive Pages with Buttons in Your eBook: Learn How on FlipBuilder.com</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effective-strategies-for-managing-and-reusing-e-book-themes-with-flipbook/"><u>Effective Strategies for Managing and Reusing E-Book Themes with FlipBook</u></a></li>
-<li><a href="https://win-latest.techidaily.com/email-distribution-tips-for-sharing-flipbooks-with-html-links-discover-how-on-flipbuildercom/"><u>Email Distribution Tips for Sharing FlipBooks with HTML Links - Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-unleash-creative-fb-ad-videos-access-free-video-tools-now/"><u>In 2024, Unleash Creative FB Ad Videos - Access FREE Video Tools Now</u></a></li>
-<li><a href="https://win-latest.techidaily.com/interactive-flash-creation-from-ppts-seamless-conversion-using-flipstudio-pro/"><u>Interactive Flash Creation From PPTs - Seamless Conversion Using FlipStudio Pro</u></a></li>
-<li><a href="https://win-latest.techidaily.com/intuitive-multilingual-layouts-with-tailored-templates-on-flipbuildercom-elevate-your-contents-clarity-and-reach/"><u>Intuitive, Multilingual Layouts with Tailored Templates on FlipBuilder.com - Elevate Your Content's Clarity and Reach</u></a></li>
-<li><a href="https://win-latest.techidaily.com/transform-your-presentations-into-interactive-ebooks-a-step-by-step-guide-with-flipbuilder/"><u>Transform Your Presentations Into Interactive eBooks: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-prove-your-skills-with-flawless-ps4-screen-capture-for-gamers/"><u>[New] 2024 Approved Prove Your Skills with Flawless PS4 Screen Capture for Gamers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-exploring-legal-restrictions-for-broadcasting-content-online/"><u>[New] In 2024, Exploring Legal Restrictions for Broadcasting Content Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-start-participating-in-google-webinars/"><u>[Updated] 2024 Approved How To Start Participating in Google Webinars</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expertly-navigating-the-world-of-audio-hijacking-leading-replacements-on-mac-os-x-and-windows-systems/"><u>Expertly Navigating the World of Audio Hijacking: Leading Replacements on MAC OS X and Windows Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://win-latest.techidaily.com/get-your-daily-laughs-download-funny-clips-as-mp4movaviflv-files-today/"><u>Get Your Daily Laughs: Download Funny Clips as MP4/MOV/AVI/FLV Files Today!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-11x-5g-by-drfone-android/"><u>How to Bypass FRP on Realme 11X 5G?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-chrome-from-firewall-settings-on-windows-1011/"><u>How to Unblock Chrome From Firewall Settings on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-15-youtube-video-ideas-for-musicians/"><u>In 2024, 15 YouTube Video Ideas for Musicians</u></a></li>
+<li><a href="https://win-latest.techidaily.com/leading-websites-offering-culinary-training-videos-a-comprehensive-review-with-steps-to-save-and-access-without-internet/"><u>Leading Websites Offering Culinary Training Videos: A Comprehensive Review with Steps to Save and Access Without Internet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-converting-and-saving-gaskrank-tv-shows-in-multiple-formats/"><u>Step-by-Step Guide to Converting and Saving Gaskrank TV Shows in Multiple Formats</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-converting-total-workout-sessions-into-mp4mp3mov-formats/"><u>Step-by-Step Guide: Converting Total Workout Sessions Into MP4/MP3/MOV Formats</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-saving-vimeo-on-demand-content-as-high-quality-video-files-in-various-players-preferred-codecs/"><u>Step-by-Step Tutorial for Saving Vimeo On Demand Content as High-Quality Video Files in Various Players' Preferred Codecs</u></a></li>
+<li><a href="https://win-latest.techidaily.com/streaming-battle-royale-analyzing-deezers-edge-over-spotify-in-the-digital-age/"><u>Streaming Battle Royale: Analyzing Deezer's Edge Over Spotify in the Digital Age</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-10-gratuitous-video-chats-with-desktop-viewing-for-2024/"><u>Top 10 Gratuitous Video Chats with Desktop Viewing for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-replacement-for-dxtory-on-mac-and-pc-discover-allavsoft/"><u>Top Replacement for Dxtory on Mac & PC: Discover Allavsoft</u></a></li>
 </ul></div>
 

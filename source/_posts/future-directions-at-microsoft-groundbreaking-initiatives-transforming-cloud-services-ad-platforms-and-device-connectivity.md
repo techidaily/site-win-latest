@@ -1,7 +1,7 @@
 ---
 title: "Future Directions at Microsoft: Groundbreaking Initiatives Transforming Cloud Services, Ad Platforms & Device Connectivity."
-date: 2024-09-20T22:18:29.255Z
-updated: 2024-09-25T20:27:51.785Z
+date: 2024-09-24T16:02:19.997Z
+updated: 2024-09-30T16:00:21.376Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-strategizing-for-success-the-essential-guide-to-online-individuality/"><u>[New] In 2024, Strategizing for Success The Essential Guide to Online Individuality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-skaldic-tales-ragnarok-reborn-for-2024/"><u>[New] Skaldic Tales Ragnarök Reborn for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-android-screen-captures/"><u>[Updated] Mastering Android Screen Captures</u></a></li>
-<li><a href="https://win-able.techidaily.com/4-mtsm2ts/"><u>上位4つの推奨編集プログラム: MTS/M2TSに最適な無料ソフト</u></a></li>
-<li><a href="https://win-latest.techidaily.com/adding-a-flipbook-feature-to-your-website-tips-and-tricks-with-flipbuilder-tools/"><u>Adding a FlipBook Feature to Your Website - Tips & Tricks with FlipBuilder Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-pop-7-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Pop 7 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-reorder-images-during-the-flipbook-creation-process-on-flipbuildercom/"><u>How to Reorder Images During the FlipBook Creation Process on FlipBuilder.com</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-send-your-flash-created-pdf-files-from-flipbuilder-by-email-efficiently/"><u>How to Send Your Flash-Created PDF Files From FlipBuilder by Email Efficiently</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-share-your-created-flipbooks-in-zip-formats-using-flipbuilder/"><u>How to Share Your Created Flipbooks in .zip Formats Using FlipBuilder</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-7-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 7 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/master-the-art-of-subtitlecc-integration-in-youtube-with-this-guide/"><u>Master the Art of Subtitle/CC Integration in YouTube with This Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/skypes-sound-solution-purifying-your-talks/"><u>Skype's Sound Solution Purifying Your Talks</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-3-methods-for-optimizing-your-videos-how-to-seamlessly-compress-for-whatsapp/"><u>Top 3 Methods for Optimizing Your Videos: How to Seamlessly Compress for WhatsApp</u></a></li>
-<li><a href="https://win-latest.techidaily.com/transform-your-pdfs-into-interactive-e-magazines-with-advanced-media-integration-flipbuildercom/"><u>Transform Your PDFs Into Interactive E-Magazines with Advanced Media Integration [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-latest.techidaily.com/transform-your-presentations-into-interactive-ebooks-a-step-by-step-guide-with-flipbuilder/"><u>Transform Your Presentations Into Interactive eBooks: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-hd-video-editor-app-beginner-friendly-no-cost-tutorials-and-features/"><u>Ultimate HD Video Editor App: Beginner-Friendly, No Cost Tutorials & Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-iphone-guide-engage-with-audio-content-seamlessly/"><u>[New] 2024 Approved IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-amplifying-photos-through-acoustics-internet-based/"><u>[New] Amplifying Photos Through Acoustics, Internet-Based</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-briskly-building-your-own-google-collages/"><u>[New] Briskly Building Your Own Google Collages</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-can-i-stream-in-hd-1080p-on-facebook/"><u>[Updated] 2024 Approved How Can I Stream in HD 1080P on Facebook?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-tailored-techniques-to-cut-off-unwanted-youtube-content-on-devices/"><u>[Updated] 2024 Approved Tailored Techniques to Cut Off Unwanted YouTube Content on Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system-for-2024/"><u>[Updated] Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-how-to-use-the-teaching-channel-downloader-app-your-ultimate-guide-to-access-educational-videos/"><u>1. 'How to Use the Teaching Channel Downloader App - Your Ultimate Guide to Access Educational Videos'</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-streaming-to-storage-effortless-mp3-conversion-from-radiocom/"><u>1) Streaming to Storage: Effortless MP3 Conversion From Radio.com</u></a></li>
+<li><a href="https://win-latest.techidaily.com/best-free-music-download-sites-top-10-picks-and-reviews-plus-ultimate-guide-to-safe-mp3s/"><u>Best Free Music Download Sites: Top 10 Picks & Reviews + Ultimate Guide to Safe MP3s</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-issues-on-windows-n-no-more-a-guide-for-gamers/"><u>Cyberpunk 2077 Sound Issues on Windows N-No More: A Guide for Gamers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/sive-hd-benefits-turn-on-av1-in-youtube-settings/"><u>Exclusive HD Benefits Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixes-for-faded-colors-and-twisted-graphics-on-computer-screens-an-easy-diy-approach/"><u>Fixes for Faded Colors and Twisted Graphics on Computer Screens: An Easy DIY Approach</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/multi-format-audio-converter-change-caf-files-into-wav-mp3-m4a-aiff-aac-with-just-one-tool/"><u>Multi-Format Audio Converter: Change CAF Files Into WAV, MP3, M4A, AIFF, AAC with Just One Tool</u></a></li>
+<li><a href="https://win-latest.techidaily.com/securely-transfer-hot-movies-and-porn-from-mofos-as-high-quality-videos-mp4-mov-avi/"><u>Securely Transfer Hot Movies and Porn From Mofos as High-Quality Videos (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-downloading-content-from-kissasianes/"><u>Step-by-Step Guide: Downloading Content From KissAsian.es</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-process-of-downloading-and-transforming-raywenderlich-series-from-video-to-mp4-or-mov-on-windowsmac-os/"><u>Step-by-Step Process of Downloading and Transforming Raywenderlich Series From Video to MP4 or MOV on Windows/Mac OS</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-accessing-nfhs-training-footage-on-both-mac-and-windows/"><u>Step-by-Step Tutorial for Accessing NFHS Training Footage on Both Mac and Windows</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-4-lynda-replacements-offering-quality-skills-training/"><u>Top 4 Lynda Replacements Offering Quality Skills Training</u></a></li>
 </ul></div>
 

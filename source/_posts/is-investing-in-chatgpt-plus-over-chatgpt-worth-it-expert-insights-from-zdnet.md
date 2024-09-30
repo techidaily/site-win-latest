@@ -1,7 +1,7 @@
 ---
 title: Is Investing in ChatGPT Plus Over ChatGPT Worth It? Expert Insights From ZDNET
-date: 2024-09-18T21:05:20.412Z
-updated: 2024-09-26T01:35:18.156Z
+date: 2024-09-26T16:01:53.435Z
+updated: 2024-09-30T16:05:09.178Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -95,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -141,34 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -214,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-how-to-download-tiktok-musically-videos-quickly/"><u>[Updated] In 2024, How to Download TikTok (Musical.ly) Videos Quickly?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-step-further-in-animation-innovative-techniques-using-movie-maker-for-2024/"><u>A Step Further in Animation Innovative Techniques Using Movie Maker for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/capturing-honesty-a-comprehensive-guide-to-insta-self-verification/"><u>Capturing Honesty A Comprehensive Guide to Insta Self-Verification</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-to-repairing-the-malfunctioning-msi-enchantment-light-on-pcs/"><u>Expert Guide to Repairing the Malfunctioning MSI Enchantment Light on PCs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/get-your-oracle-training-materials-free-course-downloads-and-educational-videos/"><u>Get Your Oracle Training Materials: Free Course Downloads and Educational Videos</u></a></li>
-<li><a href="https://win-latest.techidaily.com/guide-downloading-nfhs-network-videos-efficiently-on-pc-and-macos/"><u>Guide: Downloading NFHS Network Videos Efficiently on PC & macOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 Plus to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-11-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme 11 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mastering-the-name-game-for-top-podcast-titles/"><u>Mastering the Name Game for Top Podcast Titles</u></a></li>
-<li><a href="https://win-latest.techidaily.com/multi-format-audio-converter-change-caf-files-into-wav-mp3-m4a-aiff-aac-with-just-one-tool/"><u>Multi-Format Audio Converter: Change CAF Files Into WAV, MP3, M4A, AIFF, AAC with Just One Tool</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-redmi-12-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Redmi 12, is it possible?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/securely-transfer-hot-movies-and-porn-from-mofos-as-high-quality-videos-mp4-mov-avi/"><u>Securely Transfer Hot Movies and Porn From Mofos as High-Quality Videos (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-downloading-content-from-kissasianes/"><u>Step-by-Step Guide: Downloading Content From KissAsian.es</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-process-of-downloading-and-transforming-raywenderlich-series-from-video-to-mp4-or-mov-on-windowsmac-os/"><u>Step-by-Step Process of Downloading and Transforming Raywenderlich Series From Video to MP4 or MOV on Windows/Mac OS</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-accessing-nfhs-training-footage-on-both-mac-and-windows/"><u>Step-by-Step Tutorial for Accessing NFHS Training Footage on Both Mac and Windows</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-4-lynda-replacements-offering-quality-skills-training/"><u>Top 4 Lynda Replacements Offering Quality Skills Training</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-best-twitter-tools-for-purifying-and-personalizing-your-timeline-for-2024/"><u>[Updated] Best Twitter Tools for Purifying & Personalizing Your Timeline for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-se-2020-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone SE (2020)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/descargar-gratuitamente-convertidor-de-archivos-audio-cambiar-mp3-a-flv-con-movavi/"><u>Descargar Gratuitamente Convertidor De Archivos Audio: Cambiar MP3 a FLV Con Movavi</u></a></li>
+<li><a href="https://win-latest.techidaily.com/happy-holiday-hacking-score-top-tech-bargains-with-zdnets-guide-to-2cyber-weekend-savings/"><u>Happy Holiday Hacking: Score Top Tech Bargains with ZDNet's Guide to 2#Cyber Weekend Savings !</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-9-proplus-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 9 Pro+ Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-poco-x5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Poco X5 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/integrate-your-work-life-logging-into-windows-11-with-a-microsoft-365-business-account-a-comprehensive-guide/"><u>Integrate Your Work Life: Logging Into Windows 11 with a Microsoft 365 Business Account - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-windows-11-vm-setup-a-comprehensive-guide-techtips-by-zdnet/"><u>Mastering Windows 11 VM Setup: A Comprehensive Guide - TechTips by ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/meeting-mayhem-reimagined-how-microsofts-innovation-could-up-the-ante-for-unproductivity-insights-from-zdnet/"><u>Meeting Mayhem Reimagined: How Microsoft's Innovation Could Up the Ante for Unproductivity - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/quick-steps-for-recording-insta-stories-for-2024/"><u>Quick Steps for Recording Insta Stories for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-poco-c65-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Poco C65 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
 

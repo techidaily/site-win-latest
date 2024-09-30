@@ -1,7 +1,7 @@
 ---
 title: "A Revolutionary Faceoff in Remote Communication: The Rise of the Lip-Reading Challenger Against Microsoft Teams & Zoom | ZDNet"
-date: 2024-09-22T22:29:06.672Z
-updated: 2024-09-25T22:30:42.496Z
+date: 2024-09-29T16:13:22.418Z
+updated: 2024-09-30T16:08:11.939Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -75,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -95,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -128,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,15 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cutting-edge-content-summit/"><u>[Updated] In 2024, Cutting-Edge Content Summit</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-to-convert-any-youtube-video-into-flv-format-on-windows-without-restrictions/"><u>1. How to Convert Any YouTube Video Into FLV Format on Windows Without Restrictions</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726027413856-wma/"><u>無料で最高レベルのWMAプレーヤーを発見！俺たちがおすすめする順位付けランキング</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010331772-banishing-the-blues-in-sea-of-thieves-no-more-crashes/"><u>Banishing the Blues in Sea of Thieves: No More Crashes!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-there-is-a-number-of-software-that-you-can-use-to-achieve-the-manipulation-of-your-files-in-this-way-below-are-five-of-the-most-popular-mpeg-video-joine/"><u>New There Is a Number of Software that You Can Use to Achieve the Manipulation of Your Files in This Way. Below Are Five of the Most Popular MPEG Video Joiners</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-best-mics-on-the-market-for-podcasts/"><u>The Best Mics on the Market, For Podcasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-comfortable-gamepad-guide/"><u>Ultimate Comfortable Gamepad Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726026606330-windows-11/"><u>Windows 11</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726030031556-windows-iphone-android/"><u>オールナイトニッポンの聴き逃しないための完全ガイド: Windows, iPhone, Androidで録音する方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>[Updated] Behind the Screen Samsung UE590 4K, FreeSync Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-progressive-audio-diminishment-via-lumafusion/"><u>2024 Approved Guide to Progressive Audio Diminishment via Lumafusion</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-m54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy M54 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-maximizing-your-youtube-click-through-rate-upload-schedule-insights/"><u>In 2024, Maximizing Your YouTube Click-Through Rate Upload Schedule Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-huawei-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Huawei Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovations-and-powerhouses-the-forefront-gaming-units-of-2024/"><u>Innovations & Powerhouses - The Forefront Gaming Units of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203247138-lost-the-icons-on-your-taskbar-revive-them-with-these-4-secrets-for-windows-11-users/"><u>Lost The ICONS on Your Taskbar? Revive Them with These 4 Secrets for Windows 11 Users!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/making-your-flipbook-content-print-ready-with-easy-steps-at-flipbuilder/"><u>Making Your Flipbook Content Print-Ready with Easy Steps at FlipBuilder</u></a></li>
+<li><a href="https://win-latest.techidaily.com/opening-hyperlinked-pages-from-your-flipbooks-on-different-browser-tabs-the-ultimate-trick/"><u>Opening Hyperlinked Pages From Your Flipbooks on Different Browser Tabs: The Ultimate Trick</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-guide-saving-your-active-flipboard-layout-as-a-reusable-theme/"><u>Quick Guide: Saving Your Active FlipBoard Layout as a Reusable Theme</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-total-war-three-kingdoms-game-crash-problem/"><u>Resolved: Fixing the Total War - Three Kingdoms Game Crash Problem</u></a></li>
+<li><a href="https://win-latest.techidaily.com/secure-your-flipbook-content-with-a-strong-password-a-step-by-step-guide/"><u>Secure Your FlipBook Content with a Strong Password: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-converting-flipboard-content-into-pdf-format/"><u>Step-by-Step Guide: Converting FlipBoard Content Into PDF Format</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-locate-desired-text-with-ease-on-flipbuilder-websites/"><u>Step-by-Step Tutorial: Locate Desired Text with Ease on FlipBuilder Websites</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-complete-blueprint-to-convert-spotify-songs-into-playable-formats-for-2024/"><u>The Complete Blueprint to Convert Spotify Songs Into Playable Formats for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transform-your-images-into-interactive-flipbooks-for-free-batch-photography-album-maker/"><u>Transform Your Images Into Interactive Flipbooks for Free - Batch Photography Album Maker</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-access-issues-why-your-html-ebook-wont-show-on-flipbuildercom/"><u>Troubleshooting Access Issues: Why Your HTML eBook Won't Show on FlipBuilder.com</u></a></li>
 </ul></div>
 

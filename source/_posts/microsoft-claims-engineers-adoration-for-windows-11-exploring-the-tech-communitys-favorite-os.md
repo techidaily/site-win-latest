@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Claims Engineers' Adoration for Windows 11: Exploring the Tech Community's Favorite OS"
-date: 2024-09-18T21:14:23.860Z
-updated: 2024-09-26T00:04:22.942Z
+date: 2024-09-28T16:12:07.334Z
+updated: 2024-09-30T16:06:09.241Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,14 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-prodigy-playgrounds-top-10-roguelike-creations-for-2024/"><u>[Updated] Prodigy Playgrounds Top 10 Roguelike Creations for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/act-fast-windows-11-versions-21h2-and-22h2-hit-end-of-life-upgrade-soon-to-avoid-issues-zdnet-insights/"><u>Act Fast: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life; Upgrade Soon to Avoid Issues - ZDNet Insights</u></a></li>
-<li><a href="https://win-latest.techidaily.com/avoid-these-common-mistakes-in-streamlining-windows-systems-zdnets-expert-advice/"><u>Avoid These Common Mistakes in Streamlining Windows Systems | ZDNet's Expert Advice</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/must-have-mac-frame-captures-handbook-limited-to-156-characters/"><u>Must-Have Mac Frame Captures Handbook (Limited to 156 Characters)</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unlock-advanced-touchpad-shortcuts-essential-tips-for-seasoned-professionals-revealed-by-zdnet/"><u>Unlock Advanced Touchpad Shortcuts: Essential Tips for Seasoned Professionals Revealed by ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-15-pro-max-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 15 Pro Max Before the Plan Expires</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unlocking-windows-secrets-how-a-microsoft-internal-test-tool-reveals-hidden-functionality-insights-from-zdnet/"><u>Unlocking Windows Secrets: How a Microsoft Internal Test Tool Reveals Hidden Functionality - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-audio-outliers-best-sound-distortion-apps-for-your-device/"><u>[New] In 2024, Audio Outliers Best Sound Distortion Apps for Your Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-from-zero-to-live-streaming-hero-essential-tips-and-tricks/"><u>[New] In 2024, From Zero to Live-Streaming Hero Essential Tips and Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-deconstructing-the-features-of-djis-quadcopter-model-3/"><u>[Updated] Deconstructing the Features of DJI's Quadcopter Model 3</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-zooms-best-audio-practices-2-simple-steps-to-enhanced-quality-for-2024/"><u>[Updated] Zoom's Best Audio Practices 2 Simple Steps to Enhanced Quality for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/chrome-troubleshooting-resolving-page-loading-problems/"><u>Chrome Troubleshooting: Resolving Page Loading Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-computing-with-toms-hardware-expertise/"><u>Dive Into Computing with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Civi 3 Disney 100th Anniversary Edition to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevating-your-channels-ranking-simple-strategies-unveiled/"><u>In 2024, Elevating Your Channel's Ranking Simple Strategies Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/lenslimits-how-to-manage-ig-picture-dimensions-for-2024/"><u>LensLimits How to Manage IG Picture Dimensions for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mp4movavivegas-pro/"><u>MP4・MOV・AVIなどの動画形式を処理できるようにするVEGAS Proの解決策</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-3-methods-for-optimizing-your-videos-how-to-seamlessly-compress-for-whatsapp/"><u>Top 3 Methods for Optimizing Your Videos: How to Seamlessly Compress for WhatsApp</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-guide-compress-videos-down-to-1-2gb-with-no-cost-solutions/"><u>Ultimate Guide: Compress Videos Down to 1-2GB with No Cost Solutions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-guide-convert-your-webm-files-into-high-quality-mp4-videos-instantly/"><u>Ultimate Guide: Convert Your WebM Files Into High-Quality MP4 Videos Instantly</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-hd-video-editor-app-beginner-friendly-no-cost-tutorials-and-features/"><u>Ultimate HD Video Editor App: Beginner-Friendly, No Cost Tutorials & Features</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726027411272-windows-1011wav/"><u>Windows 10/11向けWAV形式ファイル仕様チェック</u></a></li>
+<li><a href="https://win-latest.techidaily.com/zero-cost-ways-to-convert-and-burn-iso-files-to-dvd-in-windows-os-guide-for-10817vista-users/"><u>Zero-Cost Ways to Convert and Burn ISO Files to DVD in Windows OS - Guide for 10/8.1/7/Vista Users</u></a></li>
 </ul></div>
 

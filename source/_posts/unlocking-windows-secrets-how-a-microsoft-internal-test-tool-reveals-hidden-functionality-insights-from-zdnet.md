@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Secrets: How a Microsoft Internal Test Tool Reveals Hidden Functionality - Insights From ZDNet"
-date: 2024-09-23T19:03:22.489Z
-updated: 2024-09-25T21:53:44.429Z
+date: 2024-09-25T16:14:29.142Z
+updated: 2024-09-30T16:13:44.792Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>[Updated] Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/add-a-splash-of-personality-to-your-mac-learn-to-change-folder-colors-today/"><u>Add a Splash of Personality to Your Mac: Learn to Change Folder Colors Today</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/new-survey-reveals-over-half-of-executives-demand-ai-proficiency-in-job-candidates-zdnet-insights/"><u>New Survey Reveals: Over Half of Executives Demand AI Proficiency in Job Candidates | ZDNet Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-mouse-interaction-with-windows-clicklock-feature/"><u>Revamping Mouse Interaction with Windows ClickLock Feature</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-mp4-record-and-assess-guide/"><u>Ultimate MP4 Record & Assess Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unveiling-new-functionalities-the-latest-windows-11-updates-detailed-by-zdnet/"><u>Unveiling New Functionalities: The Latest Windows ˈ11 Updates Detailed by ZDNET</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unveiling-the-hidden-gems-microsofts-best-kept-secrets-in-surface-props-now-aimed-at-enterprise-techinsight/"><u>Unveiling the Hidden Gems: Microsoft's Best-Kept Secrets in Surface Props Now Aimed at Enterprise | TechInsight</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unveiling-the-latest-microsoft-365-copilot-ai-enhancements-discover-and-utilize-these-powerful-tools-zdnet/"><u>Unveiling the Latest Microsoft 365 Copilot AI Enhancements: Discover & Utilize These Powerful Tools | ZDNet</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-toolbox-for-unraveling-instagrams-hidden-data/"><u>[Updated] In 2024, The Ultimate Toolbox for Unraveling Instagram's Hidden Data</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-list-free-best-ios-video-editor-tools/"><u>[Updated] Ultimate List Free, Best iOS Video Editor Tools</u></a></li>
+<li><a href="https://win-latest.techidaily.com/dvd-mpgmpeg-2mpeg-4-dvd/"><u>簡単DVDコンバート MPG、MPEG-2、MPEG-4 - DVD保存無劣化</u></a></li>
+<li><a href="https://win-latest.techidaily.com/filmora/"><u>簡単な手順で、Filmoraの無料版からロゴを取り外す方法</u></a></li>
+<li><a href="https://article-tips.techidaily.com/digital-canvas-delight-premier-apps-for-ipados-artistry-for-2024/"><u>Digital Canvas Delight Premier Apps for iPadOS Artistry for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-job-search-techniques-through-chatgpt/"><u>Enhancing Job Search Techniques Through ChatGPT</u></a></li>
+<li><a href="https://win-latest.techidaily.com/enjoy-uninterrupted-anime-viewing-three-effective-techniques-to-eliminate-commercials/"><u>Enjoy Uninterrupted Anime Viewing: Three Effective Techniques to Eliminate Commercials</u></a></li>
+<li><a href="https://os-tips.techidaily.com/go-off-the-beaten-path-with-apple-maps-exciting-new-feature-unveiled/"><u>Go Off the Beaten Path with Apple Maps: Exciting New Feature Unveiled!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-sculpt-perfect-images-on-youtube-with-right-dimensions-for-2024/"><u>How to Sculpt Perfect Images on YouTube with Right Dimensions for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/m4a-wav-5/"><u>M4A WAV変換が簡単に! 世界中のユーザーも愛しているベスト5フリーオーディオコンバーターソフト</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-format-transitions-how-to-switch-between-different-media-files-easily/"><u>Mastering Format Transitions: How to Switch Between Different Media Files Easily</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mp411-mac-oswindows/"><u>MP4ファイルの中からクリーンなオーディオを抽出するための11個のお得な無料ソフトウェア - Mac OSとWindowsで利用</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-and-easy-steps-transforming-hevch265-videos-into-avi-format/"><u>Quick & Easy Steps: Transforming HEVC/H.265 Videos Into AVI Format</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-guide-converting-flv-files-into-mp3-with-simple-techniques/"><u>Quick Guide: Converting FLV Files Into MP3 with Simple Techniques</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-how-to-conduct-personnel-queries-within-flipbuilders-digital-books/"><u>Step-by-Step Tutorial: How to Conduct Personnel Queries Within Flipbuilder's Digital Books</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-obtaining-the-latest-driver-update-for-amd-ati-radeon-hd-3450/"><u>Step-by-Step Tutorial: Obtaining the Latest Driver Update for AMD ATI Radeon HD 3450</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-affordability-and-functionality-a-look-at-the-mohu-leaf-antenna/"><u>The Perfect Blend of Affordability & Functionality - A Look at the Mohu Leaf Antenna</u></a></li>
+<li><a href="https://win-latest.techidaily.com/pc8/"><u>ストリーミング動画の自由な記録 - PC用最優秀無料ソフト8つ</u></a></li>
 </ul></div>
 

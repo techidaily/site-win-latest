@@ -1,7 +1,7 @@
 ---
 title: Bring Your Eyes Some Relief with Bing Chat's Dark Mode Now Available - Tutorial | ZDNet
-date: 2024-09-21T23:12:41.065Z
-updated: 2024-09-25T23:33:01.484Z
+date: 2024-09-28T16:13:23.391Z
+updated: 2024-09-30T16:10:56.108Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,23 +149,9 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhancing-connectivity-ios-photo-library-and-snapchat-merge/"><u>[New] 2024 Approved Enhancing Connectivity IOS Photo Library & Snapchat Merge</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-money-on-youtube-without-ads/"><u>[New] 2024 Approved How to Make Money on YouTube Without Ads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-captivate-viewers-social-media-strategies-for-youtube-for-2024/"><u>[New] Captivate Viewers Social Media Strategies for YouTube for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-video-recording-and-editing-software-for-new-gamers-for-2024/"><u>Essential Video Recording & Editing Software for New Gamers for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-data-retrieval-tool-restore-lost-data-from-realme-gt-5-240w-by-fonelab-android-recover-data/"><u>Realme Data Retrieval tool – restore lost data from Realme GT 5 (240W)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-the-ultimate-guide-to-siri-enabled-streaming-on-apple-tv-4k/"><u>Review: The Ultimate Guide to Siri-Enabled Streaming on Apple TV 4K</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-converting-flipboard-content-into-pdf-format/"><u>Step-by-Step Guide: Converting FlipBoard Content Into PDF Format</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-locate-desired-text-with-ease-on-flipbuilder-websites/"><u>Step-by-Step Tutorial: Locate Desired Text with Ease on FlipBuilder Websites</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Making It Possible</u></a></li>
-<li><a href="https://win-latest.techidaily.com/transform-your-images-into-interactive-flipbooks-for-free-batch-photography-album-maker/"><u>Transform Your Images Into Interactive Flipbooks for Free - Batch Photography Album Maker</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-access-issues-why-your-html-ebook-wont-show-on-flipbuildercom/"><u>Troubleshooting Access Issues: Why Your HTML eBook Won't Show on FlipBuilder.com</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-guide-why-arent-your-links-functioning-post-flipmaster-ebook-transformation/"><u>Troubleshooting Guide: Why Aren’t Your Links Functioning Post FlipMaster eBook Transformation?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unable-to-download-content-from-flipbuilder-what-are-your-options/"><u>Unable To Download Content From FlipBuilder - What Are Your Options?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleashing-windows-11s-full-visual-potential-with-automatic-hdr-mode-for-2024/"><u>Unleashing Windows 11'S Full Visual Potential with Automatic HDR Mode for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/bid-farewell-to-chaotic-email-overload-discover-how-one-trick-can-streamline-your-messages-featuring-zdnets-proven-method/"><u>Bid Farewell to Chaotic Email Overload: Discover How One Trick Can Streamline Your Messages, Featuring ZDNET's Proven Method</u></a></li>
+<li><a href="https://win-latest.techidaily.com/boosting-performance-and-security-the-benefits-of-upgrading-to-windows-professional-on-your-laptop-or-desktop/"><u>Boosting Performance & Security: The Benefits of Upgrading to Windows Professional on Your Laptop or Desktop</u></a></li>
+<li><a href="https://win-latest.techidaily.com/future-directions-at-microsoft-groundbreaking-initiatives-transforming-cloud-services-ad-platforms-and-device-connectivity/"><u>Future Directions at Microsoft: Groundbreaking Initiatives Transforming Cloud Services, Ad Platforms & Device Connectivity.</u></a></li>
+<li><a href="https://win-latest.techidaily.com/great-news-from-southwest-airlines-all-are-welcome-just-not-mr-microsoft/"><u>Great News From Southwest Airlines: All Are Welcome, Just Not Mr. Microsoft!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-lava-blaze-curve-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Lava Blaze Curve 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/stream-with-confidence-mastering-the-art-of-action-oriented-live-broadcasts/"><u>Stream with Confidence: Mastering the Art of Action-Oriented Live Broadcasts</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/ultimate-tutorial-for-transforming-mov-videos-into-mp4-format-via-vlc-across-windows-and-macos-platforms/"><u>Ultimate Tutorial for Transforming MOV Videos Into MP4 Format via VLC Across Windows & macOS Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-tutorial-implementing-virtualization-with-hyper-v-on-your-windows-10-pc/"><u>Ultimate Tutorial: Implementing Virtualization with Hyper-V on Your Windows 10 PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-gopro-studio-not-working-try-these-top-rated-alternatives-instead/"><u>Updated 2024 Approved GoPro Studio Not Working? Try These Top-Rated Alternatives Instead</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-creation-software-for-mac-edit-enhance-share/"><u>Updated Video Creation Software for Mac Edit, Enhance, Share</u></a></li>
 </ul></div>
 

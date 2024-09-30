@@ -1,7 +1,7 @@
 ---
 title: "Singapore Legal Tech Set to Adopt Microsoft Copilot: An Exclusive Insight"
-date: 2024-09-24T22:38:20.238Z
-updated: 2024-09-26T01:03:30.306Z
+date: 2024-09-26T16:12:05.403Z
+updated: 2024-09-30T16:11:01.703Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-smartwatch-innovations-what-can-these-wearable-devices-do/"><u>Exploring Smartwatch Innovations: What Can These Wearable Devices Do?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/important-criteria-for-choosing-the-perfect-smartwatch-a-guide/"><u>Important Criteria for Choosing the Perfect Smartwatch: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-learn-the-art-of-gaussian-blur-mobile-and-pc-edition/"><u>In 2024, Learn the Art of Gaussian Blur Mobile and PC Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-digital-applications-for-visual-storytelling/"><u>In 2024, Premier Digital Applications for Visual Storytelling</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-seedling-selections-a-farmers-best-game-gems/"><u>In 2024, Seedling Selections A Farmer's Best Game Gems</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/macpciphone3/"><u>MacとPCを使わずにiPhoneに音楽移し込み方法：3コツ探究</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mp411-mac-oswindows/"><u>MP4ファイルの中からクリーンなオーディオを抽出するための11個のお得な無料ソフトウェア - Mac OSとWindowsで利用</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-and-easy-steps-transforming-hevch265-videos-into-avi-format/"><u>Quick & Easy Steps: Transforming HEVC/H.265 Videos Into AVI Format</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-guide-converting-flv-files-into-mp3-with-simple-techniques/"><u>Quick Guide: Converting FLV Files Into MP3 with Simple Techniques</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-guide-high-quality-conversion-of-dvds-to-ipad-air-speedy-methods-explored/"><u>Quick Guide: High-Quality Conversion of DVDs to iPad Air - Speedy Methods Explored</u></a></li>
-<li><a href="https://article-posts.techidaily.com/srt-shift-magic-subtitles-subc-conversion-guide/"><u>SRT Shift Magic Subtitles (SUBC) Conversion Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-keyboards-of-2024-compare-full-size-tkl-and-mini/"><u>Top Rated Gaming Keyboards of 2024 - Compare Full-Size, TKL & Mini</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-tcl-50s425-50-inch-4k-smart-tv-quality-and-affordability-explored/"><u>Ultimate Guide to the TCL 50S425 50-Inch 4K Smart TV: Quality and Affordability Explored</u></a></li>
-<li><a href="https://win-latest.techidaily.com/pc8/"><u>ストリーミング動画の自由な記録 - PC用最優秀無料ソフト8つ</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-navigating-obs-setup-for-zoom-streaming-excellence/"><u>[New] 2024 Approved Navigating OBS Setup for Zoom Streaming Excellence</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ink-your-photos-leading-apps-for-captioning-iosandroid-for-2024/"><u>[Updated] Ink Your Photos Leading Apps for Captioning (iOS/Android) for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-audio-drivers-today-for-free-instant-setup-steps/"><u>Get Your HP Audio Drivers Today for Free - Instant Setup Steps!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-tecno-spark-10-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Spark 10 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-oppo-a59-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo A59 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-sharper-images-richer-minescapes-zoom-techniques-revealed/"><u>In 2024, Sharper Images, Richer Minescapes Zoom Techniques Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/responding-to-criticism-with-confidence-on-youtube-for-2024/"><u>Responding to Criticism with Confidence on YouTube for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-locate-desired-text-with-ease-on-flipbuilder-websites/"><u>Step-by-Step Tutorial: Locate Desired Text with Ease on FlipBuilder Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-companion-for-the-steam-deck-a-list-of-best-9-emulation-software/"><u>The Ultimate Companion for the Steam Deck: A List of Best 9 Emulation Software</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transform-your-images-into-interactive-flipbooks-for-free-batch-photography-album-maker/"><u>Transform Your Images Into Interactive Flipbooks for Free - Batch Photography Album Maker</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-access-issues-why-your-html-ebook-wont-show-on-flipbuildercom/"><u>Troubleshooting Access Issues: Why Your HTML eBook Won't Show on FlipBuilder.com</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-guide-why-arent-your-links-functioning-post-flipmaster-ebook-transformation/"><u>Troubleshooting Guide: Why Aren’t Your Links Functioning Post FlipMaster eBook Transformation?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unable-to-download-content-from-flipbuilder-what-are-your-options/"><u>Unable To Download Content From FlipBuilder - What Are Your Options?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/uncovering-unique-content-a-guide-to-locating-fresh-materials-using-flipbuilders-tools/"><u>Uncovering Unique Content: A Guide to Locating Fresh Materials Using FlipBuilder's Tools</u></a></li>
 </ul></div>
 

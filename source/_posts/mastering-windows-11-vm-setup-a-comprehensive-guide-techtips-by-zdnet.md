@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11 VM Setup: A Comprehensive Guide - TechTips by ZDNet"
-date: 2024-09-24T21:53:17.111Z
-updated: 2024-09-25T20:30:36.657Z
+date: 2024-09-23T16:14:37.871Z
+updated: 2024-09-30T16:00:55.402Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +143,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -196,17 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-step-by-step-methods-for-iphone-screen-capture/"><u>[New] In 2024, Step-by-Step Methods for iPhone Screen Capture</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-detailed-insight-hero4-black-operations/"><u>[Updated] 2024 Approved Detailed Insight Hero4 Black Operations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cant-see-cursor-only-sony-a6400-glitch/"><u>[Updated] Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-easy-photo-fixes-an-introduction-to-snapseed-for-2024/"><u>[Updated] Easy Photo Fixes An Introduction to Snapseed for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-to-use-the-teaching-channel-downloader-app-your-ultimate-guide-to-access-educational-videos/"><u>1. 'How to Use the Teaching Channel Downloader App - Your Ultimate Guide to Access Educational Videos'</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-streaming-to-storage-effortless-mp3-conversion-from-radiocom/"><u>1) Streaming to Storage: Effortless MP3 Conversion From Radio.com</u></a></li>
-<li><a href="https://win-latest.techidaily.com/best-free-music-download-sites-top-10-picks-and-reviews-plus-ultimate-guide-to-safe-mp3s/"><u>Best Free Music Download Sites: Top 10 Picks & Reviews + Ultimate Guide to Safe MP3s</u></a></li>
-<li><a href="https://win-latest.techidaily.com/convert-and-save-vporn-video-streams-as-high-quality-files-mp4-mov-avi-options/"><u>Convert and Save Vporn Video Streams as High-Quality Files: MP4, MOV, AVI Options</u></a></li>
-<li><a href="https://win-latest.techidaily.com/download-adult-content-securely-from-dare-dorm-your-trusted-source/"><u>Download Adult Content Securely From Dare Dorm – Your Trusted Source</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-easily-and-quickly-draw-on-photos-app-in-windows-10/"><u>How to Easily and Quickly Draw on Photos App in Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-facebook-videos-on-browsers-today/"><u>In 2024, Seamless Facebook Videos on Browsers Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-concept-of-gibbs-free-energy-combines-enthalpy-temperature-and-entropy-to-predict-whether-a-process-will-occur-spontane-groove-or-not-at-constant-pressu657/"><u>The Concept of Gibbs Free Energy Combines Enthalpy, Temperature, and Entropy to Predict Whether a Process Will Occur Spontane Groove or Not at Constant Pressure and Temperature.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-avoiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[New] In 2024, Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-10-commandments-for-going-viral-on-tiktok/"><u>[Updated] 2024 Approved The 10 Commandments for Going Viral on TikTok</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-your-favorite-5-book-vtts/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing Your Favorite 5 Book VTTs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g533-microphone-issues-step-by-step-solutions/"><u>Fixing Logitech G533 Microphone Issues: Step-by-Step Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-xr-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/is-investing-in-chatgpt-plus-over-chatgpt-worth-it-expert-insights-from-zdnet/"><u>Is Investing in ChatGPT Plus Over ChatGPT Worth It? Expert Insights From ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mellow-melodies-gradual-audio-decline-in-garageband-for-2024/"><u>Mellow Melodies Gradual Audio Decline in Garageband for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/microsoft-launches-copilot-lab-enhancing-user-experience-with-advanced-ai-assistance-technews/"><u>Microsoft Launches Copilot Lab, Enhancing User Experience with Advanced AI Assistance - TechNews</u></a></li>
+<li><a href="https://win-latest.techidaily.com/office-managers-frustration-with-staff-microsoft-teams-usage-leads-to-tension-and-missteps/"><u>Office Manager's Frustration with Staff Microsoft Teams Usage Leads to Tension and Missteps</u></a></li>
+<li><a href="https://win-latest.techidaily.com/real-time-guide-catching-todays-microsoft-innovation-spectacle-on-ai-and-surface-what-insights-to-anticipate/"><u>Real-Time Guide: Catching Today's Microsoft Innovation Spectacle on AI & Surface - What Insights to Anticipate</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-crafting-artificnals-through-dall-e-and-chatgpt-4-integration/"><u>The Ultimate Guide: Crafting Artificnals Through DALL-E & ChatGPT-4 Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-the-15-most-effective-free-uninstallers-available-online/"><u>Ultimate List: The 15 Most Effective Free Uninstallers Available Online</u></a></li>
 </ul></div>
 

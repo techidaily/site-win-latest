@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Cost: Microsoft Announces Paid Windows 11 Updates - What You Need To Know (ZDNet)"
-date: 2024-09-23T18:05:11.016Z
-updated: 2024-09-26T01:10:37.945Z
+date: 2024-09-28T16:01:17.323Z
+updated: 2024-09-30T16:03:06.161Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-mounts-uninterrupted-mobile-shooting-for-2024/"><u>[New] Cutting-Edge Mounts Uninterrupted Mobile Shooting for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-visual-techniques-selecting-premium-camera-lenses-for-2024/"><u>[Updated] Cutting-Edge Visual Techniques Selecting Premium Camera Lenses for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-video-selection-adding-to-your-youtube-playlists/"><u>[Updated] Mastering Video Selection Adding to Your YouTube Playlists</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-hot-40-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Hot 40 Pro Unlock Without Password</u></a></li>
-<li><a href="https://win-latest.techidaily.com/dvd-mpgmpeg-2mpeg-4-dvd/"><u>簡単DVDコンバート MPG、MPEG-2、MPEG-4 - DVD保存無劣化</u></a></li>
-<li><a href="https://win-latest.techidaily.com/filmora/"><u>簡単な手順で、Filmoraの無料版からロゴを取り外す方法</u></a></li>
-<li><a href="https://win-latest.techidaily.com/5lia5bqm44gr5ywo44oq44k544oi44ks44oa44km44oz44ot44o844oj77ya44ol44kz44ol44kz5yuv55s744cm44oe44kk44oq44k544oi44cn44gu5yq5546h55qe44gq5lplusd5a2y5pa55rov/"><u>一度に全リストをダウンロード：ニコニコ動画「マイリスト」の効率的な保存方法</u></a></li>
-<li><a href="https://win-latest.techidaily.com/a-step-by-step-guide-to-mastering-the-free-swf-video-converter-factory/"><u>A Step-by-Step Guide to Mastering the Free SWF Video Converter Factory</u></a></li>
-<li><a href="https://win-latest.techidaily.com/best-free-m2ts-media-players-uncomplicated-watching-and-editing-options-for-your-m2ts-videos/"><u>Best Free M2TS Media Players: Uncomplicated Watching and Editing Options for Your .M2Ts Videos</u></a></li>
-<li><a href="https://win-latest.techidaily.com/enjoy-uninterrupted-anime-viewing-three-effective-techniques-to-eliminate-commercials/"><u>Enjoy Uninterrupted Anime Viewing: Three Effective Techniques to Eliminate Commercials</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-the-gap-with-magix-music-maker-for-beginners/"><u>In 2024, Bridging the Gap with Magix Music Maker for Beginners</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>In 2024, Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-chromecasts-full-potential-streaming-local-videos-on-windows-mac-android-and-ios/"><u>In 2024, Unlock Chromecasts Full Potential Streaming Local Videos on Windows, Mac, Android, and iOS</u></a></li>
-<li><a href="https://win-latest.techidaily.com/m4a-wav-5/"><u>M4A WAV変換が簡単に! 世界中のユーザーも愛しているベスト5フリーオーディオコンバーターソフト</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-format-transitions-how-to-switch-between-different-media-files-easily/"><u>Mastering Format Transitions: How to Switch Between Different Media Files Easily</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/transform-your-videos-into-mp4-format-seamlessly-using-these-simple-steps-for-macos-users/"><u>Transform Your Videos Into MP4 Format Seamlessly Using These Simple Steps for macOS Users!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-farm-tastic-gaming-best-trio-of-agricultural-games/"><u>2024 Approved Farm-Tastic Gaming Best Trio of Agricultural Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accessible-learning-using-ifunny-meme-app-for-2024/"><u>Accessible Learning Using iFunny Meme App for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/assassins-creed-valhalla-pc-stability-issues-solutions-and-tweaks-to-stop-game-crashes/"><u>Assassin's Creed Valhalla PC Stability Issues: Solutions and Tweaks to Stop Game Crashes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/charting-a-course-for-youtube-success-viewer-numbers-and-income-for-2024/"><u>Charting a Course for YouTube Success Viewer Numbers and Income for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pathfinding-your-way-from-adsense-to-accounts-aplenty/"><u>In 2024, Pathfinding Your Way From AdSense to Accounts Aplenty</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/is-it-possible-to-use-flipbuilders-e-books-on-your-apple-ipad-flipbuildercom/"><u>Is It Possible to Use FlipBuilder's E-Books on Your Apple iPad? [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-latest.techidaily.com/lost-your-flipbuilder-registration-credentials-heres-how-to-recover-them-easily/"><u>Lost Your FlipBuilder Registration Credentials? Here's How to Recover Them Easily</u></a></li>
+<li><a href="https://win-latest.techidaily.com/making-your-flipbook-content-print-ready-with-easy-steps-at-flipbuilder/"><u>Making Your Flipbook Content Print-Ready with Easy Steps at FlipBuilder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/meta-and-omni-universe-showcase-analysis-for-2024/"><u>Meta & Omni Universe Showcase Analysis for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/opening-hyperlinked-pages-from-your-flipbooks-on-different-browser-tabs-the-ultimate-trick/"><u>Opening Hyperlinked Pages From Your Flipbooks on Different Browser Tabs: The Ultimate Trick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-missing-btballoondll-error-in-windows-tips-and-tricks/"><u>Overcoming the Missing btballoon.dll Error in Windows: Tips and Tricks</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-guide-saving-your-active-flipboard-layout-as-a-reusable-theme/"><u>Quick Guide: Saving Your Active FlipBoard Layout as a Reusable Theme</u></a></li>
+<li><a href="https://win-latest.techidaily.com/secure-your-flipbook-content-with-a-strong-password-a-step-by-step-guide/"><u>Secure Your FlipBook Content with a Strong Password: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-converting-flipboard-content-into-pdf-format/"><u>Step-by-Step Guide: Converting FlipBoard Content Into PDF Format</u></a></li>
 </ul></div>
 

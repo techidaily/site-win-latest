@@ -1,7 +1,7 @@
 ---
 title: "New Survey Reveals: Over Half of Executives Demand AI Proficiency in Job Candidates | ZDNet Insights"
-date: 2024-09-18T20:56:18.944Z
-updated: 2024-09-25T18:01:42.302Z
+date: 2024-09-23T16:13:06.380Z
+updated: 2024-09-30T16:14:04.823Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-superior-hd-recording-systems/"><u>[Updated] In 2024, Superior HD Recording Systems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-transforming-a-simple-story-into-an-epic-visual-narrative/"><u>[Updated] In 2024, Transforming a Simple Story Into an Epic Visual Narrative</u></a></li>
-<li><a href="https://win-latest.techidaily.com/future-of-microsoft-operating-systems-will-windows-12-arrive-expert-forecasts-revealed-digitaltrends/"><u>Future of Microsoft Operating Systems - Will Windows 12 Arrive? Expert Forecasts Revealed | DigitalTrends</u></a></li>
-<li><a href="https://win-latest.techidaily.com/future-of-os-maintenance-starting-next-year-microsoft-requires-a-fee-for-windows-find-out-what-it-will-cost-you/"><u>Future of OS Maintenance: Starting Next Year, Microsoft Requires a Fee for Windows 지정 확인 - Find Out What It Will Cost You!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-a05s-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel A05s Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screen-stream-showdown-who-wins-obs-or-shadowgl/"><u>In 2024, Screen Stream Showdown Who Wins, OBS or ShadowGL?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfect-cuts-on-demand-top-10-apps-for-youtube-short-edits-for-2024/"><u>Perfect Cuts on Demand Top 10 Apps for Youtube Short Edits for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revitalize-your-aging-windows-11mac-tips-and-tricks-from-zdnet-for-enhanced-performance/"><u>Revitalize Your Aging Windows 11/Mac: Tips and Tricks From ZDNet for Enhanced Performance</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revive-your-aging-pc-with-these-5-simple-tricks-for-the-newly-launched-windows-11-most-solutions-come-at-no-cost/"><u>Revive Your Aging PC with These 5 Simple Tricks for the Newly-Launched Windows 11 - Most Solutions Come at No Cost</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unveiling-windows-11-se-pc-manufacturers-fresh-offerings-tailored-for-educational-institutions-insights-from-zdnet/"><u>Unveiling Windows 11 SE: PC Manufacturers' Fresh Offerings Tailored for Educational Institutions - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/upgrading-your-playlists-for-seamless-integration-from-spotify-to-youtube-music-for-2024/"><u>Upgrading Your Playlists for Seamless Integration From Spotify to YouTube Music for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-gamers-blueprint-for-money-making/"><u>[New] In 2024, Gamer’s Blueprint for Money-Making</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/batch-converting-files-into-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Batch Converting Files Into Ebooks with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/create-interactive-pages-with-buttons-in-your-ebook-learn-how-on-flipbuildercom/"><u>Create Interactive Pages with Buttons in Your eBook: Learn How on FlipBuilder.com</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effective-strategies-for-managing-and-reusing-e-book-themes-with-flipbook/"><u>Effective Strategies for Managing and Reusing E-Book Themes with FlipBook</u></a></li>
+<li><a href="https://win-latest.techidaily.com/email-distribution-tips-for-sharing-flipbooks-with-html-links-discover-how-on-flipbuildercom/"><u>Email Distribution Tips for Sharing FlipBooks with HTML Links - Discover How on FlipBuilder.com</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/is-it-possible-to-use-flipbuilders-e-books-on-your-apple-ipad-flipbuildercom/"><u>Is It Possible to Use FlipBuilder's E-Books on Your Apple iPad? [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-latest.techidaily.com/lost-your-flipbuilder-registration-credentials-heres-how-to-recover-them-easily/"><u>Lost Your FlipBuilder Registration Credentials? Here's How to Recover Them Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-strategies-softwares-versus-hardware-harmony-for-2024/"><u>Streamline Strategies Softwares Versus Hardware Harmony for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-video-beats-into-ringtones-must-visit-sites-explored-for-2024/"><u>Transform Video Beats Into Ringtones Must-Visit Sites Explored for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-solution-getting-your-device-recognized-with-proper-drivers-on-widows-os/"><u>Ultimate Solution: Getting Your Device Recognized with Proper Drivers on Widows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-a05s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy A05s Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

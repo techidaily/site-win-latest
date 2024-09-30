@@ -1,7 +1,7 @@
 ---
 title: "Great News From Southwest Airlines: All Are Welcome, Just Not Mr. Microsoft!"
-date: 2024-09-20T19:10:50.578Z
-updated: 2024-09-25T20:54:22.454Z
+date: 2024-09-26T16:15:18.461Z
+updated: 2024-09-30T16:08:49.265Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,19 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-complete-screencast-process-methodical-instructional-video/"><u>[New] In 2024, Complete Screencast Process Methodical Instructional Video</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-premier-tech-to-record-your-on-air-video-on-youtube/"><u>[New] In 2024, Premier Tech to Record Your On-Air Video on YouTube</u></a></li>
-<li><a href="https://win-latest.techidaily.com/batch-converting-files-into-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Batch Converting Files Into Ebooks with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/create-interactive-pages-with-buttons-in-your-ebook-learn-how-on-flipbuildercom/"><u>Create Interactive Pages with Buttons in Your eBook: Learn How on FlipBuilder.com</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effective-strategies-for-managing-and-reusing-e-book-themes-with-flipbook/"><u>Effective Strategies for Managing and Reusing E-Book Themes with FlipBook</u></a></li>
-<li><a href="https://win-latest.techidaily.com/email-distribution-tips-for-sharing-flipbooks-with-html-links-discover-how-on-flipbuildercom/"><u>Email Distribution Tips for Sharing FlipBooks with HTML Links - Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-innovative-techniques-crafting-unique-boomerangs-on-snapchat/"><u>In 2024, Innovative Techniques Crafting Unique Boomerangs on Snapchat</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-notch-resources-for-downloading-desired-youtube-tones/"><u>In 2024, Top-Notch Resources for Downloading Desired Youtube Tones</u></a></li>
-<li><a href="https://win-latest.techidaily.com/interactive-flash-creation-from-ppts-seamless-conversion-using-flipstudio-pro/"><u>Interactive Flash Creation From PPTs - Seamless Conversion Using FlipStudio Pro</u></a></li>
-<li><a href="https://win-latest.techidaily.com/intuitive-multilingual-layouts-with-tailored-templates-on-flipbuildercom-elevate-your-contents-clarity-and-reach/"><u>Intuitive, Multilingual Layouts with Tailored Templates on FlipBuilder.com - Elevate Your Content's Clarity and Reach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-linux-gameplay-on-the-all-amd-tuxedo-sirius-gen2-stunning-visuals-and-lightning-fast-response-time-with-an-incredible-165hz-display-from-j2/"><u>Master the Art of Linux Gameplay on the All-AMD Tuxedo Sirius Gen2 - Stunning Visuals & Lightning Fast Response Time with an Incredible 165Hz Display From Just 1,699€</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/no-8-visual-artists-choice-for-photo-assembly/"><u>No. 8 Visual Artist's Choice for Photo Assembly</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-explainer-leveraging-facebooks-transparency-toolkit/"><u>The Ultimate Explainer: Leveraging Facebook’s Transparency Toolkit</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>[New] Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-full-picture-a-review-of-dji-inspire-2/"><u>[New] In 2024, Full Picture A Review of DJI Inspire 2</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovations-to-enhance-your-short-video-experience/"><u>[New] Innovations to Enhance Your Short Video Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-strategic-use-of-instagrams-music-emojis-on-posts/"><u>[Updated] Strategic Use of Instagram’s Music Emojis on Posts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capturing-your-lenovo-display-with-ease/"><u>2024 Approved Capturing Your Lenovo Display with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>2024 Approved Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
+<li><a href="https://win-latest.techidaily.com/convert-and-save-vporn-video-streams-as-high-quality-files-mp4-mov-avi-options/"><u>Convert and Save Vporn Video Streams as High-Quality Files: MP4, MOV, AVI Options</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-and-transform-youtube-content-into-gifs-or-mp4s-for-windowsmac-users/"><u>Download & Transform YouTube Content Into GIFs or MP4s for Windows/Mac Users</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-adult-content-securely-from-dare-dorm-your-trusted-source/"><u>Download Adult Content Securely From Dare Dorm – Your Trusted Source</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-content-from-digitaltrends-top-video-selection/"><u>Download Content From DigitalTrends - Top Video Selection</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-methods-to-save-telewebion-shows-for-later-watching-on-pc-and-mac-systems/"><u>Easy Methods to Save Telewebion Shows for Later Watching on PC and Mac Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-correcting-issues-between-chatgpt-and-plugin-services-communication-errors/"><u>Guide: Correcting Issues Between ChatGPT and Plugin Services Communication Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/language-learning-lab-mistral-versus-chatgpt/"><u>Language Learning Lab: Mistral Versus ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme V30T | Dr.fone</u></a></li>
 </ul></div>
 
