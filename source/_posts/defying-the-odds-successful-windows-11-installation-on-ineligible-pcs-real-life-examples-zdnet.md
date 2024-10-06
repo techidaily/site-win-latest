@@ -1,7 +1,7 @@
 ---
 title: "Defying the Odds: Successful Windows 11 Installation on Ineligible PCs - Real-Life Examples | ZDNet"
-date: 2024-09-28T16:10:52.075Z
-updated: 2024-09-30T16:12:33.325Z
+date: 2024-10-04T00:43:09.399Z
+updated: 2024-10-05T18:42:33.319Z
 tags:
   - windows
 categories:
@@ -27,30 +27,31 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -73,13 +74,6 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -87,10 +81,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -104,18 +98,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -162,18 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unblocking-video-sharing-how-to-solve-fb-chat-issues-for-iphonesandroid/"><u>[Updated] 2024 Approved Unblocking Video Sharing How to Solve FB Chat Issues for iPhones/Android</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-maximize-youtube-traffic-top-viewing-times/"><u>[Updated] Maximize YouTube Traffic Top Viewing Times</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-game-on-tips-for-excellent-video-game-clips/"><u>2024 Approved Game On! Tips for Excellent Video Game Clips</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-10-alternatives-to-app-lock-on-android-devices/"><u>Discover the Ultimate 10 Alternatives to App Lock on Android Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-youtube-tycoons-earning-the-most/"><u>In 2024, YouTube Tycoons Earning the Most</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/night-owls-rejoice-setting-up-dark-mode-on-your-apple-phone-made-simple/"><u>Night Owls Rejoice: Setting Up Dark Mode on Your Apple Phone Made Simple</u></a></li>
-<li><a href="https://win-latest.techidaily.com/office-managers-frustration-with-staff-microsoft-teams-usage-leads-to-tension-and-missteps/"><u>Office Manager's Frustration with Staff Microsoft Teams Usage Leads to Tension and Missteps</u></a></li>
-<li><a href="https://win-latest.techidaily.com/real-time-guide-catching-todays-microsoft-innovation-spectacle-on-ai-and-surface-what-insights-to-anticipate/"><u>Real-Time Guide: Catching Today's Microsoft Innovation Spectacle on AI & Surface - What Insights to Anticipate</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revolutionizing-cybersecurity-how-windows-11-delivers-immediate-protection-insights-for-it-pros-securetech-news/"><u>Revolutionizing Cybersecurity: How Windows 11 Delivers Immediate Protection - Insights for IT Pros | SecureTech News</u></a></li>
-<li><a href="https://win-latest.techidaily.com/thousands-hit-by-microsoft-365-outage-in-depth-analysis-and-impact-report-zdnet/"><u>Thousands Hit by Microsoft 365 Outage: In-Depth Analysis & Impact Report | ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/transforming-legacy-office-areas-into-hubs-of-activity-and-creativity-strategies-unveiled-by-zdnet/"><u>Transforming Legacy Office Areas Into Hubs of Activity & Creativity: Strategies Unveiled by ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/"><u>[Updated] In 2024, Crafting Your YouTube Legacy A Deep Dive Into Creator Studio Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-gamers-blueprint-techniques-to-record-virtual-realms/"><u>[Updated] The Gamer's Blueprint Techniques to Record Virtual Realms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2023s-fastest-route-to-convert-srt-to-txt-files-for-2024/"><u>2023'S Fastest Route to Convert SRT to TXT Files for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-making-simple-text-pop-in-videos-without-costs/"><u>2024 Approved Making Simple Text Pop in Videos without Costs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>2024 Approved Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/advanced-token-handling/"><u>Advanced Token Handling</u></a></li>
+<li><a href="https://win-latest.techidaily.com/apowersofts-latest-release-enhanced-mac-screen-capture-tool-with-improved-performance/"><u>Apowersoft's Latest Release: Enhanced Mac Screen Capture Tool with Improved Performance</u></a></li>
+<li><a href="https://win-latest.techidaily.com/discover-the-most-effective-substitutes-to-lg-flatron-televisions-a-guide-to-smarter-viewing/"><u>Discover the Most Effective Substitutes to LG Flatron Televisions: A Guide to Smarter Viewing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-our-no-cost-video-transformation-tool-easy-flv-format-upgrade/"><u>Download Our No-Cost Video Transformation Tool - Easy FLV Format Upgrade!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-frozen-screen-top-tips-for-dealing-with-windows-10-freezes/"><u>Fixing a Frozen Screen: Top Tips for Dealing with Windows 10 Freezes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-c12-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia C12 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/pc-strategies-and-tips-for-excelling-at-identity-v-battle-royale/"><u>PC Strategies and Tips for Excelling at Identity V Battle Royale</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-modify-mp3-file-id3-metadata-across-windows-and-mac-with-premier-tagging-tools/"><u>Step-by-Step Guide to Modify MP3 File ID3 Metadata Across Windows and Mac with Premier Tagging Tools</u></a></li>
+<li><a href="https://win-latest.techidaily.com/the-best-substitutes-for-windows-movie-maker-comprehensive-guide/"><u>The Best Substitutes for Windows Movie Maker: Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-approaches-to-non-audio-recording/"><u>Top Approaches to Non-Audio Recording</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-diy-tutorial-on-building-your-own-live-tv-streaming-system/"><u>Ultimate DIY Tutorial on Building Your Own Live TV Streaming System</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-selection-of-the-best-6-applications-to-enhance-your-images-with-object-overlays/"><u>Ultimate Selection of the Best 6 Applications to Enhance Your Images with Object Overlays</u></a></li>
 </ul></div>
 

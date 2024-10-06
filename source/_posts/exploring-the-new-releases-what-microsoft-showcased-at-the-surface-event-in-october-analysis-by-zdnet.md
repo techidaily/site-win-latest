@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Releases: What Microsoft Showcased at the Surface Event in October | Analysis by ZDNet"
-date: 2024-09-25T16:06:41.759Z
-updated: 2024-09-30T16:04:30.095Z
+date: 2024-10-04T19:59:35.814Z
+updated: 2024-10-06T01:05:22.122Z
 tags:
   - windows
 categories:
@@ -33,31 +33,11 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -68,24 +48,31 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -104,24 +91,31 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,20 +156,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques-for-2024/"><u>[New] From Concept to Screen Channel YT for Pioneering Filmmaking Techniques for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-pip-in-chrome-for-every-os/"><u>[New] Navigating PIP in Chrome for Every OS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-10-best-youtube-video-to-mp3-converter/"><u>[Updated] 10 Best YouTube Video to Mp3 Converter</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-aggregated-insights-on-10-superior-video-call-apps-for-2024/"><u>[Updated] Aggregated Insights on 10 Superior Video Call Apps for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-livestream-excellence-unveiling-the-best-practices-for-facebook-recorders-for-2024/"><u>[Updated] Livestream Excellence Unveiling the Best Practices for Facebook Recorders for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-to-use-the-teaching-channel-downloader-app-your-ultimate-guide-to-access-educational-videos/"><u>1. 'How to Use the Teaching Channel Downloader App - Your Ultimate Guide to Access Educational Videos'</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-streaming-to-storage-effortless-mp3-conversion-from-radiocom/"><u>1) Streaming to Storage: Effortless MP3 Conversion From Radio.com</u></a></li>
-<li><a href="https://win-latest.techidaily.com/best-free-music-download-sites-top-10-picks-and-reviews-plus-ultimate-guide-to-safe-mp3s/"><u>Best Free Music Download Sites: Top 10 Picks & Reviews + Ultimate Guide to Safe MP3s</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-boundaries-metamating-at-facebook/"><u>Breaking Boundaries: Metamating at Facebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/efficient-voice-tracking-techniques-on-ipad-for-2024/"><u>Efficient Voice Tracking Techniques on iPad for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-screen-recorders-for-todays-windows-users/"><u>In 2024, Essential Screen Recorders for Today's Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-an-issue-occurred-while-restoring-your-pc-message-in-windows-11-comprehensive-fix/"><u>Resolving 'An Issue Occurred While Restoring Your PC' Message in Windows 11 – Comprehensive Fix</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-process-of-downloading-and-transforming-raywenderlich-series-from-video-to-mp4-or-mov-on-windowsmac-os/"><u>Step-by-Step Process of Downloading and Transforming Raywenderlich Series From Video to MP4 or MOV on Windows/Mac OS</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-accessing-nfhs-training-footage-on-both-mac-and-windows/"><u>Step-by-Step Tutorial for Accessing NFHS Training Footage on Both Mac and Windows</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-4-lynda-replacements-offering-quality-skills-training/"><u>Top 4 Lynda Replacements Offering Quality Skills Training</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-drone-visual-spectrum-20-first-time-free-luts-included/"><u>[Updated] 2024 Approved Drone Visual Spectrum - 20 First-Time FREE LUTS Included</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-counter-facebooks-instantaneous-deletion-of-videos-for-2024/"><u>[Updated] How to Counter Facebook's Instantaneous Deletion of Videos for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-seamless-migration-moving-your-blackberry-contacts-to-a-new-samsung-smartphone/"><u>1. Seamless Migration: Moving Your BlackBerry Contacts to a New Samsung Smartphone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-z50s-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia Z50S Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-e-lecture-label-lever/"><u>2024 Approved Premiere E-Lecture Label Lever</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-business-with-metaverse-ideas/"><u>2024 Approved Transforming Business with Metaverse Ideas</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-steps-to-find-and-save-anime-soundtracks-as-mp3s/"><u>Easy Steps to Find and Save Anime Soundtracks as MP3s</u></a></li>
+<li><a href="https://win-latest.techidaily.com/exploring-elite-selections-uncover-prime-gaming-choices-in-google-play-store/"><u>Exploring Elite Selections: Uncover Prime Gaming Choices in Google Play Store</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-do-i-delete-or-close-my-old-linkedin-account-solved/"><u>In 2024, How Do I Delete Or Close My Old LinkedIn Account (Solved)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-13-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 13 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-transferring-your-iphone-footage-to-windows-10-pc/"><u>Step-by-Step Guide: Transferring Your iPhone Footage to Windows 10 PC</u></a></li>
+<li><a href="https://win-latest.techidaily.com/streaming-your-favorite-tiktoks-a-step-by-step-guide-to-viewing-on-your-television/"><u>Streaming Your Favorite TikToks: A Step-by-Step Guide to Viewing on Your Television</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-narzo-60-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme Narzo 60 5G</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-7-superior-video-conferencing-tools-for-efficient-telecommuting/"><u>Top 7 Superior Video Conferencing Tools for Efficient Telecommuting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-persistent-crashes-of-microsoft-edge-on-win10-systems/"><u>Troubleshooting Persistent Crashes of Microsoft Edge on Win10 Systems</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-guide-to-choosing-a-superior-iphone-password-protector/"><u>Ultimate Guide to Choosing a Superior iPhone Password Protector</u></a></li>
 </ul></div>
 

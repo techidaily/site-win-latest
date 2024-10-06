@@ -1,7 +1,7 @@
 ---
 title: "Thousands Hit by Microsoft 365 Outage: In-Depth Analysis & Impact Report | ZDNet"
-date: 2024-09-29T16:06:10.274Z
-updated: 2024-09-30T16:02:35.214Z
+date: 2024-09-30T20:10:17.274Z
+updated: 2024-10-05T16:47:45.251Z
 tags:
   - microsoft
 categories:
@@ -114,27 +114,34 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-cyber-odyssey-charting-new-territories-with-top-sci-fi-flicks/"><u>[New] 2024 Approved Cyber Odyssey Charting New Territories with Top Sci-Fi Flicks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-part-blueprint-to-monitor-and-maximize-your-youtube-profits/"><u>[New] 3-Part Blueprint to Monitor and Maximize Your YouTube Profits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-igtv-video-submission-made-simple/"><u>[New] In 2024, IGTV Video Submission Made Simple</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-depth-analysis-the-vida-video-editor-experience/"><u>[Updated] In-Depth Analysis The Vida Video Editor Experience</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-to-convert-any-youtube-video-into-flv-format-on-windows-without-restrictions/"><u>1. How to Convert Any YouTube Video Into FLV Format on Windows Without Restrictions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>2024 Approved Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-revolutionizing-audio-liberation-a-deep-dive-into-pazeras-extractor/"><u>2024 Approved Revolutionizing Audio Liberation A Deep Dive Into Pazera's Extractor</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726027413856-wma/"><u>無料で最高レベルのWMAプレーヤーを発見！俺たちがおすすめする順位付けランキング</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>How to use Device Manager to update drivers on Windows 11 & 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-safe-mode-on-windows-8-and-how-to-uninstall-video-card-software/"><u>Navigating Safe Mode on Windows 8 & How to Uninstall Video Card Software</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revitalize-your-aging-windows-11mac-tips-and-tricks-from-zdnet-for-enhanced-performance/"><u>Revitalize Your Aging Windows 11/Mac: Tips and Tricks From ZDNet for Enhanced Performance</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revive-your-aging-pc-with-these-5-simple-tricks-for-the-newly-launched-windows-11-most-solutions-come-at-no-cost/"><u>Revive Your Aging PC with These 5 Simple Tricks for the Newly-Launched Windows 11 - Most Solutions Come at No Cost</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unveiling-windows-11-se-pc-manufacturers-fresh-offerings-tailored-for-educational-institutions-insights-from-zdnet/"><u>Unveiling Windows 11 SE: PC Manufacturers' Fresh Offerings Tailored for Educational Institutions - Insights From ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726026606330-windows-11/"><u>Windows 11</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726030031556-windows-iphone-android/"><u>オールナイトニッポンの聴き逃しないための完全ガイド: Windows, iPhone, Androidで録音する方法</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-comprehensive-tutorial-changing-gender-in-social-media-images/"><u>[New] In 2024, A Comprehensive Tutorial Changing Gender in Social Media Images</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-20-zero-cost-pubg-visual-anthologies/"><u>[Updated] Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-methods-to-save-telewebion-shows-for-later-watching-on-pc-and-mac-systems/"><u>Easy Methods to Save Telewebion Shows for Later Watching on PC and Mac Systems</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expertly-navigating-the-world-of-audio-hijacking-leading-replacements-on-mac-os-x-and-windows-systems/"><u>Expertly Navigating the World of Audio Hijacking: Leading Replacements on MAC OS X and Windows Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/fusionchannel-best-live-and-on-demand-tv-experience-2024/"><u>FusionChannel Best Live & On-Demand TV Experience, 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/get-your-daily-laughs-download-funny-clips-as-mp4movaviflv-files-today/"><u>Get Your Daily Laughs: Download Funny Clips as MP4/MOV/AVI/FLV Files Today!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-google-pixel-8-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Google Pixel 8 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y27s-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y27s to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/leading-websites-offering-culinary-training-videos-a-comprehensive-review-with-steps-to-save-and-access-without-internet/"><u>Leading Websites Offering Culinary Training Videos: A Comprehensive Review with Steps to Save and Access Without Internet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-5-best-free-vob-video-editors/"><u>New 2024 Approved Top 5 Best Free VOB Video Editors</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-converting-and-saving-gaskrank-tv-shows-in-multiple-formats/"><u>Step-by-Step Guide to Converting and Saving Gaskrank TV Shows in Multiple Formats</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-converting-total-workout-sessions-into-mp4mp3mov-formats/"><u>Step-by-Step Guide: Converting Total Workout Sessions Into MP4/MP3/MOV Formats</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-saving-vimeo-on-demand-content-as-high-quality-video-files-in-various-players-preferred-codecs/"><u>Step-by-Step Tutorial for Saving Vimeo On Demand Content as High-Quality Video Files in Various Players' Preferred Codecs</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-strategies-to-tackle-the-issue-of-non-downloading-steam-updates/"><u>Successful Strategies to Tackle the Issue of Non-Downloading Steam Updates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-is-now-hot-10-vr-gear-options-for-2024/"><u>The Future Is Now Hot 10 VR Gear Options for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-7-superior-video-players-on-mac-for-2024/"><u>Ultimate Guide to 7 Superior Video Players on Mac for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

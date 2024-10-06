@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Relationship Between OpenAI & Microsoft: Strategic Collaboration or Cutthroat Competition?"
-date: 2024-09-29T16:13:30.462Z
-updated: 2024-09-30T16:13:16.470Z
+date: 2024-10-02T18:43:11.287Z
+updated: 2024-10-05T20:33:28.345Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-your-youtube-with-partner-videos/"><u>[Updated] In 2024, Boosting Your YouTube with Partner Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-for-enhancing-livestream-quality/"><u>2024 Approved Innovative Techniques for Enhancing Livestream Quality</u></a></li>
-<li><a href="https://win-latest.techidaily.com/access-anywhere-learn-anytime-converting-online-education-into-downloadable-content-for-windows-and-mac-users/"><u>Access Anywhere, Learn Anytime: Converting Online Education Into Downloadable Content for Windows & Mac Users</u></a></li>
-<li><a href="https://win-latest.techidaily.com/access-top-quality-concert-footage-at-no-cost-exclusive-virtual-concert-archive/"><u>Access Top-Quality Concert Footage at No Cost: Exclusive Virtual Concert Archive</u></a></li>
-<li><a href="https://win-latest.techidaily.com/downloading-facebook-videos-into-mp4-format-a-guide-for-windows-and-mac-users/"><u>Downloading Facebook Videos Into MP4 Format: A Guide for Windows & Mac Users</u></a></li>
-<li><a href="https://win-latest.techidaily.com/easy-guide-to-downloading-your-favorite-music-from-songslover-in-mp3-format/"><u>Easy Guide to Downloading Your Favorite Music From SongsLover in MP3 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-measures-to-solve-winscomrsvc-failures-on-devices/"><u>Effective Measures to Solve WinscomrsVc Failures on Devices</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effortless-mp4mov-download-of-popular-anime-shows-secure-and-legal-streaming-alternatives/"><u>Effortless MP4/MOV Download of Popular Anime Shows – Secure and Legal Streaming Alternatives</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elemental-story-articulation/"><u>Elemental Story Articulation</u></a></li>
-<li><a href="https://win-latest.techidaily.com/extract-nponl-videos-in-multiple-formats-get-mp4-wmv-mov-avi-flv-on-windows-and-macos/"><u>Extract npo.nl Videos in Multiple Formats: Get MP4, WMV, MOV, AVI, FLV on Windows and MacOS</u></a></li>
-<li><a href="https://win-latest.techidaily.com/free-downloads-convert-dekho-na-into-various-formats-mp3-wav-aac-flac-and-more/"><u>Free Downloads: Convert 'Dekho Na' Into Various Formats - MP3, WAV, AAC, FLAC & More!</u></a></li>
-<li><a href="https://win-latest.techidaily.com/get-your-favorite-episodes-from-9now-with-ease-formerly-known-as-9jumpin-downloader/"><u>Get Your Favorite Episodes From 9Now with Ease, Formerly Known as 9Jumpin Downloader!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-lava-blaze-2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Lava Blaze 2 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/journey-through-the-metaverse-6-illustrative-examples/"><u>Journey Through the Metaverse 6 Illustrative Examples</u></a></li>
-<li><a href="https://facebook.techidaily.com/switching-your-facebook-page-for-a-modern-identity/"><u>Switching Your Facebook Page for a Modern Identity</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-kinemaster-way-to-enthralling-transitions/"><u>The Kinemaster Way to Enthralling Transitions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/video-dxgkrnl-fatal-error-blue-screen-on-windows-11-fixed/"><u>Video Dxgkrnl Fatal Error Blue Screen on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-learning-top-15-youtube-experts-in-science/"><u>[New] Elevate Learning Top 15 YouTube Experts in Science</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-swift-solutions-for-recording-video-talks/"><u>[Updated] 2024 Approved Swift Solutions for Recording Video Talks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-blueprint-for-broadcasting-logging-roblox-games-via-your-mac-hardware/"><u>2024 Approved Blueprint for Broadcasting Logging Roblox Games via Your Mac Hardware</u></a></li>
+<li><a href="https://win-latest.techidaily.com/future-of-os-maintenance-starting-next-year-microsoft-requires-a-fee-for-windows-find-out-what-it-will-cost-you/"><u>Future of OS Maintenance: Starting Next Year, Microsoft Requires a Fee for Windows 지정 확인 - Find Out What It Will Cost You!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-a34-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy A34 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-novel-strategies-for-captivating-fb-video-marketing/"><u>In 2024, Novel Strategies for Captivating FB Video Marketing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-silent-and-fuzzy-airpod-problems-with-our-effective-top-10-fixes/"><u>Overcome Silent and Fuzzy AirPod Problems with Our Effective Top 10 Fixes</u></a></li>
+<li><a href="https://win-latest.techidaily.com/revitalize-your-aging-windows-11mac-tips-and-tricks-from-zdnet-for-enhanced-performance/"><u>Revitalize Your Aging Windows 11/Mac: Tips and Tricks From ZDNet for Enhanced Performance</u></a></li>
+<li><a href="https://win-latest.techidaily.com/revive-your-aging-pc-with-these-5-simple-tricks-for-the-newly-launched-windows-11-most-solutions-come-at-no-cost/"><u>Revive Your Aging PC with These 5 Simple Tricks for the Newly-Launched Windows 11 - Most Solutions Come at No Cost</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-diy-tutorial-on-building-your-own-live-tv-streaming-system/"><u>Ultimate DIY Tutorial on Building Your Own Live TV Streaming System</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-windows-11-se-pc-manufacturers-fresh-offerings-tailored-for-educational-institutions-insights-from-zdnet/"><u>Unveiling Windows 11 SE: PC Manufacturers' Fresh Offerings Tailored for Educational Institutions - Insights From ZDNet</u></a></li>
 </ul></div>
 

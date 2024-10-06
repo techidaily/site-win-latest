@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Claims Engineers' Adoration for Windows 11: Exploring the Tech Community's Favorite OS"
-date: 2024-09-28T16:12:07.334Z
-updated: 2024-09-30T16:06:09.241Z
+date: 2024-10-02T22:22:34.369Z
+updated: 2024-10-05T17:06:04.433Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-audio-outliers-best-sound-distortion-apps-for-your-device/"><u>[New] In 2024, Audio Outliers Best Sound Distortion Apps for Your Device</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-from-zero-to-live-streaming-hero-essential-tips-and-tricks/"><u>[New] In 2024, From Zero to Live-Streaming Hero Essential Tips and Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-deconstructing-the-features-of-djis-quadcopter-model-3/"><u>[Updated] Deconstructing the Features of DJI's Quadcopter Model 3</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-zooms-best-audio-practices-2-simple-steps-to-enhanced-quality-for-2024/"><u>[Updated] Zoom's Best Audio Practices 2 Simple Steps to Enhanced Quality for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/chrome-troubleshooting-resolving-page-loading-problems/"><u>Chrome Troubleshooting: Resolving Page Loading Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-computing-with-toms-hardware-expertise/"><u>Dive Into Computing with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Civi 3 Disney 100th Anniversary Edition to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevating-your-channels-ranking-simple-strategies-unveiled/"><u>In 2024, Elevating Your Channel's Ranking Simple Strategies Unveiled</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/lenslimits-how-to-manage-ig-picture-dimensions-for-2024/"><u>LensLimits How to Manage IG Picture Dimensions for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mp4movavivegas-pro/"><u>MP4・MOV・AVIなどの動画形式を処理できるようにするVEGAS Proの解決策</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-3-methods-for-optimizing-your-videos-how-to-seamlessly-compress-for-whatsapp/"><u>Top 3 Methods for Optimizing Your Videos: How to Seamlessly Compress for WhatsApp</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-guide-compress-videos-down-to-1-2gb-with-no-cost-solutions/"><u>Ultimate Guide: Compress Videos Down to 1-2GB with No Cost Solutions</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-guide-convert-your-webm-files-into-high-quality-mp4-videos-instantly/"><u>Ultimate Guide: Convert Your WebM Files Into High-Quality MP4 Videos Instantly</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-hd-video-editor-app-beginner-friendly-no-cost-tutorials-and-features/"><u>Ultimate HD Video Editor App: Beginner-Friendly, No Cost Tutorials & Features</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726027411272-windows-1011wav/"><u>Windows 10/11向けWAV形式ファイル仕様チェック</u></a></li>
-<li><a href="https://win-latest.techidaily.com/zero-cost-ways-to-convert-and-burn-iso-files-to-dvd-in-windows-os-guide-for-10817vista-users/"><u>Zero-Cost Ways to Convert and Burn ISO Files to DVD in Windows OS - Guide for 10/8.1/7/Vista Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-illustrate-and-write-with-iosandroid-tools/"><u>[New] 2024 Approved Illustrate & Write with iOS/Android Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-dynamic-content-presentation-via-fb-slideshows/"><u>[Updated] 2024 Approved Dynamic Content Presentation via FB Slideshows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-no-download-necessary-youtube-to-gif-conversion-made-easy-for-2024/"><u>[Updated] No Download Necessary YouTube-to-GIF Conversion Made Easy for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c67-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C67 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/alternativas-avancadas-ao-imovie-no-android-o-guia-de-top-choices-para-2024/"><u>Alternativas Avançadas Ao iMovie No Android - O Guia De Top Choices Para 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/bring-your-eyes-some-relief-with-bing-chats-dark-mode-now-available-tutorial-zdnet/"><u>Bring Your Eyes Some Relief with Bing Chat's Dark Mode Now Available - Tutorial | ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/happy-holiday-hacking-score-top-tech-bargains-with-zdnets-guide-to-2cyber-weekend-savings/"><u>Happy Holiday Hacking: Score Top Tech Bargains with ZDNet's Guide to 2#Cyber Weekend Savings !</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-diy-instagram-videos-simple-steps-to-success/"><u>In 2024, DIY Instagram Videos Simple Steps to Success</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-driver-for-your-hp-laserjet-pro-mfp-m42ebfdw-printer-on-windows-11-10-and-7-systems/"><u>Install the Latest Driver for Your HP LaserJet Pro MFP M42ebfdw Printer on Windows 11, 10 & 7 Systems</u></a></li>
+<li><a href="https://win-latest.techidaily.com/integrate-your-work-life-logging-into-windows-11-with-a-microsoft-365-business-account-a-comprehensive-guide/"><u>Integrate Your Work Life: Logging Into Windows 11 with a Microsoft 365 Business Account - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/is-investing-in-chatgpt-plus-over-chatgpt-worth-it-expert-insights-from-zdnet/"><u>Is Investing in ChatGPT Plus Over ChatGPT Worth It? Expert Insights From ZDNET</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-windows-11-vm-setup-a-comprehensive-guide-techtips-by-zdnet/"><u>Mastering Windows 11 VM Setup: A Comprehensive Guide - TechTips by ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/meeting-mayhem-reimagined-how-microsofts-innovation-could-up-the-ante-for-unproductivity-insights-from-zdnet/"><u>Meeting Mayhem Reimagined: How Microsoft's Innovation Could Up the Ante for Unproductivity - Insights From ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/microsoft-boosts-employee-creativity-with-enhanced-teams-features-insights-from-zdnet/"><u>Microsoft Boosts Employee Creativity with Enhanced Teams Features – Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-installation-of-samsung-m2070fw-drivers-download-guide/"><u>Quick and Easy Installation of Samsung M2070FW Drivers: Download Guide</u></a></li>
 </ul></div>
 

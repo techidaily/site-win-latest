@@ -1,7 +1,7 @@
 ---
 title: "Act Fast: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life; Upgrade Soon to Avoid Issues - ZDNet Insights"
-date: 2024-09-29T16:03:22.432Z
-updated: 2024-09-30T16:13:34.007Z
+date: 2024-09-29T16:42:34.915Z
+updated: 2024-10-05T23:01:06.353Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,22 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-improve-conference-efficiency-webcam-assisted-powerpoint/"><u>[New] Improve Conference Efficiency Webcam-Assisted PowerPoint</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ascent-of-jake-paul-in-online-video-fame/"><u>[New] The Ascent of Jake Paul in Online Video Fame</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-fb-story-visibility-with-these-tips/"><u>[Updated] Enhance FB Story Visibility with These Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-youtube-mastery-perfecting-edits-on-published-videos/"><u>2024 Approved YouTube Mastery Perfecting Edits on Published Videos</u></a></li>
-<li><a href="https://win-latest.techidaily.com/create-interactive-pages-with-buttons-in-your-ebook-learn-how-on-flipbuildercom/"><u>Create Interactive Pages with Buttons in Your eBook: Learn How on FlipBuilder.com</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effective-strategies-for-managing-and-reusing-e-book-themes-with-flipbook/"><u>Effective Strategies for Managing and Reusing E-Book Themes with FlipBook</u></a></li>
-<li><a href="https://win-latest.techidaily.com/email-distribution-tips-for-sharing-flipbooks-with-html-links-discover-how-on-flipbuildercom/"><u>Email Distribution Tips for Sharing FlipBooks with HTML Links - Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-expertise-in-editing-how-to-add-descriptive-texts-to-videos/"><u>In 2024, Expertise in Editing How to Add Descriptive Texts to Videos</u></a></li>
-<li><a href="https://win-latest.techidaily.com/is-it-possible-to-use-flipbuilders-e-books-on-your-apple-ipad-flipbuildercom/"><u>Is It Possible to Use FlipBuilder's E-Books on Your Apple iPad? [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-latest.techidaily.com/lost-your-flipbuilder-registration-credentials-heres-how-to-recover-them-easily/"><u>Lost Your FlipBuilder Registration Credentials? Here's How to Recover Them Easily</u></a></li>
-<li><a href="https://win-latest.techidaily.com/making-your-flipbook-content-print-ready-with-easy-steps-at-flipbuilder/"><u>Making Your Flipbook Content Print-Ready with Easy Steps at FlipBuilder</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-comic-files-on-win11-a-step-by-step-guide/"><u>Navigating Comic Files on Win11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/opening-hyperlinked-pages-from-your-flipbooks-on-different-browser-tabs-the-ultimate-trick/"><u>Opening Hyperlinked Pages From Your Flipbooks on Different Browser Tabs: The Ultimate Trick</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/izing-videos-expert-insights-on-effective-tagging/"><u>Optimizing Videos Expert Insights on Effective Tagging</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-guide-saving-your-active-flipboard-layout-as-a-reusable-theme/"><u>Quick Guide: Saving Your Active FlipBoard Layout as a Reusable Theme</u></a></li>
-<li><a href="https://facebook.techidaily.com/twitters-idea-takes-root-on-facebook-with-new-prompt-feature/"><u>Twitter's Idea Takes Root on Facebook with New Prompt Feature</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-communication-tools-for-remote-teams/"><u>[New] 2024 Approved Prime Communication Tools for Remote Teams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-converting-classics-digitizing-and-archiving-past-photos-for-2024/"><u>[Updated] Converting Classics Digitizing and Archiving Past Photos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-divided-footage-delight-top-cam-discussion-in-2024/"><u>[Updated] Divided Footage Delight Top Cam Discussion, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagrams-most-appreciated-ae-layouts-for-2024/"><u>[Updated] Mastering Instagram's Most Appreciated AE Layouts for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-z-flip-5-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy Z Flip 5 Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aesthetic-enhancement-font-integration-for-ae-for-2024/"><u>Aesthetic Enhancement Font Integration for AE for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/apowersofts-latest-release-enhanced-mac-screen-capture-tool-with-improved-performance/"><u>Apowersoft's Latest Release: Enhanced Mac Screen Capture Tool with Improved Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-the-digital-world-of-pokemon-unite-everything-you-need-for-a-great-gaming-experience-on-pc/"><u>Conquer the Digital World of Pokémon Unite – Everything You Need for a Great Gaming Experience on PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/crafting-connection-from-fabric-to-followers-a-tiktokers-journey-for-2024/"><u>Crafting Connection From Fabric to Followers, a TikToker's Journey for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/discover-the-most-effective-substitutes-to-lg-flatron-televisions-a-guide-to-smarter-viewing/"><u>Discover the Most Effective Substitutes to LG Flatron Televisions: A Guide to Smarter Viewing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-our-no-cost-video-transformation-tool-easy-flv-format-upgrade/"><u>Download Our No-Cost Video Transformation Tool - Easy FLV Format Upgrade!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-shortcut-knowledge-for-flawless-mac-recordings-for-2024/"><u>Essential Shortcut Knowledge for Flawless Mac Recordings for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-updated-canon-mg3600-driver-software-a-step-by-step-guide/"><u>Installing Updated Canon MG3600 Driver Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/pc-strategies-and-tips-for-excelling-at-identity-v-battle-royale/"><u>PC Strategies and Tips for Excelling at Identity V Battle Royale</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-modify-mp3-file-id3-metadata-across-windows-and-mac-with-premier-tagging-tools/"><u>Step-by-Step Guide to Modify MP3 File ID3 Metadata Across Windows and Mac with Premier Tagging Tools</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-capturing-your-android-lollipop-display/"><u>Step-by-Step Guide: Capturing Your Android Lollipop Display</u></a></li>
+<li><a href="https://win-latest.techidaily.com/the-best-substitutes-for-windows-movie-maker-comprehensive-guide/"><u>The Best Substitutes for Windows Movie Maker: Comprehensive Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-diy-tutorial-on-building-your-own-live-tv-streaming-system/"><u>Ultimate DIY Tutorial on Building Your Own Live TV Streaming System</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-selection-of-the-best-6-applications-to-enhance-your-images-with-object-overlays/"><u>Ultimate Selection of the Best 6 Applications to Enhance Your Images with Object Overlays</u></a></li>
 </ul></div>
 

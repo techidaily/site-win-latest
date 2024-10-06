@@ -1,7 +1,7 @@
 ---
 title: "Unveiling New Functionalities: The Latest Windows ˈ11 Updates Detailed by ZDNET"
-date: 2024-09-26T16:10:13.931Z
-updated: 2024-09-30T16:12:32.472Z
+date: 2024-10-02T19:47:40.701Z
+updated: 2024-10-06T01:21:43.965Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-open-source-20-best-pubg-images/"><u>[New] Leading Open Source 20 Best PUBG Images</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-mysterious-virtual-trove-anonymitys-hidden-gems-of-2023-for-2024/"><u>[New] The Mysterious Virtual Trove - Anonymity's Hidden Gems of 2023 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-optimizing-privacy-for-your-online-videography/"><u>[Updated] 2024 Approved Optimizing Privacy for Your Online Videography</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-to-use-the-teaching-channel-downloader-app-your-ultimate-guide-to-access-educational-videos/"><u>1. 'How to Use the Teaching Channel Downloader App - Your Ultimate Guide to Access Educational Videos'</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-streaming-to-storage-effortless-mp3-conversion-from-radiocom/"><u>1) Streaming to Storage: Effortless MP3 Conversion From Radio.com</u></a></li>
-<li><a href="https://win-latest.techidaily.com/best-free-music-download-sites-top-10-picks-and-reviews-plus-ultimate-guide-to-safe-mp3s/"><u>Best Free Music Download Sites: Top 10 Picks & Reviews + Ultimate Guide to Safe MP3s</u></a></li>
-<li><a href="https://win-latest.techidaily.com/convert-and-save-vporn-video-streams-as-high-quality-files-mp4-mov-avi-options/"><u>Convert and Save Vporn Video Streams as High-Quality Files: MP4, MOV, AVI Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harmonizing-soundscape-elements-advanced-techniques-for-smooth-transitions-audacity/"><u>Harmonizing Soundscape Elements Advanced Techniques for Smooth Transitions (Audacity)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-find-n3-flip-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Find N3 Flip FRP Without Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-overheating-essential-strategies-for-gamers-computers/"><u>Mastery Overheating: Essential Strategies for Gamers' Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/save-on-oculus-quest-2-vr-kits-enjoy-a-50-discount-now-on-amazon/"><u>Save on Oculus Quest 2 VR Kits - Enjoy a $50 Discount Now on Amazon!</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-accessing-nfhs-training-footage-on-both-mac-and-windows/"><u>Step-by-Step Tutorial for Accessing NFHS Training Footage on Both Mac and Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-selection-of-ai-prompt-trading-hubs-ranked/"><u>The Ultimate Selection of AI Prompt Trading Hubs: Ranked!</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-4-lynda-replacements-offering-quality-skills-training/"><u>Top 4 Lynda Replacements Offering Quality Skills Training</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upcycling-electronics-how-a-discarded-tablet-can-benefit-animal-companions/"><u>Upcycling Electronics: How a Discarded Tablet Can Benefit Animal Companions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-seamless-migration-moving-your-blackberry-contacts-to-a-new-samsung-smartphone/"><u>1. Seamless Migration: Moving Your BlackBerry Contacts to a New Samsung Smartphone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comical-creations-no-cost-memes-available/"><u>2024 Approved Comical Creations No Cost Memes Available</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/easy-access-to-10-free-official-passport-photos-webdesktop-available/"><u>Easy Access to 10 Free, Official Passport Photos - Web/Desktop Available</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/educational-visuals-expertise-in-video-cutting/"><u>Educational Visuals Expertise in Video Cutting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-faulty-app-functionality-on-samsung-smart-tvs/"><u>Effective Solutions for Faulty App Functionality on Samsung Smart TVs</u></a></li>
+<li><a href="https://win-latest.techidaily.com/exploring-elite-selections-uncover-prime-gaming-choices-in-google-play-store/"><u>Exploring Elite Selections: Uncover Prime Gaming Choices in Google Play Store</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/free-nokia-video-converter-pro-v30-get-your-free-download-today/"><u>Free Nokia Video Converter Pro v3.0 – Get Your Free Download Today!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-xiaomi-14-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Xiaomi 14.</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-transferring-your-iphone-footage-to-windows-10-pc/"><u>Step-by-Step Guide: Transferring Your iPhone Footage to Windows 10 PC</u></a></li>
+<li><a href="https://win-latest.techidaily.com/streaming-your-favorite-tiktoks-a-step-by-step-guide-to-viewing-on-your-television/"><u>Streaming Your Favorite TikToks: A Step-by-Step Guide to Viewing on Your Television</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-7-superior-video-conferencing-tools-for-efficient-telecommuting/"><u>Top 7 Superior Video Conferencing Tools for Efficient Telecommuting</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-guide-to-choosing-a-superior-iphone-password-protector/"><u>Ultimate Guide to Choosing a Superior iPhone Password Protector</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-free-8-best-daw-for-chromebook-to-make-music/"><u>Updated 2024 Approved FREE 8 Best DAW for Chromebook to Make Music</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-5-free-video-rotator-apps-for-iphone-users-2023-edition/"><u>Updated Top 5 Free Video Rotator Apps for iPhone Users 2023 Edition</u></a></li>
 </ul></div>
 

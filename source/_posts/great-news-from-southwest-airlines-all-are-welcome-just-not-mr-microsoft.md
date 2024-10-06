@@ -1,7 +1,7 @@
 ---
 title: "Great News From Southwest Airlines: All Are Welcome, Just Not Mr. Microsoft!"
-date: 2024-09-26T16:15:18.461Z
-updated: 2024-09-30T16:08:49.265Z
+date: 2024-10-04T20:56:45.460Z
+updated: 2024-10-05T20:31:43.569Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>[New] Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-full-picture-a-review-of-dji-inspire-2/"><u>[New] In 2024, Full Picture A Review of DJI Inspire 2</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-innovations-to-enhance-your-short-video-experience/"><u>[New] Innovations to Enhance Your Short Video Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-strategic-use-of-instagrams-music-emojis-on-posts/"><u>[Updated] Strategic Use of Instagram’s Music Emojis on Posts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capturing-your-lenovo-display-with-ease/"><u>2024 Approved Capturing Your Lenovo Display with Ease</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>2024 Approved Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
-<li><a href="https://win-latest.techidaily.com/convert-and-save-vporn-video-streams-as-high-quality-files-mp4-mov-avi-options/"><u>Convert and Save Vporn Video Streams as High-Quality Files: MP4, MOV, AVI Options</u></a></li>
-<li><a href="https://win-latest.techidaily.com/download-and-transform-youtube-content-into-gifs-or-mp4s-for-windowsmac-users/"><u>Download & Transform YouTube Content Into GIFs or MP4s for Windows/Mac Users</u></a></li>
-<li><a href="https://win-latest.techidaily.com/download-adult-content-securely-from-dare-dorm-your-trusted-source/"><u>Download Adult Content Securely From Dare Dorm – Your Trusted Source</u></a></li>
-<li><a href="https://win-latest.techidaily.com/download-content-from-digitaltrends-top-video-selection/"><u>Download Content From DigitalTrends - Top Video Selection</u></a></li>
-<li><a href="https://win-latest.techidaily.com/easy-methods-to-save-telewebion-shows-for-later-watching-on-pc-and-mac-systems/"><u>Easy Methods to Save Telewebion Shows for Later Watching on PC and Mac Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-correcting-issues-between-chatgpt-and-plugin-services-communication-errors/"><u>Guide: Correcting Issues Between ChatGPT and Plugin Services Communication Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/language-learning-lab-mistral-versus-chatgpt/"><u>Language Learning Lab: Mistral Versus ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-capturing-brilliance-essential-angles-in-iphone-photography/"><u>[New] 2024 Approved Capturing Brilliance Essential Angles in iPhone Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-inshot-is-it-truly-top-notch/"><u>[New] Evaluating InShot Is It Truly Top-Notch?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigate-meeting-arrangements-with-zoom-ease/"><u>[Updated] In 2024, Navigate Meeting Arrangements with Zoom Ease</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-navigating-webcam-features-on-apples-macbook/"><u>[Updated] In 2024, Navigating Webcam Features on Apple's MacBook</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-how-to-transfer-sms-from-android-phone-to-windows-desktop-effortlessly/"><u>1. How to Transfer SMS From Android Phone to Windows Desktop Effortlessly</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-quick-guide-simple-steps-for-signing-documents-on-your-ipad/"><u>1. Quick Guide: Simple Steps for Signing Documents on Your iPad</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers/"><u>2024 Approved Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers</u></a></li>
+<li><a href="https://win-latest.techidaily.com/apowersofts-latest-release-enhanced-mac-screen-capture-tool-with-improved-performance/"><u>Apowersoft's Latest Release: Enhanced Mac Screen Capture Tool with Improved Performance</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comprehensive-tutorial-mastering-apowersoft-image-viewer-features/"><u>Comprehensive Tutorial: Mastering Apowersoft Image Viewer Features</u></a></li>
+<li><a href="https://win-latest.techidaily.com/discover-the-most-effective-substitutes-to-lg-flatron-televisions-a-guide-to-smarter-viewing/"><u>Discover the Most Effective Substitutes to LG Flatron Televisions: A Guide to Smarter Viewing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-steps-to-find-and-save-anime-soundtracks-as-mp3s/"><u>Easy Steps to Find and Save Anime Soundtracks as MP3s</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-extract-sound-clips-from-youtube-videos-for-windows-and-macos-users/"><u>How to Extract Sound Clips From YouTube Videos for Windows and macOS Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-lords-mobile-a-comprehensive-guide-to-playing-on-your-computer/"><u>Mastering Lords Mobile: A Comprehensive Guide to Playing on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-to-windows-10-startup-settings-your-ultimate-how-to-guide/"><u>Navigating to Windows 10 Startup Settings - Your Ultimate How-To Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/pc-strategies-and-tips-for-excelling-at-identity-v-battle-royale/"><u>PC Strategies and Tips for Excelling at Identity V Battle Royale</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-8-essential-steps-for-first-time-owners-of-a-new-windows-pc/"><u>Top 8 Essential Steps for First-Time Owners of a New Windows PC</u></a></li>
 </ul></div>
 

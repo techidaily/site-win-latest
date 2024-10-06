@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: How to Take Region Selection Screenshots on Your Device"
-date: 2024-09-27T16:07:30.538Z
-updated: 2024-09-30T16:04:00.728Z
+date: 2024-09-30T00:17:28.611Z
+updated: 2024-10-05T18:11:25.205Z
 tags:
   - product
 categories:
@@ -50,18 +50,18 @@ Action Tutorials
 
  With **Mirillis Action!** you can easily **capture screenshots** of selected Windows desktop region. Just press a button and screenshots of your selected desktop region will be saved directly to JPG, BMP or PNG format.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Select Active desktop region mode
 
  To capture screenshots of selected Windows desktop region please select   **"Active desktop region/area"** recording mode.
 
 ![Mirillis Action! - active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/screenshots/mirillis_action_tutorial_active_desktop_region_recording_mode.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Adjust region size and position
 
@@ -70,17 +70,10 @@ Action Tutorials
 ![Mirillis Action! - selecting desktop region](https://mirillis.com/res/old/gfx/tutorials/screenshots/mirillis_action_tutorial_active_desktop_region_selecting_region.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Capture screenshot
@@ -89,18 +82,37 @@ Action Tutorials
 
 ![Mirillis Action! - desktop region mode - capture screenshot button](https://mirillis.com/res/old/gfx/tutorials/screenshots/mirillis_action_tutorial_active_desktop_region_capture_screenshot_button.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Screenshots and settings
 
  Close **"Active desktop region/area"** recording mode to show main Action! window. Select **"Screenshots"** tab to check the list of your screenshots, double click on the screenshot thumbnail to open screenshot preview. 
 
 ![Mirillis Action! - list of screenshots](https://mirillis.com/res/old/gfx/tutorials/screenshots/mirillis_action_tutorial_capture_screenshots_view.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Settings: File format**  
  Allows to select one of available output file formats: BMP, PNG, JPG. 
@@ -123,17 +135,20 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-rising-to-fame-creating-the-ultimate-facebook-song-video/"><u>[Updated] Rising to Fame Creating the Ultimate Facebook Song Video</u></a></li>
-<li><a href="https://win-latest.techidaily.com/bring-your-eyes-some-relief-with-bing-chats-dark-mode-now-available-tutorial-zdnet/"><u>Bring Your Eyes Some Relief with Bing Chat's Dark Mode Now Available - Tutorial | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-windows-dns-cache-via-steam-settings/"><u>Clearing Windows DNS Cache via Steam Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-steams-virtual-economy/"><u>Demystifying Steam's Virtual Economy</u></a></li>
-<li><a href="https://win-latest.techidaily.com/happy-holiday-hacking-score-top-tech-bargains-with-zdnets-guide-to-2cyber-weekend-savings/"><u>Happy Holiday Hacking: Score Top Tech Bargains with ZDNet's Guide to 2#Cyber Weekend Savings !</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-invert-colors-in-digital-photos/"><u>In 2024, How to Invert Colors in Digital Photos?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-presence-advanced-tricks-for-live-video-graphics/"><u>In 2024, Transform Your Presence Advanced Tricks for Live Video Graphics</u></a></li>
-<li><a href="https://win-latest.techidaily.com/integrate-your-work-life-logging-into-windows-11-with-a-microsoft-365-business-account-a-comprehensive-guide/"><u>Integrate Your Work Life: Logging Into Windows 11 with a Microsoft 365 Business Account - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/is-investing-in-chatgpt-plus-over-chatgpt-worth-it-expert-insights-from-zdnet/"><u>Is Investing in ChatGPT Plus Over ChatGPT Worth It? Expert Insights From ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-resetting-error-code-zero-in-windows-11/"><u>Quick Guide: Resetting Error Code Zero in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/real-time-streaming-solutions-discover-manycam-your-ultimate-live-video-and-virtually-cameras/"><u>Real-Time Streaming Solutions: Discover ManyCam - Your Ultimate Live Video and Virtually Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-iphone-snaps-to-high-dynamic-range-levels/"><u>[New] In 2024, Elevate Your iPhone Snaps to High Dynamic Range Levels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-stealthy-methods-to-watch-unseen-stories/"><u>[New] Stealthy Methods to Watch Unseen Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-quick-and-clean-method-to-live-podcast/"><u>[Updated] Quick & Clean Method to Live Podcast</u></a></li>
+<li><a href="https://win-latest.techidaily.com/filmora/"><u>簡単な手順で、Filmoraの無料版からロゴを取り外す方法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nt-tactics-to-unpredictably-organize-youtube-songs-for-2024/"><u>Instant Tactics to Unpredictably Organize YouTube Songs for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/m4a-wav-5/"><u>M4A WAV変換が簡単に! 世界中のユーザーも愛しているベスト5フリーオーディオコンバーターソフト</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-format-transitions-how-to-switch-between-different-media-files-easily/"><u>Mastering Format Transitions: How to Switch Between Different Media Files Easily</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mp411-mac-oswindows/"><u>MP4ファイルの中からクリーンなオーディオを抽出するための11個のお得な無料ソフトウェア - Mac OSとWindowsで利用</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-and-easy-steps-transforming-hevch265-videos-into-avi-format/"><u>Quick & Easy Steps: Transforming HEVC/H.265 Videos Into AVI Format</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-guide-converting-flv-files-into-mp3-with-simple-techniques/"><u>Quick Guide: Converting FLV Files Into MP3 with Simple Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-your-microsoft-mouse-software-a-beginners-guide-for-windows-users/"><u>Updating Your Microsoft Mouse Software: A Beginner's Guide for Windows Users</u></a></li>
+<li><a href="https://win-latest.techidaily.com/pc8/"><u>ストリーミング動画の自由な記録 - PC用最優秀無料ソフト8つ</u></a></li>
 </ul></div>
 
