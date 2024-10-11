@@ -1,7 +1,7 @@
 ---
 title: "Defying the Odds: Successful Windows 11 Installation on Ineligible PCs - Real-Life Examples | ZDNet"
-date: 2024-10-04T00:43:09.399Z
-updated: 2024-10-05T18:42:33.319Z
+date: 2024-10-04T16:16:30.101Z
+updated: 2024-10-11T16:27:45.343Z
 tags:
   - windows
 categories:
@@ -28,10 +28,16 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -39,13 +45,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Create a new folder
 
@@ -62,11 +61,25 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -74,18 +87,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -103,13 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,22 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/"><u>[Updated] In 2024, Crafting Your YouTube Legacy A Deep Dive Into Creator Studio Mastery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-gamers-blueprint-techniques-to-record-virtual-realms/"><u>[Updated] The Gamer's Blueprint Techniques to Record Virtual Realms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2023s-fastest-route-to-convert-srt-to-txt-files-for-2024/"><u>2023'S Fastest Route to Convert SRT to TXT Files for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-making-simple-text-pop-in-videos-without-costs/"><u>2024 Approved Making Simple Text Pop in Videos without Costs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>2024 Approved Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/advanced-token-handling/"><u>Advanced Token Handling</u></a></li>
-<li><a href="https://win-latest.techidaily.com/apowersofts-latest-release-enhanced-mac-screen-capture-tool-with-improved-performance/"><u>Apowersoft's Latest Release: Enhanced Mac Screen Capture Tool with Improved Performance</u></a></li>
-<li><a href="https://win-latest.techidaily.com/discover-the-most-effective-substitutes-to-lg-flatron-televisions-a-guide-to-smarter-viewing/"><u>Discover the Most Effective Substitutes to LG Flatron Televisions: A Guide to Smarter Viewing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/download-our-no-cost-video-transformation-tool-easy-flv-format-upgrade/"><u>Download Our No-Cost Video Transformation Tool - Easy FLV Format Upgrade!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-frozen-screen-top-tips-for-dealing-with-windows-10-freezes/"><u>Fixing a Frozen Screen: Top Tips for Dealing with Windows 10 Freezes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-c12-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia C12 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/pc-strategies-and-tips-for-excelling-at-identity-v-battle-royale/"><u>PC Strategies and Tips for Excelling at Identity V Battle Royale</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-modify-mp3-file-id3-metadata-across-windows-and-mac-with-premier-tagging-tools/"><u>Step-by-Step Guide to Modify MP3 File ID3 Metadata Across Windows and Mac with Premier Tagging Tools</u></a></li>
-<li><a href="https://win-latest.techidaily.com/the-best-substitutes-for-windows-movie-maker-comprehensive-guide/"><u>The Best Substitutes for Windows Movie Maker: Comprehensive Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-approaches-to-non-audio-recording/"><u>Top Approaches to Non-Audio Recording</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-diy-tutorial-on-building-your-own-live-tv-streaming-system/"><u>Ultimate DIY Tutorial on Building Your Own Live TV Streaming System</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-selection-of-the-best-6-applications-to-enhance-your-images-with-object-overlays/"><u>Ultimate Selection of the Best 6 Applications to Enhance Your Images with Object Overlays</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-boost-your-drive-top-10-windows-and-os-x-mods-elevating-srt-power/"><u>[Updated] 2024 Approved Boost Your Drive Top 10 Windows & OS X Mods Elevating SRT Power</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dive-into-filmmaking-the-role-of-lenses-in-videos/"><u>[Updated] Dive Into Filmmaking The Role of Lenses in Videos</u></a></li>
+<li><a href="https://win-latest.techidaily.com/a-revolutionary-faceoff-in-remote-communication-the-rise-of-the-lip-reading-challenger-against-microsoft-teams-and-zoom-zdnet/"><u>A Revolutionary Faceoff in Remote Communication: The Rise of the Lip-Reading Challenger Against Microsoft Teams & Zoom | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-enhanced-build-platform-and-multi-head-technology-featured-in-original-prusa-xl/"><u>Expert Insights on the Enhanced Build Platform & Multi-Head Technology Featured in Original Prusa XL</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-export-iphone-images-as-pdf-from-jpeg-and-png-files-for-2024/"><u>How to Export iPhone Images as PDF From JPEG & PNG Files for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-v30-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme V30 to Roku | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-asus-rog-gt-ac5300-the-perfect-device-for-gamers-and-technology-aficionados/"><u>In-Depth Analysis of Asus ROG GT-AC5300 - The Perfect Device for Gamers & Technology Aficionados</u></a></li>
+<li><a href="https://win-latest.techidaily.com/in-depth-microsoft-surface-laptop-studio-2-evaluation-unmatched-capabilities-over-macbook-pro-and-other-competitors-insights-from-zdnet/"><u>In-Depth Microsoft Surface Laptop Studio 2 Evaluation: Unmatched Capabilities Over MacBook Pro & Other Competitors - Insights From ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/navigating-the-relationship-between-openai-and-microsoft-strategic-collaboration-or-cutthroat-competition/"><u>Navigating the Relationship Between OpenAI & Microsoft: Strategic Collaboration or Cutthroat Competition?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streaming-showdown-is-streamlabs-or-obs-your-best-choice-for-2024/"><u>Streaming Showdown Is Streamlabs or OBS Your Best Choice for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-a24-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy A24 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-latest.techidaily.com/trouble-with-your-virtual-private-network-vpn-the-culprit-may-be-the-upcoming-april-2024-windows-patch-insights-from-microsoft-technews/"><u>Trouble with Your Virtual Private Network (VPN)? The Culprit May Be the Upcoming April 2024 Windows Patch: Insights From Microsoft | TechNews</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-new-functionalities-the-latest-windows-11-updates-detailed-by-zdnet/"><u>Unveiling New Functionalities: The Latest Windows ˈ11 Updates Detailed by ZDNET</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-the-hidden-gems-microsofts-best-kept-secrets-in-surface-props-now-aimed-at-enterprise-techinsight/"><u>Unveiling the Hidden Gems: Microsoft's Best-Kept Secrets in Surface Props Now Aimed at Enterprise | TechInsight</u></a></li>
+<li><a href="https://win-latest.techidaily.com/upgrade-your-microsoft-surface-pros-hard-drive-affordably-a-step-by-step-guide-that-saves-money/"><u>Upgrade Your Microsoft Surface Pro's Hard Drive Affordably: A Step-by-Step Guide That Saves Money!</u></a></li>
 </ul></div>
 

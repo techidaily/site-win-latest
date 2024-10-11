@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Secrets: How a Microsoft Internal Test Tool Reveals Hidden Functionality - Insights From ZDNet"
-date: 2024-09-28T19:10:06.422Z
-updated: 2024-10-05T20:01:49.731Z
+date: 2024-10-08T16:25:25.066Z
+updated: 2024-10-11T16:43:27.726Z
 tags:
   - windows
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,21 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-duo-dynamics-instagram-tiktok-confluence-guide/"><u>[New] Duo Dynamics Instagram-TikTok Confluence Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-high-end-8-cam-modifiers-for-crystal-clear-feeds-for-2024/"><u>[New] High-End 8 Cam Modifiers for Crystal Clear Feeds for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unleash-your-potential-strategies-for-recreating-yourself-on-tiktok/"><u>[Updated] 2024 Approved Unleash Your Potential Strategies for Recreating Yourself on TikTok</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hours-to-gigabytes-a-guide-for-filmmakers/"><u>[Updated] Hours to Gigabytes A Guide for Filmmakers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-performance-the-remarkable-impact-of-restarting-your-mobile-for-problem-free-use/"><u>Enhance Performance: The Remarkable Impact of Restarting Your Mobile for Problem-Free Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gptzero-uncovered-identifying-artificial-textual-outputs/"><u>GPTZero Uncovered: Identifying Artificial Textual Outputs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/massive-downtime-how-and-why-microsoft-365-suffered-widespread-issues-affecting-users-worldwide-digitaldigest/"><u>Massive Downtime: How and Why Microsoft 365 Suffered Widespread Issues Affecting Users Worldwide | DigitalDigest</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-file-protection-step-by-step-file-history-setup-in-windows-10-and-11-tips-from-zdnet/"><u>Mastering File Protection: Step-by-Step File History Setup in Windows 10 and 11 - Tips From ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/microsoft-boosts-employee-creativity-with-enhanced-teams-features-insights-from-zdnet/"><u>Microsoft Boosts Employee Creativity with Enhanced Teams Features – Insights From ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/microsoft-claims-engineers-adoration-for-windows-11-exploring-the-tech-communitys-favorite-os/"><u>Microsoft Claims Engineers' Adoration for Windows 11: Exploring the Tech Community's Favorite OS</u></a></li>
-<li><a href="https://win-latest.techidaily.com/protecting-your-files-made-easy-leveraging-file-history-for-backups-in-windows-10-and-11-insights-by-zdnet-experts/"><u>Protecting Your Files Made Easy: Leveraging File History for Backups in Windows 10 and 11, Insights by ZDNET Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-guide-how-to-find-and-confirm-your-monitors-refresh-rate/"><u>Quick Guide: How to Find and Confirm Your Monitor's Refresh Rate</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/simplified-live-mastery-one-channel-broadcast-strategies/"><u>Simplified LIVE Mastery One-Channel Broadcast Strategies</u></a></li>
-<li><a href="https://win-latest.techidaily.com/singapore-legal-tech-set-to-adopt-microsoft-copilot-an-exclusive-insight/"><u>Singapore Legal Tech Set to Adopt Microsoft Copilot: An Exclusive Insight</u></a></li>
-<li><a href="https://win-latest.techidaily.com/the-arrival-of-groundbreaking-windows-on-arm-applications-why-it-matters-tech-insights/"><u>The Arrival of Groundbreaking Windows on ARM Applications - Why It Matters | Tech Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-gamer-inputs/"><u>The Definitive Guide to Gamer Inputs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-bridging-past-and-present-successfully-live-streaming-recorded-media-for-2024/"><u>[Updated] Bridging Past and Present Successfully Live-Streaming Recorded Media for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-converting-gifs-to-emoticon-stickers-on-telegram-and-friends-servers/"><u>[Updated] Converting GIFs to Emoticon Stickers on Telegram & Friends Servers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>[Updated] In 2024, Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-infusing-life-into-ig-story-posts-a-guide-to-dynamic-animated-text-for-2024/"><u>[Updated] Infusing Life Into IG Story Posts A Guide to Dynamic, Animated Text for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-share-across-platforms-instagram-meets-facebook-for-2024/"><u>[Updated] Share Across Platforms Instagram Meets Facebook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-review-of-elite-parrots-ar-model-20/"><u>2024 Approved Precision Review of Elite Parrot's AR Model 2.0</u></a></li>
+<li><a href="https://win-latest.techidaily.com/dvd-mpgmpeg-2mpeg-4-dvd/"><u>簡単DVDコンバート MPG、MPEG-2、MPEG-4 - DVD保存無劣化</u></a></li>
+<li><a href="https://win-latest.techidaily.com/5lia5bqm44gr5ywo44oq44k544oi44ks44oa44km44oz44ot44o844oj77ya44ol44kz44ol44kz5yuv55s744cm44oe44kk44oq44k544oi44cn44gu5yq5546h55qe44gq5lplusd5a2y5pa55rov/"><u>一度に全リストをダウンロード：ニコニコ動画「マイリスト」の効率的な保存方法</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-g54-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola G54 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-latest.techidaily.com/a-step-by-step-guide-to-mastering-the-free-swf-video-converter-factory/"><u>A Step-by-Step Guide to Mastering the Free SWF Video Converter Factory</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-x9a-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor X9a via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/best-free-m2ts-media-players-uncomplicated-watching-and-editing-options-for-your-m2ts-videos/"><u>Best Free M2TS Media Players: Uncomplicated Watching and Editing Options for Your .M2Ts Videos</u></a></li>
+<li><a href="https://win-latest.techidaily.com/enjoy-uninterrupted-anime-viewing-three-effective-techniques-to-eliminate-commercials/"><u>Enjoy Uninterrupted Anime Viewing: Three Effective Techniques to Eliminate Commercials</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1726030632154-itunesaac/"><u>ITunesを使ってAACファイル作成が不可能な時の解決策と方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-best-visual-voicemail-solutions-of-2024/"><u>The Ultimate List: Best Visual Voicemail Solutions of 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-sound-clarity-a-guide-to-eliminating-ambient-sounds-in-filmora-for-2024/"><u>Updated Mastering Sound Clarity A Guide to Eliminating Ambient Sounds in Filmora for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/44ki44ot44oh44og44od44kv44k544gr44ki44kl44ot44oh44kq44ov44kh44kk44or57wx5zci44ks44kk44oj/"><u>アビデムックスによるビデオファイル統合ガイド</u></a></li>
+<li><a href="https://win-latest.techidaily.com/44ot44oh44kq44kz44oz44og44oz44oe44gl44kj6auy5zob6loq44gq5yaz55yf44ks5l2c5oiq44gz44kl44gf44kb44gu57ch5y2y44gq5pa55rov/"><u>ビデオコンテンツから高品質な写真を作成するための簡単な方法</u></a></li>
+<li><a href="https://win-latest.techidaily.com/44ov44kp44oi44cm44ot44oh44kq44ko44oh44kj44k44o844cn44gn5yuv55s757wx5zci5asx5pwx5pmc44gu5aplusplus5yem5rov77ya5a6m5ywo44ks44kk44oj/"><u>フォト「ビデオエディター」で動画統合失敗時の対処法：完全ガイド</u></a></li>
 </ul></div>
 

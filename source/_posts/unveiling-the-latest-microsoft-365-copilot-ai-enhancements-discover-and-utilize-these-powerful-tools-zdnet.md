@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest Microsoft 365 Copilot AI Enhancements: Discover & Utilize These Powerful Tools | ZDNet"
-date: 2024-10-01T22:09:12.878Z
-updated: 2024-10-05T16:56:18.801Z
+date: 2024-10-04T16:29:59.364Z
+updated: 2024-10-11T16:34:49.442Z
 tags:
   - microsoft
 categories:
@@ -64,16 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -95,13 +95,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +129,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,15 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-get-started-with-streamlabs-on-mac-using-obs-instantly/"><u>[New] In 2024, Get Started with Streamlabs on Mac Using OBS Instantly</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-elevate-your-iphone-snaps-to-high-dynamic-range-levels/"><u>[Updated] 2024 Approved Elevate Your iPhone Snaps to High Dynamic Range Levels</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-uniting-youtube-videos-a-comprehensive-approach/"><u>[Updated] 2024 Approved Uniting YouTube Videos A Comprehensive Approach</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-groundbreenas-choosing-first-time-gamers-editing-apps-for-2024/"><u>[Updated] Groundbreenas Choosing First-Time Gamers' Editing Apps for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726030563509-aac/"><u>「無劣化」保全AACデータ分割・トリミング・合成ガイド</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726027413856-wma/"><u>無料で最高レベルのWMAプレーヤーを発見！俺たちがおすすめする順位付けランキング</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mars-colony-construction-chaos-urban-development-that-spins-up-endless-amusement/"><u>Mars Colony Construction Chaos: Urban Development That Spins Up Endless Amusement</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/precision-recording-a-stepwise-plan-for-pc-ios-macbooks/"><u>Precision Recording A Stepwise Plan for PC, iOS, MacBooks</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726026606330-windows-11/"><u>Windows 11</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1726030031556-windows-iphone-android/"><u>オールナイトニッポンの聴き逃しないための完全ガイド: Windows, iPhone, Androidで録音する方法</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-erase-background-noises-with-ease-using-audacity-tools/"><u>[Updated] 2024 Approved Erase Background Noises with Ease Using Audacity Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-metaverse-and-omniverse-a-detailed-breakdown/"><u>2024 Approved The Metaverse & Omniverse A Detailed Breakdown</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-a-new-dimension-of-learning-languages-with-mondly/"><u>Dive Into a New Dimension of Learning Languages with Mondly</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-content-from-digitaltrends-top-video-selection/"><u>Download Content From DigitalTrends - Top Video Selection</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-methods-to-save-telewebion-shows-for-later-watching-on-pc-and-mac-systems/"><u>Easy Methods to Save Telewebion Shows for Later Watching on PC and Mac Systems</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expertly-navigating-the-world-of-audio-hijacking-leading-replacements-on-mac-os-x-and-windows-systems/"><u>Expertly Navigating the World of Audio Hijacking: Leading Replacements on MAC OS X and Windows Systems</u></a></li>
+<li><a href="https://win-latest.techidaily.com/get-your-daily-laughs-download-funny-clips-as-mp4movaviflv-files-today/"><u>Get Your Daily Laughs: Download Funny Clips as MP4/MOV/AVI/FLV Files Today!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-xs-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone XS Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-poco-f5-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Poco F5 5G Lock Screen Password</u></a></li>
+<li><a href="https://win-latest.techidaily.com/leading-websites-offering-culinary-training-videos-a-comprehensive-review-with-steps-to-save-and-access-without-internet/"><u>Leading Websites Offering Culinary Training Videos: A Comprehensive Review with Steps to Save and Access Without Internet</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-brightness-solutions-for-unlit-leds-on-your-corsair-keyboard/"><u>Restoring Brightness: Solutions for Unlit LEDs on Your Corsair Keyboard</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-converting-total-workout-sessions-into-mp4mp3mov-formats/"><u>Step-by-Step Guide: Converting Total Workout Sessions Into MP4/MP3/MOV Formats</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-using-ai-to-replace-skies-finding-the-right-methods/"><u>Updated In 2024, Using AI to Replace Skies Finding the Right Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Singapore Legal Tech Set to Adopt Microsoft Copilot: An Exclusive Insight"
-date: 2024-09-29T19:37:18.080Z
-updated: 2024-10-06T00:42:06.677Z
+date: 2024-10-09T16:04:15.609Z
+updated: 2024-10-11T17:11:13.997Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +143,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,23 +155,9 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-perfect-pairing-10-films-for-fun-filled-family-nights-for-2024/"><u>[New] Perfect Pairing 10 Films for Fun-Filled Family Nights for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-free-luts-showcase-10-standouts-with-direct-downloads-for-2024/"><u>[Updated] Free LUTs Showcase 10 Standouts with Direct Downloads for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-itel-a60-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Itel A60 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/countdown-begins-for-microsofts-major-crisis-in-windows-10-solutions-within-a-year-zdnet-reports/"><u>Countdown Begins for Microsoft's Major Crisis in Windows 10 | Solutions Within a Year? ZDNET Reports</u></a></li>
-<li><a href="https://win-latest.techidaily.com/defying-the-odds-successful-windows-11-installation-on-ineligible-pcs-real-life-examples-zdnet/"><u>Defying the Odds: Successful Windows 11 Installation on Ineligible PCs - Real-Life Examples | ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effortless-file-transfer-sharing-documents-between-your-pc-and-android-devices-using-google-quick-share-a-step-by-step-guide/"><u>Effortless File Transfer: Sharing Documents Between Your PC & Android Devices Using Google Quick Share - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-x5-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-discover-manycam-premium-virtual-camera-solutions/"><u>Live Streaming Mastery: Discover ManyCam - Premium Virtual Camera Solutions</u></a></li>
-<li><a href="https://win-latest.techidaily.com/maximize-pc-performance-how-the-hidden-feature-in-windows-11-quickly-ends-frozen-programs/"><u>Maximize PC Performance: How the Hidden Feature in Windows 11 Quickly Ends Frozen Programs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-rated-acoustic-drapes-in-2-best-of-2024-insights-and-reviews-gizmopedia/"><u>Top-Rated Acoustic Drapes in 2# (Best of 2024) - Insights & Reviews | GizmoPedia</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-rated-gaming-seats-the-ultimate-guide-techradar/"><u>Top-Rated Gaming Seats : The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-apps-to-modify-your-voice-on-commute/"><u>[New] Best Apps to Modify Your Voice on Commute</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimize-your-talk-on-chrome-best-web-based-speech-conversion-services/"><u>2024 Approved Optimize Your Talk on Chrome Best Web-Based Speech Conversion Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strengthening-video-impact-with-professional-audio-cues/"><u>2024 Approved Strengthening Video Impact with Professional Audio Cues</u></a></li>
+<li><a href="https://win-latest.techidaily.com/batch-converting-files-into-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Batch Converting Files Into Ebooks with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/create-interactive-pages-with-buttons-in-your-ebook-learn-how-on-flipbuildercom/"><u>Create Interactive Pages with Buttons in Your eBook: Learn How on FlipBuilder.com</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g23-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G23 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-social-media-preferences-tiktok-versus-youtube-shorts/"><u>In 2024, Navigating Social Media Preferences TikTok Versus YouTube Shorts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/interactive-flash-creation-from-ppts-seamless-conversion-using-flipstudio-pro/"><u>Interactive Flash Creation From PPTs - Seamless Conversion Using FlipStudio Pro</u></a></li>
+<li><a href="https://win-latest.techidaily.com/intuitive-multilingual-layouts-with-tailored-templates-on-flipbuildercom-elevate-your-contents-clarity-and-reach/"><u>Intuitive, Multilingual Layouts with Tailored Templates on FlipBuilder.com - Elevate Your Content's Clarity and Reach</u></a></li>
 </ul></div>
 

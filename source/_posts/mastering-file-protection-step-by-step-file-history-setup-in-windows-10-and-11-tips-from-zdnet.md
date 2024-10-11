@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Protection: Step-by-Step File History Setup in Windows 10 and 11 - Tips From ZDNet"
-date: 2024-09-29T16:42:42.377Z
-updated: 2024-10-05T20:14:40.351Z
+date: 2024-10-04T16:58:11.607Z
+updated: 2024-10-11T16:09:19.319Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-from-zero-to-hero-achieving-1k-insta-buddies-in-30-days-for-2024/"><u>[New] From Zero to Hero Achieving 1K Insta Buddies in 30 Days for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-seamless-migration-moving-your-blackberry-contacts-to-a-new-samsung-smartphone/"><u>1. Seamless Migration: Moving Your BlackBerry Contacts to a New Samsung Smartphone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-visualizing-creativity-to-perfection-with-magix-video-pro-x/"><u>2024 Approved Visualizing Creativity to Perfection with Magix Video Pro X</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-x-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone X Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-workarounds-and-side-jobs-expert-level-pc-building-advice-vintage-handheld-gaming-revival-tips/"><u>ChatGPT Workarounds & Side Jobs, Expert-Level PC Building Advice, Vintage Handheld Gaming Revival Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertisseur-gratuit-de-fichiers-mp3-a-ogg-online-par-le-site-movavi/"><u>Convertisseur Gratuit De Fichiers MP3 À OGG - Online Par Le Site Movavi</u></a></li>
-<li><a href="https://win-latest.techidaily.com/exploring-elite-selections-uncover-prime-gaming-choices-in-google-play-store/"><u>Exploring Elite Selections: Uncover Prime Gaming Choices in Google Play Store</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-14-pro-max-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone 14 Pro Max? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigate-past-error-0x80030309-masterful-fixes-for-your-digital-copy-protection-woes/"><u>Navigate Past 'Error 0X80030309': Masterful Fixes for Your Digital Copy Protection Woes</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-transferring-your-iphone-footage-to-windows-10-pc/"><u>Step-by-Step Guide: Transferring Your iPhone Footage to Windows 10 PC</u></a></li>
-<li><a href="https://win-latest.techidaily.com/streaming-your-favorite-tiktoks-a-step-by-step-guide-to-viewing-on-your-television/"><u>Streaming Your Favorite TikToks: A Step-by-Step Guide to Viewing on Your Television</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-7-superior-video-conferencing-tools-for-efficient-telecommuting/"><u>Top 7 Superior Video Conferencing Tools for Efficient Telecommuting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-photos-create-masterpieces-with-leading-apps-for-2024/"><u>Transform Photos, Create Masterpieces with Leading Apps for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-guide-to-choosing-a-superior-iphone-password-protector/"><u>Ultimate Guide to Choosing a Superior iPhone Password Protector</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-roguelike-rankings-the-best-10-games/"><u>Ultimate Roguelike Rankings The Best 10 Games</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/accessing-resources-via-the-iini-entry-interface/"><u>Accessing Resources via the Iini Entry Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-verbale-conversie-van-ogv-naar-gif-de-veilige-en-eenvoudige-movavi-solutiestool/"><u>Gratuit Verbale Conversie Van OGV Naar GIF: De Veilige en Eenvoudige Movavi Solutiestool</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-se-2020-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone SE (2020) After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://techidaily.com/how-to-do-a-clean-install-of-windows-10-quickly-and-easily/"><u>How to Do a Clean Install of Windows 10, Quickly and Easily!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/securely-transfer-hot-movies-and-porn-from-mofos-as-high-quality-videos-mp4-mov-avi/"><u>Securely Transfer Hot Movies and Porn From Mofos as High-Quality Videos (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/selecting-the-ideal-3d-printing-filament-options/"><u>Selecting the Ideal 3D Printing Filament Options</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-downloading-content-from-kissasianes/"><u>Step-by-Step Guide: Downloading Content From KissAsian.es</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-process-of-downloading-and-transforming-raywenderlich-series-from-video-to-mp4-or-mov-on-windowsmac-os/"><u>Step-by-Step Process of Downloading and Transforming Raywenderlich Series From Video to MP4 or MOV on Windows/Mac OS</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-accessing-nfhs-training-footage-on-both-mac-and-windows/"><u>Step-by-Step Tutorial for Accessing NFHS Training Footage on Both Mac and Windows</u></a></li>
 </ul></div>
 

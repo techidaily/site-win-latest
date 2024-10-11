@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11 VM Setup: A Comprehensive Guide - TechTips by ZDNet"
-date: 2024-10-03T00:35:13.998Z
-updated: 2024-10-05T17:41:04.565Z
+date: 2024-10-07T16:54:42.563Z
+updated: 2024-10-11T16:20:05.316Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-15-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 15 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-narzo-n53-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme Narzo N53 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mp3-creation-from-instagram-vids-explained/"><u>In 2024, MP3 Creation From Instagram Vids Explained</u></a></li>
-<li><a href="https://win-latest.techidaily.com/is-it-possible-to-use-flipbuilders-e-books-on-your-apple-ipad-flipbuildercom/"><u>Is It Possible to Use FlipBuilder's E-Books on Your Apple iPad? [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-latest.techidaily.com/lost-your-flipbuilder-registration-credentials-heres-how-to-recover-them-easily/"><u>Lost Your FlipBuilder Registration Credentials? Here's How to Recover Them Easily</u></a></li>
-<li><a href="https://win-latest.techidaily.com/making-your-flipbook-content-print-ready-with-easy-steps-at-flipbuilder/"><u>Making Your Flipbook Content Print-Ready with Easy Steps at FlipBuilder</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-filmora-watermark-removal-free-trials-hacks-and-official-methods/"><u>New 2024 Approved Filmora Watermark Removal Free Trials, Hacks, and Official Methods</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-ideas-to-life-top-animation-makers-for-every-skill-level/"><u>New Bring Your Ideas to Life Top Animation Makers for Every Skill Level</u></a></li>
-<li><a href="https://win-latest.techidaily.com/opening-hyperlinked-pages-from-your-flipbooks-on-different-browser-tabs-the-ultimate-trick/"><u>Opening Hyperlinked Pages From Your Flipbooks on Different Browser Tabs: The Ultimate Trick</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-itel-p40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Itel P40? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-guide-saving-your-active-flipboard-layout-as-a-reusable-theme/"><u>Quick Guide: Saving Your Active FlipBoard Layout as a Reusable Theme</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister-for-2024/"><u>The Ultimate Comparison Top Screen Recorders, Focusing on Recmeister for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-differences-between-iphone-15-pro-max-and-galaxy-s24-ultra-smartphones/"><u>Unpacking the Differences Between iPhone 15 Pro Max & Galaxy S24 Ultra Smartphones</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-expert-tips-for-seamless-integration-of-pip-in-microsoft-edge-for-2024/"><u>[New] Expert Tips for Seamless Integration of PIP in Microsoft Edge for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-hottest-online-hubs-for-metallic-3d-type-graphics-for-2024/"><u>[New] Hottest Online Hubs for Metallic 3D Type Graphics for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-twittersphere-treasure-trove-for-2024/"><u>[New] The Twittersphere Treasure Trove for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-journey-through-the-stars-with-these-innovative-science-youtubers-for-2024/"><u>[Updated] Journey Through the Stars with These Innovative Science YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-glossary-of-youtube-shorts-terms/"><u>[Updated] The Ultimate Glossary of YouTube Shorts Terms</u></a></li>
+<li><a href="https://win-latest.techidaily.com/a-revolutionary-faceoff-in-remote-communication-the-rise-of-the-lip-reading-challenger-against-microsoft-teams-and-zoom-zdnet/"><u>A Revolutionary Faceoff in Remote Communication: The Rise of the Lip-Reading Challenger Against Microsoft Teams & Zoom | ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-with-windows-since-2011-how-to-install-the-wd-ses-usb-hardware/"><u>Compatible with Windows Since 2011 - How to Install the WD SES USB Hardware</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-f34-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy F34 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/in-depth-microsoft-surface-laptop-studio-2-evaluation-unmatched-capabilities-over-macbook-pro-and-other-competitors-insights-from-zdnet/"><u>In-Depth Microsoft Surface Laptop Studio 2 Evaluation: Unmatched Capabilities Over MacBook Pro & Other Competitors - Insights From ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/is-investing-in-chatgpt-plus-over-chatgpt-worth-it-expert-insights-from-zdnet/"><u>Is Investing in ChatGPT Plus Over ChatGPT Worth It? Expert Insights From ZDNET</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-definitive-guide-to-the-top-9-mic-recording-apps-in-23-for-2024/"><u>The Definitive Guide to the Top 9 Mic Recording Apps in '23 for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transforming-legacy-office-areas-into-hubs-of-activity-and-creativity-strategies-unveiled-by-zdnet/"><u>Transforming Legacy Office Areas Into Hubs of Activity & Creativity: Strategies Unveiled by ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/upgrade-your-microsoft-surface-pros-hard-drive-affordably-a-step-by-step-guide-that-saves-money/"><u>Upgrade Your Microsoft Surface Pro's Hard Drive Affordably: A Step-by-Step Guide That Saves Money!</u></a></li>
 </ul></div>
 

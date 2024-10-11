@@ -1,7 +1,7 @@
 ---
 title: "A Revolutionary Faceoff in Remote Communication: The Rise of the Lip-Reading Challenger Against Microsoft Teams & Zoom | ZDNet"
-date: 2024-09-30T19:03:45.016Z
-updated: 2024-10-05T20:57:35.152Z
+date: 2024-10-04T16:32:24.900Z
+updated: 2024-10-11T16:47:30.639Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,17 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-full-examination-of-razer-kiyo-cam/"><u>[New] In 2024, Full Examination of Razer Kiyo Cam</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-tips-and-tricks-for-iphone-low-light-photography/"><u>[New] In 2024, Tips and Tricks for iPhone Low Light Photography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/email-management-pro-how-to-establish-a-secondary-address-in-gmail/"><u>Email Management Pro: How to Establish a Secondary Address in Gmail</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exclusive-review-of-the-revolutionary-microsoft-surface-laptop-studio-why-it-outshines-traditional-laptops-including-macbook-pro-tech-analysis-by-zdnet/"><u>Exclusive Review of the Revolutionary Microsoft Surface Laptop Studio ✨: Why It Outshines Traditional Laptops, Including MacBook Pro | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ifunny-meme-seamless-download-and-enjoyment-for-2024/"><u>IFunny Meme Seamless Download and Enjoyment for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-htc-u23-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your HTC U23</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-drone-photographers-stabilization-companion-for-2024/"><u>The Drone Photographer's Stabilization Companion for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-budget-friendly-windows-laptop-picks-how-acer-dell-and-others-stack-up-zdnet/"><u>Top Budget-Friendly Windows Laptop Picks: How Acer, Dell & Others Stack Up - ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-budget-friendly-windows-laptops-comparing-brands-like-acer-and-dell-zdnets-guide/"><u>Top Budget-Friendly Windows Laptops: Comparing Brands Like Acer & Dell | ZDNet's Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/understanding-the-role-of-a-tpm-in-enabling-windows-11-a-comprehensive-guide/"><u>Understanding the Role of a TPM in Enabling Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unlock-advanced-touchpad-shortcuts-essential-tips-for-seasoned-professionals-revealed-by-zdnet/"><u>Unlock Advanced Touchpad Shortcuts: Essential Tips for Seasoned Professionals Revealed by ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unlocking-windows-secrets-how-a-microsoft-internal-test-tool-reveals-hidden-functionality-insights-from-zdnet/"><u>Unlocking Windows Secrets: How a Microsoft Internal Test Tool Reveals Hidden Functionality - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-360-video-how-to-make-and-upload-360-video-to-facebook/"><u>[New] Facebook 360 Video How to Make and Upload 360 Video to Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-the-magic-of-films-mood-with-colors/"><u>[New] In 2024, Unveiling the Magic of Film's Mood with Colors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-spots-unveiling-stunning-no-cost-tiktok-backgrounds-for-2024/"><u>[Updated] Top Spots Unveiling Stunning, No-Cost TikTok Backgrounds for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/create-interactive-pages-with-buttons-in-your-ebook-learn-how-on-flipbuildercom/"><u>Create Interactive Pages with Buttons in Your eBook: Learn How on FlipBuilder.com</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determining-win11s-best-fit-home-vs-professional-setup/"><u>Determining Win11's Best Fit: Home Vs. Professional Setup</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effective-strategies-for-managing-and-reusing-e-book-themes-with-flipbook/"><u>Effective Strategies for Managing and Reusing E-Book Themes with FlipBook</u></a></li>
+<li><a href="https://win-latest.techidaily.com/email-distribution-tips-for-sharing-flipbooks-with-html-links-discover-how-on-flipbuildercom/"><u>Email Distribution Tips for Sharing FlipBooks with HTML Links - Discover How on FlipBuilder.com</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-upfront-benefits-vs-potential-issues/"><u>Game Upfront: Benefits Vs. Potential Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro 5G Users</u></a></li>
+<li><a href="https://win-latest.techidaily.com/is-it-possible-to-use-flipbuilders-e-books-on-your-apple-ipad-flipbuildercom/"><u>Is It Possible to Use FlipBuilder's E-Books on Your Apple iPad? [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-latest.techidaily.com/lost-your-flipbuilder-registration-credentials-heres-how-to-recover-them-easily/"><u>Lost Your FlipBuilder Registration Credentials? Here's How to Recover Them Easily</u></a></li>
+<li><a href="https://win-latest.techidaily.com/making-your-flipbook-content-print-ready-with-easy-steps-at-flipbuilder/"><u>Making Your Flipbook Content Print-Ready with Easy Steps at FlipBuilder</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/merging-melodies-the-art-of-crossfading-for-2024/"><u>Merging Melodies The Art of Crossfading for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-do-you-have-a-gopro-and-would-like-to-manage-or-edit-your-videos-then-get-to-know-about-the-gopro-quik-macbook-application-and-its-best-al/"><u>New 2024 Approved Do You Have a GoPro and Would Like to Manage or Edit Your Videos? Then Get to Know About the GoPro Quik MacBook Application and Its Best Alternative Here</u></a></li>
 </ul></div>
 

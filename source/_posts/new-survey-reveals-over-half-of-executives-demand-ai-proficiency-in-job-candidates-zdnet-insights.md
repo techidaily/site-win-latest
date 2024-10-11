@@ -1,7 +1,7 @@
 ---
 title: "New Survey Reveals: Over Half of Executives Demand AI Proficiency in Job Candidates | ZDNet Insights"
-date: 2024-10-01T17:44:35.610Z
-updated: 2024-10-05T16:05:01.807Z
+date: 2024-10-09T16:04:50.027Z
+updated: 2024-10-11T16:59:41.525Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +129,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +149,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +208,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-creative-couture-top-trendy-filters-on-ig/"><u>[New] 2024 Approved Creative Couture Top Trendy Filters on IG</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-reimagine-realities-unlocking-the-potential-of-youtubes-greenscreens/"><u>[New] 2024 Approved Reimagine Realities Unlocking the Potential of YouTube's Greenscreens</u></a></li>
-<li><a href="https://win-latest.techidaily.com/countdown-begins-for-microsofts-major-crisis-in-windows-10-solutions-within-a-year-zdnet-reports/"><u>Countdown Begins for Microsoft's Major Crisis in Windows 10 | Solutions Within a Year? ZDNET Reports</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/critical-reasons-to-skip-immediate-video-format-conversion-with-online-tools-insider-tips-first/"><u>Critical Reasons to Skip Immediate Video Format Conversion with Online Tools - Insider Tips First!</u></a></li>
-<li><a href="https://win-latest.techidaily.com/defying-the-odds-successful-windows-11-installation-on-ineligible-pcs-real-life-examples-zdnet/"><u>Defying the Odds: Successful Windows 11 Installation on Ineligible PCs - Real-Life Examples | ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effortless-file-transfer-sharing-documents-between-your-pc-and-android-devices-using-google-quick-share-a-step-by-step-guide/"><u>Effortless File Transfer: Sharing Documents Between Your PC & Android Devices Using Google Quick Share - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hardware-update-required-successful-engine-operation-depends-on-d3d11-enabled-gpu/"><u>Hardware Update Required: Successful Engine Operation Depends on D3D11-Enabled GPU</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y100t-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y100t FRP</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-channel-identity-design-icons-and-thumbnails-essentials/"><u>In 2024, Channel Identity Design Icons & Thumbnails Essentials</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-immediate-view-of-windows-pics/"><u>In 2024, Immediate View of Windows Pics</u></a></li>
-<li><a href="https://article-helps.techidaily.com/innovative-ways-to-control-your-iphones-picture-angles-for-2024/"><u>Innovative Ways to Control Your iPhone's Picture Angles for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/maximize-pc-performance-how-the-hidden-feature-in-windows-11-quickly-ends-frozen-programs/"><u>Maximize PC Performance: How the Hidden Feature in Windows 11 Quickly Ends Frozen Programs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/microsoft-faces-major-challenge-with-windows-11-just-one-year-remaining-to-find-solution-technewszdnet/"><u>Microsoft Faces Major Challenge with Windows 11: Just One Year Remaining to Find Solution | TechNewsZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/optimal-user-account-selection-for-windows-11-installation-explained-smarttechguide/"><u>Optimal User Account Selection for Windows 11 Installation Explained | SmartTechGuide</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-minecraft-stalling-issues-proven-techniques-to-enhance-your-gaming/"><u>Overcome Minecraft Stalling Issues: Proven Techniques to Enhance Your Gaming</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-rated-acoustic-drapes-in-2-best-of-2024-insights-and-reviews-gizmopedia/"><u>Top-Rated Acoustic Drapes in 2# (Best of 2024) - Insights & Reviews | GizmoPedia</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-rated-gaming-seats-the-ultimate-guide-techradar/"><u>Top-Rated Gaming Seats : The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-safe-mp3-extraction-three-methods-for-youtube-audio-conversion/"><u>[New] 2024 Approved Safe MP3 Extraction Three Methods for YouTube Audio Conversion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rolonged-youtube-visibility-through-continuous-cc-membership-for-2024/"><u>[New] Prolonged YouTube Visibility Through Continuous CC Membership for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-a-deep-dive-into-durecorders-full-range/"><u>[Updated] A Deep Dive Into DuRecorder's Full Range</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-transforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>[Updated] In 2024, Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
+<li><a href="https://win-latest.techidaily.com/batch-converting-files-into-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>Batch Converting Files Into Ebooks with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-share-your-created-flipbooks-in-zip-formats-using-flipbuilder/"><u>How to Share Your Created Flipbooks in .zip Formats Using FlipBuilder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-solve-lenovo-laptop-no-sound-issue/"><u>How To Solve Lenovo Laptop No Sound Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-x50iplus-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor X50i+ online without jailbreak</u></a></li>
+<li><a href="https://win-latest.techidaily.com/interactive-flash-creation-from-ppts-seamless-conversion-using-flipstudio-pro/"><u>Interactive Flash Creation From PPTs - Seamless Conversion Using FlipStudio Pro</u></a></li>
+<li><a href="https://win-latest.techidaily.com/intuitive-multilingual-layouts-with-tailored-templates-on-flipbuildercom-elevate-your-contents-clarity-and-reach/"><u>Intuitive, Multilingual Layouts with Tailored Templates on FlipBuilder.com - Elevate Your Content's Clarity and Reach</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/most-effective-macos-sierra-video-coders-for-2024/"><u>Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-comprehensive-hardware-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transform-your-pdfs-into-interactive-e-magazines-with-advanced-media-integration-flipbuildercom/"><u>Transform Your PDFs Into Interactive E-Magazines with Advanced Media Integration [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transform-your-presentations-into-interactive-ebooks-a-step-by-step-guide-with-flipbuilder/"><u>Transform Your Presentations Into Interactive eBooks: A Step-by-Step Guide with FlipBuilder</u></a></li>
 </ul></div>
 

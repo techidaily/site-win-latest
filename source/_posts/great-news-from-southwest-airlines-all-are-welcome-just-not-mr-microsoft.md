@@ -1,7 +1,7 @@
 ---
 title: "Great News From Southwest Airlines: All Are Welcome, Just Not Mr. Microsoft!"
-date: 2024-10-04T20:56:45.460Z
-updated: 2024-10-05T20:31:43.569Z
+date: 2024-10-07T16:43:51.844Z
+updated: 2024-10-11T16:09:06.624Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,16 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-capturing-brilliance-essential-angles-in-iphone-photography/"><u>[New] 2024 Approved Capturing Brilliance Essential Angles in iPhone Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-inshot-is-it-truly-top-notch/"><u>[New] Evaluating InShot Is It Truly Top-Notch?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigate-meeting-arrangements-with-zoom-ease/"><u>[Updated] In 2024, Navigate Meeting Arrangements with Zoom Ease</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-navigating-webcam-features-on-apples-macbook/"><u>[Updated] In 2024, Navigating Webcam Features on Apple's MacBook</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-to-transfer-sms-from-android-phone-to-windows-desktop-effortlessly/"><u>1. How to Transfer SMS From Android Phone to Windows Desktop Effortlessly</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-quick-guide-simple-steps-for-signing-documents-on-your-ipad/"><u>1. Quick Guide: Simple Steps for Signing Documents on Your iPad</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers/"><u>2024 Approved Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers</u></a></li>
-<li><a href="https://win-latest.techidaily.com/apowersofts-latest-release-enhanced-mac-screen-capture-tool-with-improved-performance/"><u>Apowersoft's Latest Release: Enhanced Mac Screen Capture Tool with Improved Performance</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comprehensive-tutorial-mastering-apowersoft-image-viewer-features/"><u>Comprehensive Tutorial: Mastering Apowersoft Image Viewer Features</u></a></li>
-<li><a href="https://win-latest.techidaily.com/discover-the-most-effective-substitutes-to-lg-flatron-televisions-a-guide-to-smarter-viewing/"><u>Discover the Most Effective Substitutes to LG Flatron Televisions: A Guide to Smarter Viewing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/easy-steps-to-find-and-save-anime-soundtracks-as-mp3s/"><u>Easy Steps to Find and Save Anime Soundtracks as MP3s</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-extract-sound-clips-from-youtube-videos-for-windows-and-macos-users/"><u>How to Extract Sound Clips From YouTube Videos for Windows and macOS Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-lords-mobile-a-comprehensive-guide-to-playing-on-your-computer/"><u>Mastering Lords Mobile: A Comprehensive Guide to Playing on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-to-windows-10-startup-settings-your-ultimate-how-to-guide/"><u>Navigating to Windows 10 Startup Settings - Your Ultimate How-To Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/pc-strategies-and-tips-for-excelling-at-identity-v-battle-royale/"><u>PC Strategies and Tips for Excelling at Identity V Battle Royale</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-8-essential-steps-for-first-time-owners-of-a-new-windows-pc/"><u>Top 8 Essential Steps for First-Time Owners of a New Windows PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/5-indispentic-tools-to-launch-your-youtube-career-for-2024/"><u>[New] 15 Indispentic Tools to Launch Your YouTube Career for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-picture-perfection-picart-guide-to-pristine-image-editing/"><u>[New] In 2024, Picture Perfection PicArt Guide to Pristine Image Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-building-your-brands-buzz-on-youtube-with-fresh-insights/"><u>2024 Approved Building Your Brand's Buzz on Youtube with Fresh Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-select-the-right-font-to-stand-out-on-youtube/"><u>2024 Approved Select the Right Font to Stand Out on YouTube</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-guide-to-downloading-your-favorite-music-from-songslover-in-mp3-format/"><u>Easy Guide to Downloading Your Favorite Music From SongsLover in MP3 Format</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effortless-mp4mov-download-of-popular-anime-shows-secure-and-legal-streaming-alternatives/"><u>Effortless MP4/MOV Download of Popular Anime Shows – Secure and Legal Streaming Alternatives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elite-picks-a-list-mac-video-capture-tools/"><u>Elite Picks A-List Mac Video Capture Tools</u></a></li>
+<li><a href="https://win-latest.techidaily.com/extract-nponl-videos-in-multiple-formats-get-mp4-wmv-mov-avi-flv-on-windows-and-macos/"><u>Extract npo.nl Videos in Multiple Formats: Get MP4, WMV, MOV, AVI, FLV on Windows and MacOS</u></a></li>
+<li><a href="https://win-latest.techidaily.com/free-downloads-convert-dekho-na-into-various-formats-mp3-wav-aac-flac-and-more/"><u>Free Downloads: Convert 'Dekho Na' Into Various Formats - MP3, WAV, AAC, FLAC & More!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/get-your-favorite-episodes-from-9now-with-ease-formerly-known-as-9jumpin-downloader/"><u>Get Your Favorite Episodes From 9Now with Ease, Formerly Known as 9Jumpin Downloader!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/get-your-oracle-training-materials-free-course-downloads-and-educational-videos/"><u>Get Your Oracle Training Materials: Free Course Downloads and Educational Videos</u></a></li>
+<li><a href="https://win-latest.techidaily.com/guide-downloading-nfhs-network-videos-efficiently-on-pc-and-macos/"><u>Guide: Downloading NFHS Network Videos Efficiently on PC & macOS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722888757101-iphone-voice-message-basics-a-simple-tutorial-for-seamless-audio-sharing-on-ios-devices/"><u>IPhone Voice Message Basics: A Simple Tutorial for Seamless Audio Sharing on iOS Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-content-the-key-to-engaging-yt-shorts/"><u>Mastering Content The Key to Engaging YT Shorts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/multi-format-audio-converter-change-caf-files-into-wav-mp3-m4a-aiff-aac-with-just-one-tool/"><u>Multi-Format Audio Converter: Change CAF Files Into WAV, MP3, M4A, AIFF, AAC with Just One Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Cost: Microsoft Announces Paid Windows 11 Updates - What You Need To Know (ZDNet)"
-date: 2024-09-29T23:03:06.837Z
-updated: 2024-10-05T22:38:03.934Z
+date: 2024-10-04T17:11:25.316Z
+updated: 2024-10-11T16:42:54.088Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[New] 2024 Approved A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-essential-tips-for-utilizing-instagram-story-sections/"><u>[New] In 2024, Essential Tips for Utilizing Instagram Story Sections</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-beyond-vidcon-the-most-important-youtube-events/"><u>[Updated] 2024 Approved Beyond VidCon - The Most Important YouTube Events</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-navigating-the-multitude-of-yt-videos-together/"><u>[Updated] 2024 Approved Navigating the Multitude of YT Videos Together</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-transforming-team-conversation-windows-pre-and-post-calls/"><u>[Updated] 2024 Approved Transforming Team Conversation Windows Pre & Post-Calls</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-visual-magic-essential-techniques-for-ps-3d-luts/"><u>[Updated] Crafting Visual Magic Essential Techniques for PS 3D Luts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-download-install-and-use-obs-on-mac/"><u>[Updated] How to Download, Install and Use OBS on Mac</u></a></li>
-<li><a href="https://win-latest.techidaily.com/gardyn-home-kit-30-review-a-high-yield-space-saving-smart-garden-ideal-for-urban-living-tech-insights/"><u>Gardyn Home Kit 3.0 Review - A High Yield, Space-Saving Smart Garden Ideal for Urban Living | Tech Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-a54-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy A54 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/new-survey-reveals-over-half-of-executives-demand-ai-proficiency-in-job-candidates-zdnet-insights/"><u>New Survey Reveals: Over Half of Executives Demand AI Proficiency in Job Candidates | ZDNet Insights</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unveiling-the-hidden-gems-microsofts-best-kept-secrets-in-surface-props-now-aimed-at-enterprise-techinsight/"><u>Unveiling the Hidden Gems: Microsoft's Best-Kept Secrets in Surface Props Now Aimed at Enterprise | TechInsight</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unveiling-the-latest-microsoft-365-copilot-ai-enhancements-discover-and-utilize-these-powerful-tools-zdnet/"><u>Unveiling the Latest Microsoft 365 Copilot AI Enhancements: Discover & Utilize These Powerful Tools | ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-fourfold-technique-to-achieve-a-blurred-look-in-iphone-photography/"><u>[New] The Fourfold Technique to Achieve a Blurred Look in iPhone Photography</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-update-guide-for-surface-book-drivers-quick-download-steps-inside/"><u>Hassle-Free Update Guide for Surface Book Drivers - Quick Download Steps Inside</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-14-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 14 to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-send-your-flash-created-pdf-files-from-flipbuilder-by-email-efficiently/"><u>How to Send Your Flash-Created PDF Files From FlipBuilder by Email Efficiently</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-share-your-created-flipbooks-in-zip-formats-using-flipbuilder/"><u>How to Share Your Created Flipbooks in .zip Formats Using FlipBuilder</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-deal-black-friday-612-for-full-life-win10/"><u>Secure Your Deal: Black Friday - $6.12 for Full-Life Win10</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-samsung-galaxy-s23-fe-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Samsung Galaxy S23 FE without backup.</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transform-your-pdfs-into-interactive-e-magazines-with-advanced-media-integration-flipbuildercom/"><u>Transform Your PDFs Into Interactive E-Magazines with Advanced Media Integration [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transform-your-presentations-into-interactive-ebooks-a-step-by-step-guide-with-flipbuilder/"><u>Transform Your Presentations Into Interactive eBooks: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/why-engineers-cant-get-enough-of-windows-11-unveiling-perspectives-on-microsofts-latest-operating-system-zdnet-reports/"><u>Why Engineers Can't Get Enough of Windows 11: Unveiling Perspectives on Microsoft's Latest Operating System (ZDNet Reports)</u></a></li>
 </ul></div>
 

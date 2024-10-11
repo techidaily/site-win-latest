@@ -1,7 +1,7 @@
 ---
 title: Microsoft Launches Copilot Lab, Enhancing User Experience with Advanced AI Assistance - TechNews
-date: 2024-10-01T00:27:56.284Z
-updated: 2024-10-06T00:50:05.161Z
+date: 2024-10-08T16:29:57.329Z
+updated: 2024-10-11T16:15:26.829Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-style-essentials-download-for-free/"><u>[New] 2024 Approved YouTube Style Essentials - Download for FREE</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-the-codec-complexity-av1-vs-vp9/"><u>[New] Navigating Through the Codec Complexity AV1 Vs. VP9</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-guide-to-retrieving-and-saving-gifs-from-facebooks-domain/"><u>[Updated] Guide to Retrieving and Saving GIFs From Facebook's Domain</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ranking-the-best-top-6-tools-for-fb-lite-video-downloading-2023/"><u>[Updated] In 2024, Ranking the Best Top 6 Tools for FB Lite Video Downloading, 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-logitech-4k-pro-webcam-a-comprehensive-overview/"><u>[Updated] Logitech 4K Pro Webcam - A Comprehensive Overview</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-can-i-convert-sue-bryce-educational-videocasts-into-mp4-format-on-macos-or-windows-platforms/"><u>1. How Can I Convert Sue Bryce Educational Videocasts Into MP4 Format on macOS or Windows Platforms?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/access-anywhere-learn-anytime-converting-online-education-into-downloadable-content-for-windows-and-mac-users/"><u>Access Anywhere, Learn Anytime: Converting Online Education Into Downloadable Content for Windows & Mac Users</u></a></li>
-<li><a href="https://win-latest.techidaily.com/access-top-quality-concert-footage-at-no-cost-exclusive-virtual-concert-archive/"><u>Access Top-Quality Concert Footage at No Cost: Exclusive Virtual Concert Archive</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-find-x7-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Find X7 Ultra to iPad | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-dive-deep-into-duality-mastering-multi-video-watching-on-youtube/"><u>In 2024, Dive Deep Into Duality Mastering Multi-Video Watching on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-story-structuring-at-its-core/"><u>In 2024, Story Structuring at Its Core</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unable-to-download-content-from-flipbuilder-what-are-your-options/"><u>Unable To Download Content From FlipBuilder - What Are Your Options?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/uncovering-unique-content-a-guide-to-locating-fresh-materials-using-flipbuilders-tools/"><u>Uncovering Unique Content: A Guide to Locating Fresh Materials Using FlipBuilder's Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elite-smartphones-reigning-in-ultra-clarity-video-recording/"><u>[New] In 2024, Elite Smartphones Reigning in Ultra-Clarity Video Recording</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamline-your-impact-the-most-effective-video-formats-for-youtube-for-2024/"><u>[New] Streamline Your Impact The Most Effective Video Formats for YouTube for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-manycam-alternatives-top-live-streaming-apps-and-fake-camera-solutions/"><u>Best ManyCam Alternatives: Top Live Streaming Apps and Fake Camera Solutions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/countdown-begins-for-microsofts-major-crisis-in-windows-10-solutions-within-a-year-zdnet-reports/"><u>Countdown Begins for Microsoft's Major Crisis in Windows 10 | Solutions Within a Year? ZDNET Reports</u></a></li>
+<li><a href="https://win-latest.techidaily.com/defying-the-odds-successful-windows-11-installation-on-ineligible-pcs-real-life-examples-zdnet/"><u>Defying the Odds: Successful Windows 11 Installation on Ineligible PCs - Real-Life Examples | ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effortless-file-transfer-sharing-documents-between-your-pc-and-android-devices-using-google-quick-share-a-step-by-step-guide/"><u>Effortless File Transfer: Sharing Documents Between Your PC & Android Devices Using Google Quick Share - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gif-in-mp4-konverteren-met-eindigd-gestalte-discoveren-van-movavis-zeer-indienbare-toepassingen/"><u>GIF in MP4 Konverteren Met Eindigd Gestalte: Discoveren Van Movavi's Zeer Indienbare Toepassingen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-and-install-graphics-card-drivers-for-the-dell-g15-laptop-in-windows-environment/"><u>How to Update & Install Graphics Card Drivers for the Dell G15 Laptop in Windows Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-remedies-for-real-time-gpt-errors/"><u>Immediate Remedies for Real-Time GPT Errors</u></a></li>
+<li><a href="https://win-latest.techidaily.com/maximize-pc-performance-how-the-hidden-feature-in-windows-11-quickly-ends-frozen-programs/"><u>Maximize PC Performance: How the Hidden Feature in Windows 11 Quickly Ends Frozen Programs</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-and-xbox-series-x-a-gaming-comparison/"><u>PlayStation 5 & Xbox Series X: A Gaming Comparison</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-rated-acoustic-drapes-in-2-best-of-2024-insights-and-reviews-gizmopedia/"><u>Top-Rated Acoustic Drapes in 2# (Best of 2024) - Insights & Reviews | GizmoPedia</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-rated-gaming-seats-the-ultimate-guide-techradar/"><u>Top-Rated Gaming Seats : The Ultimate Guide | TechRadar</u></a></li>
 </ul></div>
 

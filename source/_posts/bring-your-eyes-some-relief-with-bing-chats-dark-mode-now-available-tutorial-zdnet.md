@@ -1,7 +1,7 @@
 ---
 title: Bring Your Eyes Some Relief with Bing Chat's Dark Mode Now Available - Tutorial | ZDNet
-date: 2024-09-29T20:38:23.345Z
-updated: 2024-10-05T23:29:20.206Z
+date: 2024-10-05T16:05:41.146Z
+updated: 2024-10-11T16:07:54.670Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -135,34 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -208,24 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>[Updated] 2024 Approved Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
-<li><a href="https://win-latest.techidaily.com/filmora/"><u>簡単な手順で、Filmoraの無料版からロゴを取り外す方法</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-proplus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Pro+ Phone without Any Data Loss</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-v29e-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo V29e to Roku | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/m4a-wav-5/"><u>M4A WAV変換が簡単に! 世界中のユーザーも愛しているベスト5フリーオーディオコンバーターソフト</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-format-transitions-how-to-switch-between-different-media-files-easily/"><u>Mastering Format Transitions: How to Switch Between Different Media Files Easily</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mp411-mac-oswindows/"><u>MP4ファイルの中からクリーンなオーディオを抽出するための11個のお得な無料ソフトウェア - Mac OSとWindowsで利用</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-and-easy-steps-transforming-hevch265-videos-into-avi-format/"><u>Quick & Easy Steps: Transforming HEVC/H.265 Videos Into AVI Format</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-guide-converting-flv-files-into-mp3-with-simple-techniques/"><u>Quick Guide: Converting FLV Files Into MP3 with Simple Techniques</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-guide-high-quality-conversion-of-dvds-to-ipad-air-speedy-methods-explored/"><u>Quick Guide: High-Quality Conversion of DVDs to iPad Air - Speedy Methods Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-connection-issues-steps-to-troubleshoot-cannot-connect-to-remote-server/"><u>Resolving Connection Issues: Steps to Troubleshoot 'Cannot Connect to Remote Server'</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-fragmented-digital-visuals/"><u>Reviving Fragmented Digital Visuals</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-solve-android-app-problems-with-youtube-no-more-buffering/"><u>Step-by-Step Guide: Solve Android App Problems with YouTube - No More Buffering!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-crusader-kings-3-from-freezing-on-your-desktop-computer/"><u>Stop Crusader Kings 3 From Freezing on Your Desktop Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-ai-powered-plugins-for-enhancing-your-cryptocurrency-experience/"><u>Top 8 AI-Powered Plugins for Enhancing Your Cryptocurrency Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-overcome-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Guide: How to Overcome FPS Drops & Stutters in Call of Duty Modern Warfare 2 on PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy A23 5G Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/winning-the-fight-against-windows-10s-bluetooth-driver-glitches-solved/"><u>Winning the Fight Against Windows 10'S Bluetooth Driver Glitches [SOLVED]</u></a></li>
-<li><a href="https://win-latest.techidaily.com/pc8/"><u>ストリーミング動画の自由な記録 - PC用最優秀無料ソフト8つ</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-professionals-path-expert-strategies-for-360-youtube-live-broadcasting/"><u>[New] In 2024, The Professional's Path Expert Strategies for 360° Youtube Live Broadcasting</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-resolving-silence-in-tweeted-video-playbacks/"><u>[New] Resolving Silence in Tweeted Video Playbacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-galaxy-s8-review-a-leap-forward-with-4k-display/"><u>2024 Approved Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
+<li><a href="https://win-latest.techidaily.com/bid-farewell-to-chaotic-email-overload-discover-how-one-trick-can-streamline-your-messages-featuring-zdnets-proven-method/"><u>Bid Farewell to Chaotic Email Overload: Discover How One Trick Can Streamline Your Messages, Featuring ZDNET's Proven Method</u></a></li>
+<li><a href="https://win-latest.techidaily.com/boosting-performance-and-security-the-benefits-of-upgrading-to-windows-professional-on-your-laptop-or-desktop/"><u>Boosting Performance & Security: The Benefits of Upgrading to Windows Professional on Your Laptop or Desktop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-pova-5-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Pova 5</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-on-how-to-perform-a-remote-ios-device-factory-reset/"><u>Complete Guide on How To Perform a Remote iOS Device Factory Reset</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-visual-noise-windows-11-tab-control/"><u>Decreasing Visual Noise: Windows 11 Tab Control</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expand-your-ipads-capacity-unlock-three-simple-methods-for-clearing-storage/"><u>Expand Your iPad's Capacity: Unlock Three Simple Methods for Clearing Storage</u></a></li>
+<li><a href="https://win-latest.techidaily.com/get-started-now-comprehensive-action-software-user-guide/"><u>Get Started Now: Comprehensive Action Software User Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo 60x 5G Phone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-how-to-take-region-selection-screenshots-on-your-device/"><u>Step-by-Step Guide: How to Take Region Selection Screenshots on Your Device</u></a></li>
+<li><a href="https://win-latest.techidaily.com/stream-with-confidence-mastering-the-art-of-action-oriented-live-broadcasts/"><u>Stream with Confidence: Mastering the Art of Action-Oriented Live Broadcasts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-guide-mastering-the-art-of-snipping-movies-and-videos-on-windows-with-easy-steps/"><u>Ultimate Guide: Mastering the Art of Snipping Movies & Videos on Windows with Easy Steps</u></a></li>
 </ul></div>
 
