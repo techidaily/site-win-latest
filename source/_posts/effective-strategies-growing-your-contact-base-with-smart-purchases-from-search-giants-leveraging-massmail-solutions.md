@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies : Growing Your Contact Base with Smart Purchases From Search Giants - Leveraging MassMail Solutions"
-date: 2024-10-20T05:28:28.000Z
-updated: 2024-10-22T19:57:31.793Z
+date: 2024-10-22T06:23:53.125Z
+updated: 2024-10-29T06:13:33.003Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,9 +32,29 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -50,13 +63,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -77,37 +83,30 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -117,16 +116,16 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -139,6 +138,13 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -167,20 +173,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-decoding-the-perfection-of-hp-envy-27s-design/"><u>[New] 2024 Approved Decoding the Perfection of HP Envy 27'S Design</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-from-passion-to-paycheck-a-strategic-guide-to-attracting-brand-backers-on-instagram/"><u>[New] From Passion to Paycheck A Strategic Guide to Attracting Brand Backers on Instagram</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-filters-a-comprehensive-guide/"><u>[New] Instagram Filters A Comprehensive Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-presentations-with-professional-screencasts/"><u>[Updated] In 2024, Elevate Your Presentations with Professional Screencasts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-infuse-motion-blur-into-image-sequence-for-2024/"><u>[Updated] Infuse Motion Blur Into Image Sequence for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-real-time-media-magic-the-pmix-vs-wirecast-faceoff/"><u>[Updated] Real-Time Media Magic The PMix Vs. Wirecast Faceoff</u></a></li>
-<li><a href="https://win-latest.techidaily.com/4-effektieve-oplossingen-om-bestanddateien-inautomatische-ontbinding-technieken-voor-windows-10/"><u>4 Effektieve Oplossingen Om Bestanddateien Inautomatische Ontbinding Technieken Voor Windows 10</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728464950820-4/"><u>最高の4つの圧縮ソフトウェアツール 詳細と比較分析</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-to-unlocking-every-steam-badge/"><u>A Guide to Unlocking Every Steam Badge</u></a></li>
-<li><a href="https://win-latest.techidaily.com/behebung-von-problemen-mit-dem-wiederherstellungsmodus-in-windows-t-wenn-er-beim-booten-oder-bei-datenwiederherstellung-nicht-reagiert/"><u>Behebung Von Problemen Mit Dem Wiederherstellungsmodus in Windows T, Wenn Er Beim Booten Oder Bei Datenwiederherstellung Nicht Reagiert</u></a></li>
-<li><a href="https://win-latest.techidaily.com/como-realizar-una-copia-de-seguridad-libre-para-su-synology-nas-en-un-almacenamiento-exterior/"><u>Cómo Realizar Una Copia De Seguridad Libre Para Su Synology NAS en Un Almacenamiento Exterior</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comprendere-la-limitazione-del-solo-salvataggio-nel-backup-server-windows/"><u>Comprendere La Limitazione Del Solo Salvataggio Nel Backup Server Windows</u></a></li>
-<li><a href="https://win-latest.techidaily.com/fix-ipad-pro-resume-download-hang-up-a-guide-to-5-remedies/"><u>Fix iPad Pro 'Resume Download' Hang-Up: A Guide to 5 Remedies</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/guide-complet-restaurer-des-images-sur-de-nouveaux-supports-avec-le-logiciel-aomei-backupper/"><u>Guide Complet : Restaurer Des Images Sur De Nouveaux Supports Avec Le Logiciel AOMEI Backupper.</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-discover-review-and-compare-with-az-screenshotter/"><u>In 2024, Discover, Review & Compare with AZ Screenshotter</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>[New] 2024 Approved Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-smartscreen-capture-v11-professional/"><u>[New] In 2024, SmartScreen Capture V11 Professional</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-adopting-a-simple-yet-powerful-approach-to-advertising-content/"><u>2024 Approved Adopting a Simple Yet Powerful Approach to Advertising Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/auditory-adaptability-for-ace-gamers/"><u>Auditory Adaptability for Ace Gamers</u></a></li>
+<li><a href="https://win-latest.techidaily.com/como-habilitar-el-modo-de-inicio-seguro-en-la-uefi-para-optimizar-las-actualizaciones-de-windows-11-una-guia-completa/"><u>Cómo Habilitar El Modo De Inicio Seguro en La UEFI Para Optimizar Las Actualizaciones De Windows 11: Una Guía Completa</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-a-unique-windows-11-search-interface/"><u>Crafting a Unique Windows 11 Search Interface</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-steps-migrating-data-from-hdd-to-sandisk-ssd-on-windows-11/"><u>Easy Steps: Migrating Data From HDD to SanDisk SSD on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-utilize-chatgpts-assistance-in-diagnosing-and-resolving-pc-issues/"><u>How to Utilize ChatGPT's Assistance in Diagnosing and Resolving PC Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/633146-9781429969093-life-before-life/"><u>Life Before Life | Free Book</u></a></li>
+<li><a href="https://win-latest.techidaily.com/schritt-fur-schritt-guide-zum-klonen-ihrer-festplatte-unter-windows-versionen-11-10-8-und-7/"><u>Schritt-Für-Schritt-Guide Zum Klonen Ihrer Festplatte Unter Windows (Versionen 11, 10, 8 Und 7)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-perils-of-faux-youtube-supporter-purchases-for-2024/"><u>The Perils of Faux YouTube Supporter Purchases for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-freeware-fur-das-synchronisieren-von-dateien-auf-dem-neuesten-windows-11-best-practices/"><u>Top Freeware Für Das Synchronisieren Von Dateien Auf Dem Neuesten Windows 11 - Best Practices</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-guide-solving-non-syncing-icloud-reminders-across-iphone-ipad-and-mac-devices/"><u>Troubleshooting Guide: Solving Non-Syncing iCloud Reminders Across iPhone, iPad & Mac Devices</u></a></li>
+<li><a href="https://win-latest.techidaily.com/two-methods-of-installing-windows-11-on-a-new-ssd-cd-based-and-diskless-setup/"><u>Two Methods of Installing Windows 11 on a New SSD: CD-Based and Diskless Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-1011-recovery-file-restoration-a-step-by-step-guide/"><u>Windows 10/11 Recovery File Restoration: A Step-by-Step Guide</u></a></li>
 </ul></div>
 
