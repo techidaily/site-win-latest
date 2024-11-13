@@ -1,7 +1,7 @@
 ---
 title: "Applying the Gratitude Strategy in Sales: How Courtesy Can Increase Revenue with MassMail"
-date: 2024-10-31T01:21:25.395Z
-updated: 2024-11-04T00:17:42.312Z
+date: 2024-11-09T22:36:53.751Z
+updated: 2024-11-12T19:07:00.674Z
 tags:
   - product
 categories:
@@ -23,10 +23,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,22 +40,15 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -70,6 +63,13 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -88,10 +88,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -101,6 +101,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -114,27 +121,20 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -167,22 +167,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-drone-buddies-kids-most-enjoyed-toy-companions/"><u>[New] Best Drone Buddies Kids' Most Enjoyed Toy Companions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-freed-images-public-domain-canvas/"><u>[Updated] Freed Images Public Domain Canvas</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-14-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 14 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 13/iPad | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/57ek5ocl6loh5paz5lplusu5b6p5oqa6kgt77ya5aac5l2v6yen54plusplus5bey57at6kkr5yiq6zmk55qe55u45qmf55wr6z2i/"><u>緊急資料修復技術：如何重現已經被刪除的相機畫面</u></a></li>
-<li><a href="https://win-latest.techidaily.com/anugerah-latih-perangkat-lunak-kopi-ssd-terbaik-alokasi-ranking-dan-tutorial/"><u>Anugerah Latih Perangkat Lunak Kopi SSD Terbaik - Alokasi Ranking Dan Tutorial</u></a></li>
-<li><a href="https://win-latest.techidaily.com/designing-approachable-404-error-webpages-with-ease-through-massmail-solutions/"><u>Designing Approachable 404-Error Webpages with Ease Through MassMail Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/easy-peasy-memes-step-by-step-in-kinemaster-for-2024/"><u>Easy-Peasy Memes Step by Step in KineMaster for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effective-strategies-growing-your-contact-base-with-smart-purchases-from-search-giants-leveraging-massmail-solutions/"><u>Effective Strategies : Growing Your Contact Base with Smart Purchases From Search Giants - Leveraging MassMail Solutions</u></a></li>
-<li><a href="https://win-latest.techidaily.com/elevating-digital-strategies-why-quality-content-is-paramount-using-massmail-tools/"><u>Elevating Digital Strategies: Why Quality Content Is Paramount Using Massmail Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://win-latest.techidaily.com/la-soluzione-migliore-per-il-trasferimento-di-dati-sincronizzazione-file-con-dischi-esterni-in-diverse-versioni-di-windows/"><u>La Soluzione Migliore per Il Trasferimento Di Dati: Sincronizzazione File Con Dischi Esterni in Diverse Versioni Di Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-hashtags-todays-must-learn-tips/"><u>Mastering #Instagram Hashtags Today's Must-Learn Tips</u></a></li>
-<li><a href="https://win-latest.techidaily.com/maximize-your-outreach-the-updated-list-of-top-7-email-sending-solutions-for-unbeatable-deliverability-using-massmail-software-latest-insights/"><u>Maximize Your Outreach: The Updated List of Top 7 Email Sending Solutions for Unbeatable Deliverability Using Massmail Software [Latest Insights]</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-retrieving-lost-album-picture-collections/"><u>Step-by-Step Guide: Retrieving Lost Album Picture Collections</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-capture-screen-with-macos-tools-and-software-for-2024/"><u>[New] Easy Steps Capture Screen with macOS Tools & Software for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-captureit-all-revisiting-recordmax-users/"><u>[New] In 2024, CaptureIt All! Revisiting 'RecordMax' Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-list-of-the-best-8-sites-for-free-3d-text-psd-downloads/"><u>[Updated] A List of the Best 8 Sites for Free 3D Text PSD Downloads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-advance-your-vimeo-video-speed/"><u>[Updated] Advance Your Vimeo Video Speed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-direct-directions-simple-techniques-for-laptop-screening-dell/"><u>[Updated] In 2024, Direct Directions Simple Techniques for Laptop Screening (Dell)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-exploring-obscured-feedback-on-youtube-videos/"><u>2024 Approved Exploring Obscured Feedback on YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rapid-methods-unsettle-and-rearrange-your-video-list/"><u>2024 Approved Rapid Methods Unsettle and Rearrange Your Video List</u></a></li>
+<li><a href="https://win-latest.techidaily.com/5-efficient-methods-to-revert-to-a-previous-document-version-in-excel-or-word/"><u>5 Efficient Methods to Revert to a Previous Document Version in Excel or Word</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-nvme-ssd/"><u>如何顺利复制和克隆 Windows 系统中的 NVMe SSD: 探索两个有效方法</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-demystified-for-passionate-creators-and-viewers/"><u>In 2024, Vimeo Demystified For Passionate Creators & Viewers</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728481489982-macos/"><u>MacOS用画像のバックアップ：外部ドライブへの移行手順</u></a></li>
+<li><a href="https://win-latest.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederaufbau-einer-gpt-datenpartition-erfahre-alles/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederaufbau Einer GPT-Datenpartition - Erfahre Alles</u></a></li>
+<li><a href="https://win-latest.techidaily.com/soluzione-rapida-per-ssd-clonato-che-non-si-avvia-su-windows-1187/"><u>Soluzione Rapida per SSD Clonato Che Non Si Avvia Su Windows 11/8/7</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-recover-my-documents-on-windows-1011-when-it-goes-missing/"><u>Step-by-Step Guide to Recover 'My Documents' On Windows 10/11 When It Goes Missing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-tricks-for-reducing-resonance-in-sound-files-step-by-step-approach/"><u>Updated Tricks for Reducing Resonance in Sound Files Step-by-Step Approach</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728473307147-windows-113/"><u>Windows 11用の「休止モード」設定手順：3種類の解決策</u></a></li>
 </ul></div>
 
