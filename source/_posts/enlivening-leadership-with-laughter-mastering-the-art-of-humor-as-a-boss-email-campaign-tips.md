@@ -1,7 +1,7 @@
 ---
 title: "Enlivening Leadership with Laughter: Mastering the Art of Humor as a Boss | Email Campaign Tips"
-date: 2024-11-21T22:05:01.948Z
-updated: 2024-11-22T18:33:33.896Z
+date: 2024-11-24T02:09:43.072Z
+updated: 2024-12-01T01:46:32.057Z
 tags:
   - product
 categories:
@@ -32,6 +32,10 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -53,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -66,6 +74,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -75,28 +87,24 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,10 +114,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,20 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-engineer-meme-creation-in-adobe/"><u>[New] In 2024, Engineer Meme Creation in Adobe</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-distinguishing-between-youtube-content-control-and-creative-commons-flexibility-for-2024/"><u>[Updated] Distinguishing Between YouTube Content Control and Creative Commons Flexibility for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-entry-level-insights-navigating-hd-and-uhd-video-standards/"><u>[Updated] Entry-Level Insights Navigating HD & UHD Video Standards</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-fixing-the-problem-hidden-thumbnails-in-youtube-shorts/"><u>[Updated] In 2024, Fixing the Problem Hidden Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-depth-review-dji-phantom-4-in-action/"><u>[Updated] In Depth Review DJI Phantom 4 in Action</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lilliputian-storyboard-outline/"><u>2024 Approved Lilliputian Storyboard Outline</u></a></li>
-<li><a href="https://win-latest.techidaily.com/aomei-backupper-effortless-full-system-rollback-solutions/"><u>AOMEI Backupper: Effortless Full System Rollback Solutions</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-conserver-le-volumage-dynamique-dun-systeme-sur-un-disque-dynamique-guide-complet/"><u>Comment Conserver Le Volumage Dynamique D'un Système Sur Un Disque Dynamique : Guide Complet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-transferer-sans-probleme-vos-donnees-dun-hdd-a-un-portable-usb-extern/"><u>Comment Transférer Sans Problème Vos Données D'un HDD À Un Portable USB Extern</u></a></li>
-<li><a href="https://win-latest.techidaily.com/connecting-your-nas-drive-on-windows-10-and-11-a-step-by-step-guide/"><u>Connecting Your NAS Drive on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-for-a-revolution-the-samsung-galaxy-z-flip-6-pricing-release-schedule-and-top-tier-specs-explained/"><u>Get Ready for a Revolution: The Samsung Galaxy Z Flip 6 Pricing, Release Schedule & Top-Tier Specs Explained</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mejores-usos-de-la-utilidad-foto-magia-de-aomei-para-respaldos-y-copias-multiples/"><u>Mejores Usos De La Utilidad Foto Magia De AOMEI Para Respaldos Y Copias Múltiples</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-your-iphone-with-18-ingenious-shortcuts-app-solutions/"><u>Streamline Your iPhone with 18 Ingenious Shortcuts App Solutions</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-3-tecnicas-expertas-para-una-transferencia-gratuita-y-efectiva-de-archivos-en-macos/"><u>Top 3 Técnicas Expertas Para Una Transferencia Gratuita Y Efectiva De Archivos en macOS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unraveling-the-tips-and-tricks-for-fixing-tfla0002-in-academic-testing/"><u>Unraveling the Tips & Tricks for Fixing 'TFLA0002' In Academic Testing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-dailymotion-elites-in-snapchat-world-for-2024/"><u>[New] Dailymotion Elites in Snapchat World for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-5-digital-recorder-selects/"><u>[Updated] Best 5 Digital Recorder Selects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-leveraging-video-features-annotations-and-cards/"><u>2024 Approved Leveraging Video Features Annotations & Cards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-podcast-tools-for-windows-8/"><u>2024 Approved Ultimate Podcast Tools for Windows 8</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728501937877-sd/"><u>無料のSDカードから削除された写真の復元方法</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effizientes-image-reparatur-tool-zur-gewahrleistung-erfolgreicher-datenwiederherstellungsprozesse/"><u>Effizientes Image Reparatur Tool Zur Gewährleistung Erfolgreicher Datenwiederherstellungsprozesse</u></a></li>
+<li><a href="https://win-latest.techidaily.com/emeditor-text-editor-recover-lost-projects-and-restore-workspaces-with-ease/"><u>EmEditor Text Editor: Recover Lost Projects & Restore Workspaces with Ease</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expert-guide-to-securely-rebooting-your-dell-laptop-on-windows-11-discover-the-best-4-procedures/"><u>Expert Guide to Securely Rebooting Your Dell Laptop on Windows 11 – Discover the Best 4 Procedures!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/guide-dimportation-de-photos-dans-un-nouvel-album-ios-a-laide-de-fonebackup-etapes-facilement-suivies/"><u>Guide D'Importation De Photos Dans Un Nouvel Album iOS À L'aide De FoneBackup : Étapes Facilement Suivies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-narzo-60-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme Narzo 60 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/is-regular-comprehensive-scanning-needed-for-windows-defender-protection-insights-from-yl-computing/"><u>Is Regular Comprehensive Scanning Needed for Windows Defender Protection - Insights From YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lg-k51-smartphone-evaluation-stunning-designs-limited-by-sluggish-cpu-performance/"><u>LG K51 Smartphone Evaluation: Stunning Designs Limited by Sluggish CPU Performance</u></a></li>
+<li><a href="https://win-latest.techidaily.com/recuperation-rapide-et-facile-apres-un-incident-pour-votre-serveur-windows-server-201/"><u>Récupération Rapide Et Facile Après Un Incident Pour Votre Serveur Windows Server 201</u></a></li>
+<li><a href="https://win-latest.techidaily.com/resuelto-problemas-de-acceso-al-disco-d-en-windows-10/"><u>Resuelto: Problemas De Acceso Al Disco D en Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-exit-strategy-pre-delete-protocols-for-fb/"><u>Social Media Exit Strategy: Pre-Delete Protocols for FB</u></a></li>
+<li><a href="https://win-latest.techidaily.com/solucion-implementada-fallo-en-la-configuracion-de-unidad-de-recuperacion-de-windows-11/"><u>Solución Implementada: Fallo en La Configuración De Unidad De Recuperación De Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
 </ul></div>
 

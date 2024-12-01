@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of Maintaining a Pristine Email Database: Insights From MassMail"
-date: 2024-11-22T03:08:14.787Z
-updated: 2024-11-23T01:16:10.713Z
+date: 2024-11-28T00:02:03.657Z
+updated: 2024-11-30T22:56:31.872Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -63,7 +71,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -74,17 +82,9 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -95,24 +95,28 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-key-strategies-for-high-definition-iptv-logging/"><u>[New] Key Strategies for High-Definition IPTV Logging</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-supercharge-your-facebook-video-speed/"><u>[New] The Ultimate Guide to Supercharge Your Facebook Video Speed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-on-the-water-fishings-top-5-action-cameras/"><u>[Updated] Best on the Water Fishing's Top 5 Action Cameras</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-churning-charts-todays-1-backdrop-music-for-youtube-shorts/"><u>2024 Approved Churning Charts Today's #1 Backdrop Music for YouTube Shorts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubers-with-a-glamour-touch-top-names/"><u>2024 Approved YouTubers with a Glamour Touch Top Names</u></a></li>
-<li><a href="https://win-latest.techidaily.com/applying-the-gratitude-strategy-in-sales-how-courtesy-can-increase-revenue-with-massmail/"><u>Applying the Gratitude Strategy in Sales: How Courtesy Can Increase Revenue with MassMail</u></a></li>
-<li><a href="https://win-latest.techidaily.com/complete-guide-to-resolving-hulu-error-codes-expert-troubleshooting-strategies/"><u>Complete Guide to Resolving Hulu Error Codes: Expert Troubleshooting Strategies</u></a></li>
-<li><a href="https://win-latest.techidaily.com/complete-pc-backup-with-dropbox-top-two-methods-revealed/"><u>Complete PC Backup with Dropbox: Top Two Methods Revealed</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effective-strategies-for-non-intrusive-batch-emailing-with-massmail-pro/"><u>Effective Strategies for Non-Intrusive Batch Emailing with MassMail Pro</u></a></li>
-<li><a href="https://win-latest.techidaily.com/enlivening-leadership-with-laughter-mastering-the-art-of-humor-as-a-boss-email-campaign-tips/"><u>Enlivening Leadership with Laughter: Mastering the Art of Humor as a Boss | Email Campaign Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y78-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y78 5G? Try These Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/professional-macx-dvd-transcoding-suite-at-rock-bottom-prices-secure-your-exclusive-offer-now-online/"><u>Professional MacX DVD Transcoding Suite at Rock-Bottom Prices – Secure Your Exclusive Offer Now Online!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-frame-rate-dips-and-stutters-in-call-of-duty-modern-warfare-2-on-pc/"><u>Resolved: Fixes for Frame Rate Dips & Stutters in Call of Duty: Modern Warfare 2 on PC</u></a></li>
-<li><a href="https://win-latest.techidaily.com/restore-lost-data-from-your-sd-card-with-recuva-a-step-by-step-guide/"><u>Restore Lost Data From Your SD Card with Recuva - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/suchen-sie-verschollene-dokumente-wieder-erfolgreiche-wiederherstellung-verlorener-dateien-unter-windows-10/"><u>Suchen Sie Verschollene Dokumente Wieder: Erfolgreiche Wiederherstellung Verlorener Dateien Unter Windows 10</u></a></li>
-<li><a href="https://win-latest.techidaily.com/synology-nas-backups-auf-windows-11-3-effiziente-losungen/"><u>Synology NAS-Backups Auf Windows 11: 3 Effiziente Lösungen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-freigiebare-video-bearbeitungssoftware-fur-mac-und-windows-1187-ausschneiden-unerwunschter-szenen/"><u>Top-Freigiebare Video-Bearbeitungssoftware Für Mac Und Windows 11/8/7 - Ausschneiden Unerwünschter Szenen</u></a></li>
-<li><a href="https://win-latest.techidaily.com/wireless-transfer-of-iphone-contacts-seamlessly-shifting-data-between-two-iphones-without-a-pc-or-mac/"><u>Wireless Transfer of iPhone Contacts: Seamlessly Shifting Data Between Two iPhones Without a PC or Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-streamlining-video-editing-in-obs-with-luts-for-2024/"><u>[New] Streamlining Video Editing in OBS With LUTs for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[Updated] Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-memelores-premier-10-templates/"><u>[Updated] In 2024, Memelore's Premier 10 Templates</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728471510736-word/"><u>「Word文書管理のエキスパート術：ウェブ上で最適な排除手法」</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728492323177-2/"><u>「ツイッターから削除された画像の復元手順がわかりませんか？2つのシンプルな解決策」</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-effortless-transfer-4-methods-to-migrate-your-entire-profile-from-old-phone-to-new-iphone/"><u>1. Effortless Transfer: 4 Methods to Migrate Your Entire Profile From Old Phone to New iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-expertly-curated-5-best-android-screen-capture-options/"><u>2024 Approved Expertly Curated 5 Best Android Screen Capture Options</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comment-recouvrer-votre-passeport-de-restauration-perdu-dans-windows-10-ou-11-guide-comprehensif-en-7-etapes/"><u>Comment Recouvrer Votre Passeport De Restauration Perdu Dans Windows 10 Ou 11 : Guide Compréhensif en 7 Étapes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-m6-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco M6 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/migrating-your-vmware-workstation-vms-to-esxi-learn-the-top-3-strategies/"><u>Migrating Your VMware Workstation VMs to ESXi - Learn the Top 3 Strategies</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-essential-online-hubs-for-natural-environment-recordings/"><u>New In 2024, Essential Online Hubs for Natural Environment Recordings</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-3-tecnicas-expertas-para-una-transferencia-gratuita-y-efectiva-de-archivos-en-macos/"><u>Top 3 Técnicas Expertas Para Una Transferencia Gratuita Y Efectiva De Archivos en macOS</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-io-device-errors-effective-solutions-and-tips/"><u>Troubleshooting IO Device Errors: Effective Solutions and Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winxp-fixing-no-devices-detected-issue/"><u>WinXP: Fixing No Devices Detected Issue</u></a></li>
 </ul></div>
 

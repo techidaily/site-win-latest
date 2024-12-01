@@ -1,7 +1,7 @@
 ---
 title: "Effective Viral Marketing Techniques for 2009: How to Leverage Tell-a-Friend Methods Using Massmail Software"
-date: 2024-11-18T16:01:40.944Z
-updated: 2024-11-22T19:36:00.540Z
+date: 2024-11-23T19:39:19.396Z
+updated: 2024-12-01T02:11:01.090Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -36,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -70,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -90,13 +86,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,17 +102,21 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,24 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-making-words-dance-the-art-of-sculpted-photographic-content-for-2024/"><u>[New] Making Words Dance The Art of Sculpted Photographic Content for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-elevate-your-editing-skills-with-pro-color-techniques/"><u>[Updated] In 2024, Elevate Your Editing Skills with Pro Color Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-uav-connoisseurs-guide-to-essential-equipment/"><u>[Updated] The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-recommendations-top-5-video-recording-software/"><u>2024 Approved Expert Recommendations Top 5 Video Recording Software</u></a></li>
-<li><a href="https://win-latest.techidaily.com/5-efficient-methods-to-revert-to-a-previous-document-version-in-excel-or-word/"><u>5 Efficient Methods to Revert to a Previous Document Version in Excel or Word</u></a></li>
-<li><a href="https://win-latest.techidaily.com/5lplusd5a2y44gb44ga44gr5rai44gi44gm44gx44gplus44gg44oa44km44oz44ot44o844oj44ov44kh44kk44or44gu54sh5lql44gq5oi744kk5pa577ya44ks44kk44oj/"><u>保存せずに消えてしまうダウンロードファイルの無事な戻り方：ガイド</u></a></li>
-<li><a href="https://win-latest.techidaily.com/connecting-your-nas-drive-on-windows-10-and-11-a-step-by-step-guide/"><u>Connecting Your NAS Drive on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/five-strategies-for-recovering-erased-or-missing-files-from-your-xbox-one-console/"><u>Five Strategies for Recovering Erased or Missing Files From Your Xbox One Console</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/learning-the-ropes-of-telegram-promotion-for-beginners/"><u>Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728481489982-macos/"><u>MacOS用画像のバックアップ：外部ドライブへの移行手順</u></a></li>
-<li><a href="https://network-issues.techidaily.com/max-display-settings-regained-on-windows-10/"><u>Max Display Settings Regained on Windows 10</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr-for-2024/"><u>Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederaufbau-einer-gpt-datenpartition-erfahre-alles/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederaufbau Einer GPT-Datenpartition - Erfahre Alles</u></a></li>
-<li><a href="https://win-latest.techidaily.com/soluzione-rapida-per-ssd-clonato-che-non-si-avvia-su-windows-1187/"><u>Soluzione Rapida per SSD Clonato Che Non Si Avvia Su Windows 11/8/7</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-recover-my-documents-on-windows-1011-when-it-goes-missing/"><u>Step-by-Step Guide to Recover 'My Documents' On Windows 10/11 When It Goes Missing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/strategies-to-maximize-viewership-on-igtv-from-h-videos/"><u>Strategies to Maximize Viewership on IGTV From H-Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-low-memory-issues-in-roblox-for-ios-devices/"><u>Troubleshooting Low Memory Issues in Roblox for iOS Devices</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728473307147-windows-113/"><u>Windows 11用の「休止モード」設定手順：3種類の解決策</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-guide-hitting-the-slopes-with-excellent-cams/"><u>[New] In 2024, Ultimate Guide Hitting the Slopes with Excellent Cams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-whispered-wonders-in-video-evaluating-bedtime-story-adaptations/"><u>[Updated] 2024 Approved Whispered Wonders in Video Evaluating Bedtime Story Adaptations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginners-guide-to-essential-photo-edits-in-ps/"><u>[Updated] Beginner's Guide to Essential Photo Edits in PS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>2024 Approved Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728501937877-sd/"><u>無料のSDカードから削除された写真の復元方法</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/broadcasting-twitch-to-facebook-friends-easily/"><u>Broadcasting Twitch to Facebook Friends Easily</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comment-pouvez-vous-recuperer-des-fichiers-qui-ont-been-deleted-using-ccleaner/"><u>Comment Pouvez-Vous Récupérer Des Fichiers Qui Ont Been Deleted Using CCleaner?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effizientes-image-reparatur-tool-zur-gewahrleistung-erfolgreicher-datenwiederherstellungsprozesse/"><u>Effizientes Image Reparatur Tool Zur Gewährleistung Erfolgreicher Datenwiederherstellungsprozesse</u></a></li>
+<li><a href="https://win-latest.techidaily.com/emeditor-text-editor-recover-lost-projects-and-restore-workspaces-with-ease/"><u>EmEditor Text Editor: Recover Lost Projects & Restore Workspaces with Ease</u></a></li>
+<li><a href="https://win-latest.techidaily.com/guide-dimportation-de-photos-dans-un-nouvel-album-ios-a-laide-de-fonebackup-etapes-facilement-suivies/"><u>Guide D'Importation De Photos Dans Un Nouvel Album iOS À L'aide De FoneBackup : Étapes Facilement Suivies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-11-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 11? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-z-flip-5s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy Z Flip 5s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728488977291-outlook-pst/"><u>Outlook PSTファイル損失後に安全にデータを回復する方法</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-a2-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo A2? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

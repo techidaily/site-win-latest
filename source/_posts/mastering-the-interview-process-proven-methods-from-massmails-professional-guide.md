@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Interview Process: Proven Methods From MassMail's Professional Guide"
-date: 2024-11-18T03:14:33.886Z
-updated: 2024-11-22T23:28:03.309Z
+date: 2024-11-25T01:09:14.223Z
+updated: 2024-11-30T16:52:44.957Z
 tags:
   - product
 categories:
@@ -21,6 +21,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -44,10 +48,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -66,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -74,37 +78,37 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -113,10 +117,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,18 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-speech-recorder-evaluation-guide/"><u>[Updated] 2024 Approved Speech Recorder Evaluation Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-artful-annotation-distortion-techniques/"><u>[Updated] In 2024, Artful Annotation Distortion Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-11mp4dvd-rplusrand3/"><u>【無料ガイド】Windows 11上でMP4ファイルをDVD-R/+Rに変換&バックアップする3つの方法</u></a></li>
-<li><a href="https://win-latest.techidaily.com/applying-the-gratitude-strategy-in-sales-how-courtesy-can-increase-revenue-with-massmail/"><u>Applying the Gratitude Strategy in Sales: How Courtesy Can Increase Revenue with MassMail</u></a></li>
-<li><a href="https://win-latest.techidaily.com/complete-guide-to-resolving-hulu-error-codes-expert-troubleshooting-strategies/"><u>Complete Guide to Resolving Hulu Error Codes: Expert Troubleshooting Strategies</u></a></li>
-<li><a href="https://win-latest.techidaily.com/complete-pc-backup-with-dropbox-top-two-methods-revealed/"><u>Complete PC Backup with Dropbox: Top Two Methods Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/"><u>Essential Fixes for PC, PS5, and Xbox Users Experiencing Diablo 4 Game Crashes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/instant-mic-diagnostics-ensure-top-notch-recording-quality/"><u>Instant Mic Diagnostics - Ensure Top-Notch Recording Quality</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-problem-why-your-snap-camera-wont-detect-a-source/"><u>Resolved Problem: Why Your Snap Camera Won't Detect a Source</u></a></li>
-<li><a href="https://win-latest.techidaily.com/restore-lost-data-from-your-sd-card-with-recuva-a-step-by-step-guide/"><u>Restore Lost Data From Your SD Card with Recuva - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-11-hd-streaming-services-updated-list-by-movavi/"><u>Top 11 HD Streaming Services - Updated List by Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-cant-recognize-nearness-anymore/"><u>What to Do When Your iPhone Can't Recognize Nearness Anymore</u></a></li>
-<li><a href="https://win-latest.techidaily.com/wireless-transfer-of-iphone-contacts-seamlessly-shifting-data-between-two-iphones-without-a-pc-or-mac/"><u>Wireless Transfer of iPhone Contacts: Seamlessly Shifting Data Between Two iPhones Without a PC or Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-beginners-vectors-guide-types-and-applications-demystified/"><u>[Updated] Beginner's Vectors Guide Types & Applications Demystified</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728471510736-word/"><u>「Word文書管理のエキスパート術：ウェブ上で最適な排除手法」</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-effortless-transfer-4-methods-to-migrate-your-entire-profile-from-old-phone-to-new-iphone/"><u>1. Effortless Transfer: 4 Methods to Migrate Your Entire Profile From Old Phone to New iPhone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comment-effacer-definitivement-un-fichier-de-la-corbeille-en-toute-securite-conseils-rapides-et-efficaces/"><u>Comment Effacer Définitivement Un Fichier De La Corbeille en Toute Sécurité : Conseils Rapides Et Efficaces</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-personal-content-management-building-a-structured-watch-later-list/"><u>In 2024, Mastering Personal Content Management Building a Structured 'Watch Later' List</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-control-center-issues-with-these-8-easy-steps/"><u>Solve Your iPhone's Control Center Issues with These 8 Easy Steps</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-io-device-errors-effective-solutions-and-tips/"><u>Troubleshooting IO Device Errors: Effective Solutions and Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-lomi-composter-a-detailed-analysis-and-reviews-can-it-revolutionize-your-home-waste-management/"><u>Unlocking the Secrets of Lomi Composter: A Detailed Analysis and Reviews - Can It Revolutionize Your Home Waste Management?</u></a></li>
 </ul></div>
 

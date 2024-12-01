@@ -1,7 +1,7 @@
 ---
 title: "Applying the Gratitude Strategy in Sales: How Courtesy Can Increase Revenue with MassMail"
-date: 2024-11-17T20:10:03.798Z
-updated: 2024-11-22T18:31:18.045Z
+date: 2024-11-24T23:04:02.589Z
+updated: 2024-11-30T21:48:46.956Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -36,9 +32,17 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -49,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -70,17 +74,9 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -98,13 +94,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,9 +110,17 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-sm-controller-drives-in-windows-11/"><u>[FIXED] SM Controller Drives in Windows 11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-prime-explorations-in-top-livestream-websites/"><u>[New] Prime Explorations in Top Livestream Websites</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-peek-inside-how-do-vr-headsets-connect/"><u>[Updated] 2024 Approved Peek Inside How Do VR Headsets Connect?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-benefits-vs-drawbacks-in-vr-technology/"><u>2024 Approved Benefits vs Drawbacks in VR Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-15-optimal-bootable-virus-protection-tools-at-zero-price/"><u>Discover the 15 Optimal Bootable Virus Protection Tools at Zero Price</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-printer-compatibility-check-and-download-for-p3015-drivers-what-you-need-to-know/"><u>HP Printer Compatibility Check & Download for P3015 Drivers: What You Need To Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-x100-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo X100 Pro Through Google Earth?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/integracion-facil-y-gratis-sincronizar-archivos-en-red-con-google-drive-proceso-completo/"><u>Integración Fácil Y Gratis: Sincronizar Archivos en Red Con Google Drive - Proceso Completo</u></a></li>
-<li><a href="https://win-latest.techidaily.com/musik-von-ihrem-iphone-auf-usb-stick-ubertragen-eine-einfache-und-schnelle-anleitung/"><u>Musik Von Ihrem iPhone Auf USB-Stick Übertragen - Eine Einfache Und Schnelle Anleitung</u></a></li>
-<li><a href="https://win-latest.techidaily.com/resolve-stuck-bitlocker-decryption-issues-on-windows/"><u>Resolve 'Stuck' BitLocker Decryption Issues on Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-the-netatmo-weather-station-perfectly-crafted-climate-monitoring-for-mobile-users/"><u>Review of the Netatmo Weather Station: Perfectly Crafted Climate Monitoring for Mobile Users</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-retrieving-lost-bookmarks-from-google-chrome-and-mozilla-firefox/"><u>Step-by-Step Guide: Retrieving Lost Bookmarks From Google Chrome and Mozilla Firefox</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728485564046-ssd/"><u>「外部SSDに隠されたファイルを発見・回復:迷わず手引き」</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-professional-audio-techniques-in-davinci-resolve-the-art-of-normalization/"><u>2024 Approved Professional Audio Techniques in DaVinci Resolve The Art of Normalization</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effective-methods-for-successfully-upgrading-your-nintendo-switch-sd-card/"><u>Effective Methods for Successfully Upgrading Your Nintendo Switch SD Card</u></a></li>
+<li><a href="https://win-latest.techidaily.com/guide-pratique-pour-la-recuperation-dune-cle-usb-ou-disque-dur-supprime-via-cmd/"><u>Guide Pratique Pour La Récupération D'Une Clé USB Ou Disque Dur Supprimé via CMD</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-and-hype-perfecting-film-teaser-tunes-for-2024/"><u>Harmony and Hype Perfecting Film Teaser Tunes for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 6 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-motorola-razr-40-ultra-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Motorola Razr 40 Ultra Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-latest.techidaily.com/instalacion-rapida-de-windows-nx-en-una-unidad-flash-tecnica-para-cargar-el-sistema-directamente-desde-la-memoria/"><u>Instalación Rápida De Windows nX en Una Unidad Flash: Técnica Para Cargar El Sistema Directamente Desde La Memoria</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ordner-wiederfinden-schritt-fur-schritt-losung-zum-wiederherstellen-verlorener-dateien-auf-windows-11/"><u>Ordner Wiederfinden: Schritt-Für-Schritt Lösung Zum Wiederherstellen Verlorener Dateien Auf Windows 11</u></a></li>
+<li><a href="https://win-latest.techidaily.com/protect-and-access-your-workflow-anywhere-integrating-outlook-365-with-onedrive-effectively/"><u>Protect and Access Your Workflow Anywhere: Integrating Outlook 365 with OneDrive Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-your-gaming-experience-solutions-for-rockstar-games-launcher-malfunction-2024-edition/"><u>Reviving Your Gaming Experience: Solutions for Rockstar Games Launcher Malfunction - 2024 Edition</u></a></li>
+<li><a href="https://win-latest.techidaily.com/siguenos-y-solucionemos-rapido-el-problema-de-sincronizacion-con-onedrive-en-sus-dispositivos-mac/"><u>Síguenos Y Solucionemos Rápido El Problema De Sincronización Con OneDrive en Sus Dispositivos Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/on-indexable-world-of-youtube-a-compreayer-guide-to-unlisted-videos/"><u>The Non-Indexable World of YouTube A Compreayer Guide to ‘Unlisted’ Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-audio-equipment-professional-reviews-and-comparisons-by-techradar/"><u>Top-Rated Audio Equipment : Professional Reviews & Comparisons by TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-mowing-experience-with-the-most-enjoyable-remote-controlled-lawnmower-insights-from-zdnet/"><u>Transform Your Mowing Experience with the Most Enjoyable Remote-Controlled Lawnmower - Insights From ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/wie-kann-ich-geloschte-bilder-auf-meinem-lenovo-laptop-wiederfinden-und-retten/"><u>Wie Kann Ich Gelöschte Bilder Auf Meinem Lenovo-Laptop Wiederfinden Und Retten?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoiding Message Shortening Issues in Gmail - Tips and Tricks Using MassMail Solutions
-date: 2024-11-15T23:50:05.213Z
-updated: 2024-11-22T19:54:35.683Z
+date: 2024-11-29T20:43:15.908Z
+updated: 2024-12-01T02:07:37.718Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -66,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -73,10 +81,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -86,13 +90,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -102,21 +106,17 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boundless-savings-for-your-captured-moments/"><u>[New] In 2024, Boundless Savings for Your Captured Moments</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-most-compelling-list-of-free-youtube-platforms-for-comic-book-illustrators-for-2024/"><u>[New] The Most Compelling List of Free YouTube Platforms for Comic Book Illustrators for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-ideal-mkv-player-suite-mobile-and-desktop/"><u>[Updated] In 2024, Ideal MKV Player Suite (Mobile & Desktop)</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-utiliser-mimeo-instant-backup-pour-sauvegarde-et-reprises-rapides-de-fichiers-sur-windows-10/"><u>Comment Utiliser MImeo Instant Backup Pour Sauvegarde Et Reprises Rapides De Fichiers Sur Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortlessly-fix-bluetooth-radios-on-windows/"><u>Effortlessly Fix Bluetooth Radios on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-canon-mx340-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Free Download: Canon MX340 Printer Drivers Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-fix-diskpart-cannot-create-primary-partition-error-a-step-by-step-guide/"><u>How to Fix 'DiskPart Cannot Create Primary Partition' Error – A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-htc-u23-to-mac-drfone-by-drfone-android/"><u>How to Mirror HTC U23 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s21-fe-5g-2023-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S21 FE 5G (2023) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-poco-x5-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Poco X5 Phones</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/losung-fur-den-kritischen-systemfehler-betriebssystem-nicht-gefunden-bei-acer-pcs/"><u>Lösung Für Den Kritischen Systemfehler «Betriebssystem Nicht Gefunden» Bei Acer-PCs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/non-visible-reader-mouse-on-windows-11-solutions-and-fixes/"><u>Non-Visible Reader Mouse on Windows 11 - Solutions & Fixes</u></a></li>
-<li><a href="https://win-latest.techidaily.com/secure-your-lenovo-data-with-onekey-recovery-compatible-with-windows-10-systems/"><u>Secure Your Lenovo Data with OneKey Recovery - Compatible with Windows 10 Systems</u></a></li>
-<li><a href="https://win-latest.techidaily.com/transforma-una-solitaria-disco-en-un-arreglo-raid-015-con-la-herramienta-de-copia-raid/"><u>Transforma Una Solitaria Disco en Un Arreglo RAID 0/1/5 Con La Herramienta De Copia RAID</u></a></li>
-<li><a href="https://win-latest.techidaily.com/wiederauffinden-verlorener-spielinhalte-auf-dem-pc-erfolgreich-mit-diesen-5-strategien/"><u>Wiederauffinden Verlorener Spielinhalte Auf Dem PC: Erfolgreich Mit Diesen 5 Strategien</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728493991771-windows-10/"><u>Windows 10 裸機恢復文件及備份方法</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mov-file-management-made-simple-on-windows-10/"><u>[New] In 2024, .mov File Management Made Simple on Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/55100743-new-in-2024-download-premium-video-covers-free-fast-and-easy/"><u>[New] In 2024, Download Premium Video Covers - Free, Fast & Easy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-visualediting-deep-dive-comprehensive-article-on-androvid/"><u>[New] In 2024, VisualEditing Deep Dive – Comprehensive Article on AndroVid</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comparing-site-recovery-manager-and-vsphere-replication-a-comprehensive-guide/"><u>Comparing Site Recovery Manager and vSphere Replication: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-comparisons-at-toms-tech-hub/"><u>Expert Reviews and Comparisons at Tom's Tech Hub</u></a></li>
+<li><a href="https://win-latest.techidaily.com/exporting-user-defined-macros-with-keystroke-assignments-from-emeditor-for-easy-accessibility/"><u>Exporting User-Defined Macros with Keystroke Assignments From EmEditor for Easy Accessibility</u></a></li>
+<li><a href="https://win-latest.techidaily.com/guia-paso-a-paso-para-evitar-el-reposicionamiento-de-windows-11-que-espera-en-iniciar/"><u>Guía Paso a Paso Para Evitar El Reposicionamiento De Windows 11 Que Espera en Iniciar</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-quickly-retrieve-deleted-images-from-photoshop-a-guide-to-three-swift-solutions/"><u>How To Quickly Retrieve Deleted Images From Photoshop: A Guide to Three Swift Solutions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/hp-pavilion-15ssd/"><u>HP Pavilion 15のSSD交換ガイド：ステップバイステップ手順</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y78-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo Y78 5G?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-troubleshooting-tips-for-restoring-outlooks-autocomplete-feature/"><u>Step-by-Step Troubleshooting Tips for Restoring Outlook's Autocomplete Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-package-unopenable-issue-effectively/"><u>Steps to Tackle Windows Package Unopenable Issue Effectively</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-tempexcelword/"><u>Windows Tempフォルダから元のExcelやWordファイルを復元する方法【データ保護チュートリアル】</u></a></li>
 </ul></div>
 

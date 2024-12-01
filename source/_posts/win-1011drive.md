@@ -1,7 +1,7 @@
 ---
 title: Win 10/11系統下利用命令提示符與Drive回收工具恢復外接硬碟 - 完美指南
-date: 2024-11-11T21:38:00.064Z
-updated: 2024-11-12T19:05:29.214Z
+date: 2024-11-24T19:19:00.690Z
+updated: 2024-11-30T21:17:49.839Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02099dda394914608d8e630c7.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
@@ -44,10 +48,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -57,17 +58,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -108,13 +99,6 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -132,6 +116,10 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -192,10 +180,7 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -252,6 +237,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -271,10 +260,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -294,18 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-who-takes-the-crown-in-action-camera-warfare/"><u>[New] 2024 Approved Who Takes the Crown in Action Camera Warfare?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-step-by-step-guide-live-broadcast-of-recorded-videos-on-fb/"><u>[New] Step-by-Step Guide Live Broadcast of Recorded Videos on FB</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/iny-tempo-truths-character-beats-exposed/"><u>[New] Tiny Tempo Truths Character Beats Exposed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-techniques-for-capturing-ps3-gaming-adventures/"><u>[Updated] Advanced Techniques for Capturing PS3 Gaming Adventures</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-master-your-fb-video-archive-with-1-5-choices/"><u>[Updated] Master Your FB Video Archive with #1-5 Choices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-m34-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy M34 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/aktivieren-sie-den-testmodus-in-windows-1110-aus-eine-verbesserte-sicherheitsstrategie/"><u>Aktivieren Sie Den Testmodus in Windows 11/10 Aus: Eine Verbesserte Sicherheitsstrategie</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fine-tuning-the-art-of-recording-in-audacity/"><u>Fine-Tuning the Art of Recording in Audacity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-your-radeon-x-drivers/"><u>How to Update Your Radeon X Drivers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/kickstarting-with-gopro-the-top-10-list-of-perks/"><u>Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-the-art-of-syncing-two-extreme-drives-a-guide-to-both-manual-and-auto-techniques/"><u>Mastering the Art of Syncing Two Extreme Drives: A Guide to Both Manual & Auto Techniques</u></a></li>
-<li><a href="https://win-latest.techidaily.com/simple-tutorial-adjusting-and-updating-ios-device-footage-on-laptop/"><u>Simple Tutorial: Adjusting and Updating iOS Device Footage on Laptop</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-tutorial-resolving-the-0xd000000d-issue-in-windows-10/"><u>Troubleshooting Tutorial: Resolving the 0xD000000D Issue in Windows 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-navigating-your-srt-files-with-mac-expertise/"><u>[New] 2024 Approved Navigating Your SRT Files with Mac Expertise</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-beginners-journey-into-gameplay-capturing-with-obs/"><u>[New] A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>[New] Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>[New] The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[Updated] Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-amplify-viewership-with-these-top-10-youtube-reaction-strategies/"><u>[Updated] In 2024, Amplify Viewership with These Top 10 YouTube Reaction Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-youtube-to-high-definition-prime-downloader-choices/"><u>2024 Approved From YouTube to High Definition Prime Downloader Choices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-why-is-there-no-sound-on-twitter-videos-fixes/"><u>2024 Approved Why Is There No Sound on Twitter Videos? | Fixes</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728469051863-win10/"><u>解析Win10自动收集错误的重新开机问题及策略</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/acoustic-imprinting-pc-noises-logged/"><u>Acoustic Imprinting PC Noises Logged</u></a></li>
+<li><a href="https://win-latest.techidaily.com/data-preservation-techniques-how-to-transition-your-drive-from-raw-to-ntfs-format/"><u>Data Preservation Techniques: How to Transition Your Drive From Raw to NTFS Format</u></a></li>
+<li><a href="https://win-latest.techidaily.com/decoding-dells-dilemma-understanding-and-resolving-hard-drive-not-found-errors/"><u>Decoding Dell's Dilemma: Understanding and Resolving 'Hard Drive Not Found' Errors</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-ace-2v-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/recovering-from-windows-11-boot-partition-loss-a-comprehensive-guide/"><u>Recovering From Windows 11 Boot Partition Loss: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/revolutionize-advertising-impact-discover-magical-results-using-massmail-for-live-radio-promotions/"><u>Revolutionize Advertising Impact: Discover Magical Results Using MassMail for Live Radio Promotions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/seamless-data-preservation-steps-to-automatically-back-up-your-pc-during-system-restart-windows-11-10-8-and-7/"><u>Seamless Data Preservation: Steps to Automatically Back Up Your PC During System Restart (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-retrieving-lost-bookmarks-from-google-chrome-and-mozilla-firefox/"><u>Step-by-Step Guide: Retrieving Lost Bookmarks From Google Chrome and Mozilla Firefox</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-list-of-reliable-iphone-contact-backup-solutions-top-6-picks/"><u>Ultimate List of Reliable iPhone Contact Backup Solutions (Top 6 Picks)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/wie-man-einen-vollstandigen-neustart-hard-reset-fur-verschiedene-iphonemodelle-erleichtert-iphone-14-13-12-11-x-8-und-grosser-iphone/"><u>Wie Man Einen Vollständigen Neustart (Hard Reset) Für Verschiedene iPhonemodelle Erleichtert (iPhone 14, 13, 12, 11, X, 8 Und Großer iPhone)</u></a></li>
 </ul></div>
 

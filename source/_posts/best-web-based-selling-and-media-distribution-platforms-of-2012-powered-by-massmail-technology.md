@@ -1,7 +1,7 @@
 ---
 title: Best Web-Based Selling & Media Distribution Platforms of 2012 Powered by MassMail Technology
-date: 2024-11-19T22:11:44.772Z
-updated: 2024-11-23T01:23:51.027Z
+date: 2024-11-28T20:21:32.687Z
+updated: 2024-12-01T07:55:31.939Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -54,6 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -66,21 +74,17 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -95,23 +99,19 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -149,17 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>[New] A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-productivity-with-auditory-storytelling/"><u>[New] Maximizing Productivity with Auditory Storytelling</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-balancing-bitrate-in-obs-broadcasts/"><u>[Updated] In 2024, Balancing Bitrate in OBS Broadcasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ios-video-editing-made-easy-the-top-5-apps/"><u>[Updated] IOS Video Editing Made Easy The Top 5 Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-top-free-screen-recorders-ranked-list/"><u>2024 Approved Explore the Top Free Screen Recorders Ranked List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-pro-level-video-edits-made-simple-in-windows-11/"><u>2024 Approved Pro-Level Video Edits Made Simple in Windows 11</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728464557235-windows-11/"><u>三种办法在保留程序完整性的前提下为Windows 11进行再生产：详解</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-true-to-life-wood-objects-using-a-novel-3d-printing-approach-and-sawdust-ink-material/"><u>Crafting True-to-Life Wood Objects Using a Novel 3D Printing Approach and Sawdust Ink Material</u></a></li>
-<li><a href="https://win-latest.techidaily.com/funktionalitat-von-xcopy-gegenuber-robocopy-analysieren-erkundung-vergleichender-aspekte-und-substitutionsmoglichkeiten/"><u>Funktionalität Von XCopy Gegenüber RoboCopy Analysieren – Erkundung Vergleichender Aspekte Und Substitutionsmöglichkeiten</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-smart-8-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Smart 8 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win-latest.techidaily.com/synchronisez-vos-fichiers-avec-le-disque-dur-et-microsoft-onedrive-facilement-trois-methodes-rapides/"><u>Synchronisez Vos Fichiers Avec Le Disque Dur Et Microsoft OneDrive Facilement : Trois Méthodes Rapides</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728477659555-windows-file-recovery/"><u>Windows File Recoveryによるファイル回復方法：失敗した場合の修正手順</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-make-a-group-chat-on-skype-for-windows-and-mac/"><u>[New] How to Make a Group Chat on Skype [For Windows and Mac]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aising-the-bar-youtubes-live-streaming-excellence-for-2024/"><u>[New] Raising the Bar YouTube's Live Streaming Excellence for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-wacom-intuos-draw-driver-quickly-and-easily/"><u>[UPDATE] Wacom Intuos Draw Driver | Quickly & Easily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-brilliant-barrage-essential-gadgets-for-clips/"><u>[Updated] Brilliant Barrage Essential Gadgets for Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-progression-reach-and-maintain-10k-viewer-threshold-for-2024/"><u>[Updated] Channel Progression Reach and Maintain 10K Viewer Threshold for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/4-effektieve-oplossingen-om-bestanddateien-inautomatische-ontbinding-technieken-voor-windows-10/"><u>4 Effektieve Oplossingen Om Bestanddateien Inautomatische Ontbinding Technieken Voor Windows 10</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728464950820-4/"><u>最高の4つの圧縮ソフトウェアツール 詳細と比較分析</u></a></li>
+<li><a href="https://win-latest.techidaily.com/behebung-von-problemen-mit-dem-wiederherstellungsmodus-in-windows-t-wenn-er-beim-booten-oder-bei-datenwiederherstellung-nicht-reagiert/"><u>Behebung Von Problemen Mit Dem Wiederherstellungsmodus in Windows T, Wenn Er Beim Booten Oder Bei Datenwiederherstellung Nicht Reagiert</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-complimentary-summery-tunes-with-our-exclusive-radio-app-experience-the-joy/"><u>Best Complimentary Summery Tunes with Our Exclusive Radio App - Experience the Joy!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/como-realizar-una-copia-de-seguridad-libre-para-su-synology-nas-en-un-almacenamiento-exterior/"><u>Cómo Realizar Una Copia De Seguridad Libre Para Su Synology NAS en Un Almacenamiento Exterior</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comprendere-la-limitazione-del-solo-salvataggio-nel-backup-server-windows/"><u>Comprendere La Limitazione Del Solo Salvataggio Nel Backup Server Windows</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effective-techniques-for-capturing-facetime-conversations-on-your-device/"><u>Effective Techniques for Capturing FaceTime Conversations on Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-x265-to-x264-transformation-tutorial-using-handbrake-effortless-techniques-for-speedy-results/"><u>Fast X265 to X264 Transformation Tutorial Using Handbrake - Effortless Techniques for Speedy Results</u></a></li>
+<li><a href="https://win-latest.techidaily.com/fix-ipad-pro-resume-download-hang-up-a-guide-to-5-remedies/"><u>Fix iPad Pro 'Resume Download' Hang-Up: A Guide to 5 Remedies</u></a></li>
+<li><a href="https://win-latest.techidaily.com/i-3-top-clonazione-pc-scopri-il-migliore-programma-windows-10-prodotto-e-gratuito/"><u>I 3 Top Clonazione PC: Scopri Il Migliore Programma Windows 10 Prodotto E Gratuito</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/soundless-battles-restore-audio-glory-in-world-of-warcraft-asap/"><u>Soundless Battles? Restore Audio Glory in World of Warcraft ASAP</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-empfohlene-portables-migrationswerkzeuge-fur-samsung-daten-ein-vergleich/"><u>Top-Empfohlene Portables Migrationswerkzeuge Für Samsung Daten: Ein Vergleich</u></a></li>
 </ul></div>
 
