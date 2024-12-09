@@ -1,7 +1,7 @@
 ---
 title: "New Karaoke Experience on Mac: Discover the Updated Lyrx Version 1.2 From PCDJ"
-date: 2024-11-24T05:20:11.499Z
-updated: 2024-12-01T02:19:16.258Z
+date: 2024-12-02T03:37:13.089Z
+updated: 2024-12-09T08:08:23.349Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-boost-views-strategic-partnerships-on-youtube-for-rapid-growth/"><u>[New] In 2024, Boost Views Strategic Partnerships on YouTube for Rapid Growth</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-customize-your-youtube-experience-with-altered-pace/"><u>[New] In 2024, Customize Your YouTube Experience with Altered Pace</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-tech-tips-snagging-your-fb-status-video-for-2024/"><u>[Updated] Tech Tips Snagging Your FB Status Video for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-samsung-ssd-windows-10/"><u>1. Samsung SSDへの順応: Windows 10 転送ガイド</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-clonez-vous-une-cle-usb-a-laide-dun-logiciel-gratuit-guide-pratique-et-facile-a-suivre/"><u>Comment Clonez-Vous Une Clé USB À L'aide D’un Logiciel Gratuit : Guide Pratique Et Facile À Suivre</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/find-your-ideal-wedding-timer-on-android-and-ios-platforms-here/"><u>Find Your Ideal Wedding Timer on Android & iOS Platforms Here</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23-fe-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy S23 FE Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-fix-microsoft-outlook-365-password-protection-issues-top-5-solutions/"><u>How to Fix Microsoft Outlook 365 Password Protection Issues: Top 5 Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/missing-media-magic-no-videos-on-sony-a6400-for-2024/"><u>Missing Media Magic No Videos on Sony A6400 for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/restoring-the-most-recent-word-file-on-your-pc-a-step-by-step-guide/"><u>Restoring the Most Recent Word File on Your PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-os-maintenance-autoupdate-switch-amd-drivers/"><u>Seamless OS Maintenance: Autoupdate, Switch AMD Drivers</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-retrieve-your-files-from-a-formatted-disk-withwithout-prior-backup/"><u>Step-by-Step Guide: Retrieve Your Files From a Formatted Disk, With/Without Prior Backup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-open-source-vision-for-visual-creators/"><u>Top Open-Source Vision for Visual Creators</u></a></li>
-<li><a href="https://win-latest.techidaily.com/44gz44g544gm44gu44oh44oq44kk44k544gn5l244gi44klisdjg6jgqtjg6tjg7zjg4njg7vjgqjjg6zjg6hjg7pjg4tjg5djg4pjgqjgqljg4pjg5fjgr3jg5xjg4jjgihku4rjgznjgzdnhkhmlpnjg4d319/"><u>すべてのデバイスで使える! ワイヤード・エレメンツバックアップソフト、今すぐ無料ダウンロード!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-essentials-comprehensive-editing-tutorial/"><u>[New] 2024 Approved The Essentials Comprehensive Editing Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-thrifty-sky-surfers-cheapest-drones-on-market/"><u>[New] 2024 Approved Thrifty Sky Surfers Cheapest Drones on Market</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-a-game-changer-in-the-world-of-advanced-excel-workflows/"><u>ChatGPT: A Game Changer in the World of Advanced Excel Workflows</u></a></li>
+<li><a href="https://win-latest.techidaily.com/detecting-signs-of-a-failing-ssd-or-hdd-in-your-laptop-expert-advice-from-yl-computing/"><u>Detecting Signs of a Failing SSD or HDD in Your Laptop: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-steps-for-file-duplication-and-pasting-a-guide-by-yl-computing/"><u>Easy Steps for File Duplication & Pasting: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expert-guide-by-yl-computing-steps-to-assess-ico-legitimacy-and-avoid-scams/"><u>Expert Guide by YL Computing: Steps to Assess ICO Legitimacy & Avoid Scams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-cookiebots-power-optimize-your-site-for-superior-seo-results/"><u>Harnessing Cookiebot's Power: Optimize Your Site for Superior SEO Results</u></a></li>
+<li><a href="https://win-latest.techidaily.com/high-definition-wallpaper-collection-bentley-continental-supersports-premium-vehicle-graphics-by-yl-computing/"><u>High-Definition Wallpaper Collection: Bentley Continental Supersports - Premium Vehicle Graphics by YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-find-n3-flip-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Find N3 Flip to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/master-the-art-of-debugging-physical-device-failures-expert-advice-from-yl-software-professionals/"><u>Master the Art of Debugging Physical Device Failures: Expert Advice From YL Software Professionals</u></a></li>
+<li><a href="https://win-latest.techidaily.com/solving-scanner-issues-clearer-pictures-ahead-with-yl-software-advice/"><u>Solving Scanner Issues: Clearer Pictures Ahead with YL Software Advice</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-zte-nubia-z60-ultra-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass ZTE Nubia Z60 Ultra FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-find-the-perfect-glass-shield-for-your-iphone-zdnet-insights/"><u>Ultimate Guide: Find the Perfect Glass Shield for Your iPhone – ZDNet Insights</u></a></li>
 </ul></div>
 

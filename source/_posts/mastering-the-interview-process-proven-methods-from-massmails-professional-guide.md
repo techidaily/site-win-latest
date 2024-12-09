@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Interview Process: Proven Methods From MassMail's Professional Guide"
-date: 2024-11-25T01:09:14.223Z
-updated: 2024-11-30T16:52:44.957Z
+date: 2024-12-06T00:40:15.349Z
+updated: 2024-12-09T02:33:39.307Z
 tags:
   - product
 categories:
@@ -18,12 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -39,6 +43,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -66,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -79,16 +83,12 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,13 +98,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -113,6 +113,10 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,14 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-beginners-vectors-guide-types-and-applications-demystified/"><u>[Updated] Beginner's Vectors Guide Types & Applications Demystified</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728471510736-word/"><u>「Word文書管理のエキスパート術：ウェブ上で最適な排除手法」</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-effortless-transfer-4-methods-to-migrate-your-entire-profile-from-old-phone-to-new-iphone/"><u>1. Effortless Transfer: 4 Methods to Migrate Your Entire Profile From Old Phone to New iPhone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-effacer-definitivement-un-fichier-de-la-corbeille-en-toute-securite-conseils-rapides-et-efficaces/"><u>Comment Effacer Définitivement Un Fichier De La Corbeille en Toute Sécurité : Conseils Rapides Et Efficaces</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-personal-content-management-building-a-structured-watch-later-list/"><u>In 2024, Mastering Personal Content Management Building a Structured 'Watch Later' List</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-control-center-issues-with-these-8-easy-steps/"><u>Solve Your iPhone's Control Center Issues with These 8 Easy Steps</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-io-device-errors-effective-solutions-and-tips/"><u>Troubleshooting IO Device Errors: Effective Solutions and Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-lomi-composter-a-detailed-analysis-and-reviews-can-it-revolutionize-your-home-waste-management/"><u>Unlocking the Secrets of Lomi Composter: A Detailed Analysis and Reviews - Can It Revolutionize Your Home Waste Management?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-integrated-mobility-evaluation-study/"><u>[Updated] Integrated Mobility Evaluation Study</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-soundscapes-of-restfulness-high-rated-asmr-experts/"><u>[Updated] Soundscapes of Restfulness High-Rated ASMR Experts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-check-and-track-your-erc20-token-balances-and-history-with-yls-free-web-app/"><u>1. Check & Track Your ERC20 Token Balances & History with YL's Free Web App</u></a></li>
+<li><a href="https://win-latest.techidaily.com/common-network-card-malfunctions-and-how-to-prevent-them-insights-by-yl-computing/"><u>Common Network Card Malfunctions and How to Prevent Them - Insights by YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cross-platform-compatibility-bridging-ps-vr-with-pc-hardware-and-software/"><u>Cross-Platform Compatibility: Bridging PS VR with PC Hardware and Software</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-steps-to-fix-your-non-responsive-keyboard-and-mouse-a-guide-by-yl-computing/"><u>Easy Steps to Fix Your Non-Responsive Keyboard and Mouse: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ensuring-your-systems-compatibility-with-updated-drivers-insights-by-yl-software/"><u>Ensuring Your System's Compatibility with Updated Drivers - Insights by YL Software</u></a></li>
+<li><a href="https://win-latest.techidaily.com/file-encryption-on-windows-pcs-made-easy-learn-how-to-password-protect-documents-with-yls-software-solutions/"><u>File Encryption on Windows PCs Made Easy: Learn How to Password Protect Documents with YL's Software Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-y200e-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo Y200e 5G</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-resolve-a-frozen-windows-setup-tips-from-yl-computing/"><u>How to Resolve a Frozen Windows Setup - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/trust-in-big-tech-wanes-facebook-under-scrutiny/"><u>Trust in Big Tech Wanes; Facebook Under Scrutiny</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unlock-peak-cpu-efficiency-optimizing-your-processors-power-yl-computing/"><u>Unlock Peak CPU Efficiency: Optimizing Your Processor's Power - YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-historical-insights-on-the-chinese-cultural-revolution-through-advanced-yl-software-solutions/"><u>Unveiling Historical Insights on the Chinese Cultural Revolution Through Advanced YL Software Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-learn-how-to-choose-a-proper-video-editor-for-videos-shot-by-canon-camcorders-for-2024/"><u>Updated Learn How to Choose a Proper Video Editor for Videos Shot by Canon Camcorders for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726224298999-mp4ogv-movavi/"><u>オンラインでのフリーMP4とOGV形式変換 - Movavi</u></a></li>
 </ul></div>
 
