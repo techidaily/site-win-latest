@@ -1,7 +1,7 @@
 ---
 title: "New Karaoke Experience on Mac: Discover the Updated Lyrx Version 1.2 From PCDJ"
-date: 2024-12-02T03:37:13.089Z
-updated: 2024-12-09T08:08:23.349Z
+date: 2024-12-12T22:20:38.030Z
+updated: 2024-12-15T13:52:49.561Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-essentials-comprehensive-editing-tutorial/"><u>[New] 2024 Approved The Essentials Comprehensive Editing Tutorial</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-thrifty-sky-surfers-cheapest-drones-on-market/"><u>[New] 2024 Approved Thrifty Sky Surfers Cheapest Drones on Market</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-a-game-changer-in-the-world-of-advanced-excel-workflows/"><u>ChatGPT: A Game Changer in the World of Advanced Excel Workflows</u></a></li>
-<li><a href="https://win-latest.techidaily.com/detecting-signs-of-a-failing-ssd-or-hdd-in-your-laptop-expert-advice-from-yl-computing/"><u>Detecting Signs of a Failing SSD or HDD in Your Laptop: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/easy-steps-for-file-duplication-and-pasting-a-guide-by-yl-computing/"><u>Easy Steps for File Duplication & Pasting: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/expert-guide-by-yl-computing-steps-to-assess-ico-legitimacy-and-avoid-scams/"><u>Expert Guide by YL Computing: Steps to Assess ICO Legitimacy & Avoid Scams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-cookiebots-power-optimize-your-site-for-superior-seo-results/"><u>Harnessing Cookiebot's Power: Optimize Your Site for Superior SEO Results</u></a></li>
-<li><a href="https://win-latest.techidaily.com/high-definition-wallpaper-collection-bentley-continental-supersports-premium-vehicle-graphics-by-yl-computing/"><u>High-Definition Wallpaper Collection: Bentley Continental Supersports - Premium Vehicle Graphics by YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-find-n3-flip-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Find N3 Flip to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/master-the-art-of-debugging-physical-device-failures-expert-advice-from-yl-software-professionals/"><u>Master the Art of Debugging Physical Device Failures: Expert Advice From YL Software Professionals</u></a></li>
-<li><a href="https://win-latest.techidaily.com/solving-scanner-issues-clearer-pictures-ahead-with-yl-software-advice/"><u>Solving Scanner Issues: Clearer Pictures Ahead with YL Software Advice</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-zte-nubia-z60-ultra-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass ZTE Nubia Z60 Ultra FRP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-find-the-perfect-glass-shield-for-your-iphone-zdnet-insights/"><u>Ultimate Guide: Find the Perfect Glass Shield for Your iPhone – ZDNet Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-comical-calls-leading-platforms-for-laugh-rings-for-2024/"><u>[New] Comical Calls Leading Platforms for Laugh-Rings for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-navigating-noise-free-audiovisual-links/"><u>[New] In 2024, Navigating Noise-Free Audiovisual Links</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-by-step-tips-perfecting-your-discord-profile-through-emojis-pcmobile/"><u>[Updated] In 2024, Step-By-Step Tips Perfecting Your Discord Profile Through Emojis (PC/Mobile)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/can-you-restore-a-dysfunctional-processor-insights-by-yl-software-experts/"><u>Can You Restore a Dysfunctional Processor? Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/evaluating-your-graphics-cards-efficiency-strategies-and-tools-insights-by-yl-computing/"><u>Evaluating Your Graphics Card's Efficiency: Strategies and Tools - Insights by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-der8auers-faults-in-the-production-of-thermal-grizzly-cooling-systems/"><u>Exploring Der8auer's Faults in the Production of Thermal Grizzly Cooling Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/hits-and-misses-the-photographers-account-for-2024/"><u>Hits and Misses The Photographer's Account for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-effortless-audio-conversion-leading-free-apps-for-textualizing-voice-input-on-smartphones-and-tablets/"><u>New Effortless Audio Conversion Leading Free Apps for Textualizing Voice Input on Smartphones & Tablets</u></a></li>
+<li><a href="https://win-latest.techidaily.com/solving-issues-preventing-your-antivirus-from-disrupting-windows-applications-tips-and-solutions-by-yl-computing/"><u>Solving Issues: Preventing Your Antivirus From Disrupting Windows Applications - Tips & Solutions by YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-locating-any-file-on-your-pc-with-windows-tips-by-yl-computing/"><u>Step-by-Step Guide: Locating Any File on Your PC with Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-removing-files-on-your-pc-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Removing Files on Your PC with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-turning-off-automatic-updates-in-windows-10-via-the-registry-editor/"><u>Step-by-Step Guide: Turning Off Automatic Updates in Windows 10 via the Registry Editor</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-the-issue-when-windows-key-plus-shift-plus-s-is-unresponsive-on-windows-11-or-10/"><u>Troubleshooting Steps: Fixing the Issue When Windows Key + Shift + S Is Unresponsive on Windows 11 or 10</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-enthusiasts-rejoice-the-lyrx-karaoke-solution-is-here-compatible-with-pcdj-systems/"><u>Windows Enthusiasts Rejoice - The LYRX Karaoke Solution Is Here, Compatible with PCDJ Systems</u></a></li>
 </ul></div>
 
