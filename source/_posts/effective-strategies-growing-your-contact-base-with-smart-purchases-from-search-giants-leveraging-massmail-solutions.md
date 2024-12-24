@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies : Growing Your Contact Base with Smart Purchases From Search Giants - Leveraging MassMail Solutions"
-date: 2024-12-13T23:48:08.376Z
-updated: 2024-12-15T12:15:17.096Z
+date: 2024-12-21T11:29:01.043Z
+updated: 2024-12-23T22:26:27.325Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -40,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -51,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -71,7 +71,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -86,10 +86,6 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -98,25 +94,25 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed/"><u>[New] Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-innovative-methods-for-straightforward-ios-screenshots/"><u>[New] Innovative Methods for Straightforward IOS Screenshots</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-trending-memes-galore-unique-themes-for-any-event/"><u>[Updated] Trending Memes Galore Unique Themes for Any Event</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-using-telegram-web/"><u>2024 Approved Mastering the Art of Using Telegram Web</u></a></li>
-<li><a href="https://win-latest.techidaily.com/easily-integrate-crypto-transactions-into-your-business-with-yl-computings-guide/"><u>Easily Integrate Crypto Transactions Into Your Business with YL Computing's Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/enhancing-system-speed-by-optimizing-memory-settings-a-guide-by-yl-software-experts/"><u>Enhancing System Speed by Optimizing Memory Settings: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://win-latest.techidaily.com/file-encryption-on-windows-pcs-made-easy-learn-how-to-password-protect-documents-with-yls-software-solutions/"><u>File Encryption on Windows PCs Made Easy: Learn How to Password Protect Documents with YL's Software Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-amplify-your-online-presence-with-google-meets-aesthetic-tools/"><u>How to Amplify Your Online Presence with Google Meet's Aesthetic Tools</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-resolve-a-frozen-windows-setup-tips-from-yl-computing/"><u>How to Resolve a Frozen Windows Setup - Tips From YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-initiating-zoom-conversations-from-your-android-device/"><u>In 2024, Initiating Zoom Conversations From Your Android Device</u></a></li>
-<li><a href="https://fox-place.techidaily.com/retrieve-deleted-files-from-your-hard-disk-expert-tips-by-yl-computing/"><u>Retrieve Deleted Files From Your Hard Disk: Expert Tips by YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-accessing-and-modifying-your-printer-preferences-via-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Modifying Your Printer Preferences via the Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/the-quest-for-silent-sounds-understanding-your-sound-cards-humming-issue-with-yl-computing/"><u>The Quest for Silent Sounds: Understanding Your Sound Card's Humming Issue with YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/uncovering-quietness-in-audio-systems-expert-advice-from-yl-computings-sound-specialists/"><u>Uncovering Quietness in Audio Systems: Expert Advice From YL Computing's Sound Specialists</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unlocking-the-secrets-of-pdf-documents-user-friendly-tips-from-yl-computing/"><u>Unlocking the Secrets of PDF Documents: User-Friendly Tips From YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-actions-can-you-take-if-windows-ignores-powershell/"><u>What Actions Can You Take if Windows Ignores PowerShell?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-shooting-hdr-iphones-pathway-to-enhanced-images-for-2024/"><u>[New] Shooting HDR IPhone's Pathway to Enhanced Images for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-add-music-to-facebook-story/"><u>[Updated] In 2024, How to Add Music to Facebook Story?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-webcams-to-elevate-your-zoom-video-conferencing/"><u>2024 Approved Ideal Webcams to Elevate Your Zoom Video Conferencing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizing-office-writing-the-new-norm-in-word/"><u>ChatGPT Revolutionizing Office Writing: The New Norm in Word</u></a></li>
+<li><a href="https://win-latest.techidaily.com/enhance-computer-speed-with-smart-storage-management-learn-from-yl-computing/"><u>Enhance Computer Speed with Smart Storage Management - Learn From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expert-guide-by-yl-computing-steps-to-assess-ico-legitimacy-and-avoid-scams/"><u>Expert Guide by YL Computing: Steps to Assess ICO Legitimacy & Avoid Scams</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-optimize-and-accelerate-your-computer-top-picks-by-yl-tech-advisors/"><u>How to Optimize and Accelerate Your Computer - Top Picks by YL Tech Advisors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagrams-square-shots-with-imovie/"><u>Mastering Instagram's Square Shots with iMovie</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-transforming-epub-files-into-pdf-documents/"><u>Step-by-Step Tutorial for Transforming EPUB Files Into PDF Documents</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-blossom-hd-wallpaper-collection-premium-floral-photography-by-yl-computing/"><u>Ultimate Blossom HD Wallpaper Collection: Premium Floral Photography by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New Karaoke Experience on Mac: Discover the Updated Lyrx Version 1.2 From PCDJ"
-date: 2024-12-12T22:20:38.030Z
-updated: 2024-12-15T13:52:49.561Z
+date: 2024-12-23T02:33:43.688Z
+updated: 2024-12-23T16:02:08.361Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-comical-calls-leading-platforms-for-laugh-rings-for-2024/"><u>[New] Comical Calls Leading Platforms for Laugh-Rings for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-navigating-noise-free-audiovisual-links/"><u>[New] In 2024, Navigating Noise-Free Audiovisual Links</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-by-step-tips-perfecting-your-discord-profile-through-emojis-pcmobile/"><u>[Updated] In 2024, Step-By-Step Tips Perfecting Your Discord Profile Through Emojis (PC/Mobile)</u></a></li>
-<li><a href="https://win-latest.techidaily.com/can-you-restore-a-dysfunctional-processor-insights-by-yl-software-experts/"><u>Can You Restore a Dysfunctional Processor? Insights by YL Software Experts</u></a></li>
-<li><a href="https://win-latest.techidaily.com/evaluating-your-graphics-cards-efficiency-strategies-and-tools-insights-by-yl-computing/"><u>Evaluating Your Graphics Card's Efficiency: Strategies and Tools - Insights by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-der8auers-faults-in-the-production-of-thermal-grizzly-cooling-systems/"><u>Exploring Der8auer's Faults in the Production of Thermal Grizzly Cooling Systems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/hits-and-misses-the-photographers-account-for-2024/"><u>Hits and Misses The Photographer's Account for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-effortless-audio-conversion-leading-free-apps-for-textualizing-voice-input-on-smartphones-and-tablets/"><u>New Effortless Audio Conversion Leading Free Apps for Textualizing Voice Input on Smartphones & Tablets</u></a></li>
-<li><a href="https://win-latest.techidaily.com/solving-issues-preventing-your-antivirus-from-disrupting-windows-applications-tips-and-solutions-by-yl-computing/"><u>Solving Issues: Preventing Your Antivirus From Disrupting Windows Applications - Tips & Solutions by YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-locating-any-file-on-your-pc-with-windows-tips-by-yl-computing/"><u>Step-by-Step Guide: Locating Any File on Your PC with Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-removing-files-on-your-pc-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Removing Files on Your PC with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-turning-off-automatic-updates-in-windows-10-via-the-registry-editor/"><u>Step-by-Step Guide: Turning Off Automatic Updates in Windows 10 via the Registry Editor</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-the-issue-when-windows-key-plus-shift-plus-s-is-unresponsive-on-windows-11-or-10/"><u>Troubleshooting Steps: Fixing the Issue When Windows Key + Shift + S Is Unresponsive on Windows 11 or 10</u></a></li>
-<li><a href="https://win-latest.techidaily.com/windows-enthusiasts-rejoice-the-lyrx-karaoke-solution-is-here-compatible-with-pcdj-systems/"><u>Windows Enthusiasts Rejoice - The LYRX Karaoke Solution Is Here, Compatible with PCDJ Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-complete-understanding-of-srt-covering-everything-important/"><u>[New] 2024 Approved Complete Understanding of SRT, Covering Everything Important</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-mastering-the-art-of-interpreting-blockchain-updates-and-insights-a-guide-by-yl-computing/"><u>1. Mastering the Art of Interpreting Blockchain Updates & Insights: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-streamline-shipment-5-methods-of-transporting-files/"><u>2024 Approved Streamline Shipment 5 Methods of Transporting Files</u></a></li>
+<li><a href="https://win-latest.techidaily.com/exploring-mao-zedongs-role-in-shaping-the-chinese-revolution-a-comprehensive-guide/"><u>Exploring Mao Zedong's Role in Shaping the Chinese Revolution: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-hardware-intel-raid-drivers-for-windows-users-on-version-11-10-8-and-7/"><u>Optimize Your Hardware: Intel RAID Drivers for Windows Users on Version 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-latest.techidaily.com/resolving-corrupt-os-issues-a-comprehensive-guide-solutions-from-yl-computing/"><u>Resolving Corrupt OS Issues: A Comprehensive Guide - Solutions From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/resolving-windows-bsod-issues-effectively-proven-strategies-by-professionals-at-yl-software-yl-computing/"><u>Resolving Windows BSOD Issues Effectively: Proven Strategies by Professionals at YL Software | YL Computing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saudar-a-portugal-com-flauta-dos-dialetos/"><u>Saudar a Portugal Com Flauta Dos Dialetos</u></a></li>
+<li><a href="https://win-latest.techidaily.com/section-2b-five-facts-to-remember-about-interneurons/"><u>Section 2B: Five Facts to Remember About Interneurons</u></a></li>
+<li><a href="https://win11.techidaily.com/the-basics-of-windows-hardware-memory-set-aside/"><u>The Basics of Windows Hardware Memory Set-Aside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-viewing-the-complete-indiana-jones-franchise-sequentially/"><u>The Ultimate Guide: Viewing The Complete Indiana Jones Franchise Sequentially</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-to-overcome-game-lag-in-fallout-4/"><u>Top Strategies to Overcome Game Lag in Fallout 4</u></a></li>
 </ul></div>
 

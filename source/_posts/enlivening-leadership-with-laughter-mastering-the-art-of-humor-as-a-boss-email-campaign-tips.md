@@ -1,7 +1,7 @@
 ---
 title: "Enlivening Leadership with Laughter: Mastering the Art of Humor as a Boss | Email Campaign Tips"
-date: 2024-12-07T16:46:41.777Z
-updated: 2024-12-15T09:42:24.739Z
+date: 2024-12-19T16:33:46.800Z
+updated: 2024-12-24T04:20:41.875Z
 tags:
   - product
 categories:
@@ -17,10 +17,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -40,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -47,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -66,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -77,6 +77,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -86,28 +90,24 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -115,7 +115,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -149,22 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-discover-the-top-10-online-free-transformer-applications/"><u>[New] 2024 Approved Discover the Top 10 Online, FREE Transformer Applications</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-tv-everything-you-need-to-know/"><u>[Updated] YouTube TV - Everything You Need to Know</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-effective-strategies-for-diagnosing-and-fixing-windows-wi-fi-connectivity-issues-tips-by-yl-computing/"><u>1. Effective Strategies for Diagnosing and Fixing Windows Wi-Fi Connectivity Issues - Tips by YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-step-by-step-instructions-for-universal-recording-of-youtube-lives/"><u>[New] In 2024, Step-by-Step Instructions for Universal Recording of YouTube Lives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-streamline-your-music-movement-between-services/"><u>[Updated] 2024 Approved Streamline Your Music Movement Between Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-channels-to-zero-cost-image-frames/"><u>[Updated] Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-ultimate-guide-to-securing-your-pc-against-malware-insights-from-yl-computing-experts/"><u>1. Ultimate Guide to Securing Your PC Against Malware: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-enriched-visuals-and-melodies-the-art-of-integrating-filters-and-music-windows-photos/"><u>2024 Approved Enriched Visuals & Melodies The Art of Integrating Filters & Music (Windows Photos)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-next-big-thing-10-games-that-inspire-gta-v/"><u>2024 Approved Next Big Thing 10 Games That Inspire GTA V</u></a></li>
 <li><a href="https://win-latest.techidaily.com/a-beginners-guide-to-successful-cryptocurrency-investments-with-yl-computing-tools/"><u>A Beginner's Guide to Successful Cryptocurrency Investments with YL Computing Tools</u></a></li>
-<li><a href="https://win-latest.techidaily.com/adapt-your-computer-to-new-languages-mastering-system-language-change-in-windows-10-with-yl-software-expertise/"><u>Adapt Your Computer to New Languages! Mastering System Language Change in Windows 10 with YL Software Expertise</u></a></li>
-<li><a href="https://win-lab.techidaily.com/can-you-use-windows-defender-alongside-a-different-av-solution-unveiling-compatibility-secrets-techguide-insights/"><u>Can You Use Windows Defender Alongside a Different AV Solution? Unveiling Compatibility Secrets - TechGuide Insights</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210609583-9781911163183-crystal-therapy/"><u>Crystal Therapy | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-apple-watch-bargains-for-july-22024-exclusive-deals-curated/"><u>Discover the Ultimate Apple Watch Bargains for July 2^[/2024 | Exclusive Deals Curated</u></a></li>
+<li><a href="https://win-latest.techidaily.com/bmw-m5-ultimate-high-definition-wallpaper-gallery-stunning-visuals-and-full-resolution-images-by-yl-computing/"><u>BMW M5 Ultimate High-Definition Wallpaper Gallery: Stunning Visuals & Full Resolution Images by YL Computing</u></a></li>
 <li><a href="https://win-latest.techidaily.com/effective-solutions-fixing-your-scanner-issues-with-precision-expert-tips-from-yl-computing/"><u>Effective Solutions: Fixing Your Scanner Issues with Precision - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/enhancing-system-efficiency-key-configurations-for-optimal-performance-with-yl-computing/"><u>Enhancing System Efficiency: Key Configurations for Optimal Performance with YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hero4-meets-hero5-a-camera-battle/"><u>Hero4 Meets Hero5 A Camera Battle</u></a></li>
 <li><a href="https://win-latest.techidaily.com/high-definition-one-piece-wallpaper-collections-and-desktop-themes-yl-softwares-ultimate-digital-art-showcase/"><u>High-Definition One Piece Wallpaper Collections & Desktop Themes - Yl Software's Ultimate Digital Art Showcase</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-f04-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy F04 Activity | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elite-race-sims-ultimate-selection/"><u>In 2024, Elite Race Sims Ultimate Selection</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210184258-9781777094317-light-codes-for-the-soul/"><u>Light Codes for the Soul | Free Book</u></a></li>
+<li><a href="https://win-latest.techidaily.com/high-speed-graphics-card-fans-explained-a-guide-by-yl-computing-and-yl-software-solutions/"><u>High-Speed Graphics Card Fans Explained: A Guide by YL Computing and YL Software Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-rising-above-internet-naysayers-and-detractors/"><u>In 2024, Rising Above Internet Naysayers and Detractors</u></a></li>
 <li><a href="https://win-latest.techidaily.com/mastering-mouse-preferences-customize-your-windows-device-with-yls-ultimate-guide-to-control-panel-tweaks/"><u>Mastering Mouse Preferences: Customize Your Windows Device with YL's Ultimate Guide to Control Panel Tweaks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-free-mobile-photography-tools-for-slow-movement-effect/"><u>Premium Free Mobile Photography Tools for Slow Movement Effect</u></a></li>
 <li><a href="https://win-latest.techidaily.com/revamp-your-desktop-a-step-by-step-guide-to-changing-windows-ebackgrounds-and-themes-by-yl-software-experts/"><u>Revamp Your Desktop: A Step-by-Step Guide to Changing Windows Ebackgrounds and Themes by YL Software Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722991059540-terraria-crashing-problem-discover-the-top-tips-of-2024/"><u>Terraria Crashing Problem? Discover the Top Tips of 2024!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-free-thanksgiving-film-picks-on-netflix/"><u>Top Free Thanksgiving Film Picks on Netflix</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of Maintaining a Pristine Email Database: Insights From MassMail"
-date: 2024-12-08T06:39:12.678Z
-updated: 2024-12-14T19:56:18.113Z
+date: 2024-12-18T07:53:37.672Z
+updated: 2024-12-23T17:42:59.391Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -47,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,10 +66,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,21 +74,29 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -107,20 +107,20 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,20 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-audio-enthusiasts-guide-to-premier-9-mic-devices/"><u>[Updated] Audio Enthusiasts Guide to Premier 9 Mic Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-new-frontier-what-makes-triller-stand-out/"><u>2024 Approved Exploring the New Frontier What Makes Triller Stand Out?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-step-by-step-approach-to-crafting-your-video-market-standouts-for-2024/"><u>A Step-by-Step Approach to Crafting Your Video' Market Standouts for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-smooth-performance-fixing-stutter-issues-for-better-fps-on-valorant/"><u>Achieve Smooth Performance: Fixing Stutter Issues for Better FPS on Valorant</u></a></li>
-<li><a href="https://win-latest.techidaily.com/calculate-your-digital-dividends-crypto-tax-guidance-by-yl-computing-experts/"><u>Calculate Your Digital Dividends: Crypto Tax Guidance by YL Computing Experts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/identifying-motherboard-issues-successfully-expert-tips-from-yl-software/"><u>Identifying Motherboard Issues Successfully - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-network-settings-in-windows-a-detailed-tutorial-on-adjusting-and-resetting-tcpip-parameters-with-help-from-yl-computing-experts/"><u>Mastering Network Settings in Windows: A Detailed Tutorial on Adjusting and Resetting TCP/IP Parameters with Help From YL Computing Experts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/painting-with-light-an-experts-guide-to-color-grading/"><u>Painting with Light An Expert's Guide to Color Grading</u></a></li>
-<li><a href="https://win-latest.techidaily.com/resolving-computer-connection-issues-troubleshooting-your-scanner-expert-advice-from-yl-computing/"><u>Resolving Computer Connection Issues: Troubleshooting Your Scanner - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/solving-the-mystery-reasons-behind-abrupt-software-failures-insights-from-yl-computing/"><u>Solving the Mystery: Reasons Behind Abrupt Software Failures - Insights From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-audiophile-woes-correcting-speaker-distortion-with-guidance-from-yl-tech-experts/"><u>Troubleshooting Audiophile Woes: Correcting Speaker Distortion with Guidance From YL Tech Experts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-century-age-of-ashes-pc-game-crashes/"><u>Troubleshooting Tips: Fixing Century: Age of Ashes PC Game Crashes</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-your-malfunctioning-gpu-expert-tips-from-yl-computing/"><u>Troubleshooting Your Malfunctioning GPU: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveil-top-8-sites-providing-free-download-of-3d-text-psdfiles/"><u>Unveil Top 8 Sites Providing Free Download of 3D Text PSDFiles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-experts-handbook-for-voice-alteration-via-morphvox/"><u>[New] The Ultimate Expert's Handbook for Voice Alteration via MorphVOX</u></a></li>
+<li><a href="https://win-latest.techidaily.com/best-audio-players-for-windows-how-to-stream-your-music-files-discover-top-picks-by-yl-computing/"><u>Best Audio Players for Windows: How to Stream Your Music Files - Discover Top Picks by YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/checking-for-graphics-card-driver-updates-the-expert-tutorial-from-yl-software/"><u>Checking for Graphics Card Driver Updates: The Expert Tutorial From YL Software</u></a></li>
+<li><a href="https://win-web.techidaily.com/convert-biqle-adult-content-save-hd-movies-in-mp4movaviflv-for-pc-and-mac/"><u>Convert Biqle Adult Content - Save HD Movies in MP4/MOV/AVI/FLV for PC & MAC</u></a></li>
+<li><a href="https://win-latest.techidaily.com/exploring-the-key-triggers-behind-chinas-1966-cultural-revolution-insights-from-yl-computing-and-yl-software/"><u>Exploring the Key Triggers Behind China's 1966 Cultural Revolution: Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/guide-on-upgrading-from-stereo-to-51-surround-sound-setup/"><u>Guide on Upgrading From Stereo to 5.1 Surround Sound Setup</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-fix-a-flickering-display-on-your-laptop-expert-advice-from-yl-computing/"><u>How to Fix a Flickering Display on Your Laptop: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-chrome-browser-issue-resolved/"><u>How to Restore Sounds on Your Chrome Browser - Issue Resolved</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-7-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 7</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-spotify-how-to-halt-default-podcast-additions/"><u>In 2024, Spotify How to Halt Default Podcast Additions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-itel-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Itel Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-latest.techidaily.com/leading-innovations-in-extractive-industries-discover-how-yl-software-transforms-mining-economics/"><u>Leading Innovations in Extractive Industries: Discover How YL Software Transforms Mining Economics 💎</u></a></li>
+<li><a href="https://win-latest.techidaily.com/master-seamless-gameplay-strategies-to-reduce-computer-lag-and-improve-response-times-with-yl-softwares-expertise/"><u>Master Seamless Gameplay: Strategies to Reduce Computer Lag and Improve Response Times with YL Software's Expertise</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tiktok-linking-made-simple-and-irreversible/"><u>TikTok Linking Made Simple and Irreversible</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-tips-fixing-issues-with-your-scanner-yl-computings-comprehensive-guide/"><u>Troubleshooting Tips: Fixing Issues with Your Scanner - YL Computing's Comprehensive Guide</u></a></li>
 </ul></div>
 

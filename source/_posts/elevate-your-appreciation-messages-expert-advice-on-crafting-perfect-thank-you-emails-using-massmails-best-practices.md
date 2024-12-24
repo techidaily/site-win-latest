@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Appreciation Messages: Expert Advice on Crafting Perfect Thank-You Emails Using Massmail's Best Practices"
-date: 2024-12-09T23:21:24.076Z
-updated: 2024-12-14T18:42:52.760Z
+date: 2024-12-23T07:49:44.056Z
+updated: 2024-12-24T02:36:55.881Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -39,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -51,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,32 +78,32 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,17 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-key-to-youtube-stardom-reaching-submillion-status/"><u>[New] In 2024, The Key to YouTube Stardom Reaching Submillion Status</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-perfect-propeller-synergy-for-awe-inspiring-fpv-flights/"><u>[Updated] Perfect Propeller Synergy for Awe-Inspiring FPV Flights</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-effective-strategies-for-diagnosing-and-fixing-windows-wi-fi-connectivity-issues-tips-by-yl-computing/"><u>1. Effective Strategies for Diagnosing and Fixing Windows Wi-Fi Connectivity Issues - Tips by YL Computing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-guide-to-copying-imagesvideos-between-iphones/"><u>2024 Approved The Ultimate Guide to Copying Images/Videos Between iPhones</u></a></li>
-<li><a href="https://win-latest.techidaily.com/a-beginners-guide-to-successful-cryptocurrency-investments-with-yl-computing-tools/"><u>A Beginner's Guide to Successful Cryptocurrency Investments with YL Computing Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/android-and-ios-best-ps2-emulator-comparisons-for-2024/"><u>Android & iOS Best PS2 Emulator Comparisons for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/batch-file-basics-unveiled-quick-and-simple-steps/"><u>Batch File Basics Unveiled - Quick & Simple Steps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-long-lasting-power-with-the-sleek-and-sturdy-moto-g-series/"><u>Experience Long-Lasting Power with the Sleek and Sturdy Moto G Series</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-intermittent-print-service-disruptions-in-win-oss/"><u>Fixing Intermittent Print Service Disruptions in Win OSs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/high-definition-one-piece-wallpaper-collections-and-desktop-themes-yl-softwares-ultimate-digital-art-showcase/"><u>High-Definition One Piece Wallpaper Collections & Desktop Themes - Yl Software's Ultimate Digital Art Showcase</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-consistent-printer-selection-under-windows/"><u>Keeping Consistent Printer Selection Under Windows</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revamp-your-desktop-a-step-by-step-guide-to-changing-windows-ebackgrounds-and-themes-by-yl-software-experts/"><u>Revamp Your Desktop: A Step-by-Step Guide to Changing Windows Ebackgrounds and Themes by YL Software Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-obs-walkthrough-turn-your-screen-into-a-youtube-live-showcase-for-2024/"><u>[Updated] OBS Walkthrough Turn Your Screen Into a Youtube Live Showcase for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-creativity-a-guide-to-instagram-story-archiving/"><u>[Updated] Unlocking Creativity A Guide to Instagram Story Archiving</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-identifying-top-reasons-behind-windows-memory-issues-insights-from-yl-computing/"><u>1. Identifying Top Reasons Behind Windows Memory Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-direct-audio-device-release-date-cost-predictions-and-unconfirmed-rumors-revealed/"><u>Apple’s Direct Audio Device - Release Date, Cost Predictions, and Unconfirmed Rumors Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-moments-like-never-before-toolwiz-apps-2023-review-for-2024/"><u>Capturing Moments Like Never Before Toolwiz App's 2023 Review for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/complete-tutorial-on-how-to-perform-a-system-scan-using-windows-defender-yl-tech-solutions/"><u>Complete Tutorial on How to Perform a System Scan Using Windows Defender - YL Tech Solutions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/diy-hardware-troubleshooting-steps-with-expert-tips-from-yl-software/"><u>DIY Hardware Troubleshooting Steps with Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-latest.techidaily.com/evaluating-safety-in-overclocking-memory-a-comprehensive-guide-by-yl-computing/"><u>Evaluating Safety in Overclocking Memory: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-logitech-g29-steering-wheel-drivers-for-pcs-running-windows-11107/"><u>Get the Latest Logitech G29 Steering Wheel Drivers for PCs Running Windows 11/10/7</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/high-definition-bentley-continental-gt-walls-and-desktops-download-premium-hd-backgrounds/"><u>High-Definition Bentley Continental GT Walls & Desktops - Download Premium HD Backgrounds</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-ensure-optimal-computer-function-with-regular-maintenance-insights-from-yl-computing-and-yl-software/"><u>How to Ensure Optimal Computer Function with Regular Maintenance - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-reno-10-proplus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo Reno 10 Pro+ 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-a-comprehensive-guide-to-correcting-twitch-error-4000/"><u>Solving the Puzzle: A Comprehensive Guide to Correcting Twitch Error 4000</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-5-troubleshooting-tips-for-resolving-buzzy-speaker-issues/"><u>Top 5 Troubleshooting Tips for Resolving Buzzy Speaker Issues</u></a></li>
+<li><a href="https://win-latest.techidaily.com/understanding-the-reasons-behind-your-laptops-excessive-heating-insights-from-yl-computing/"><u>Understanding the Reasons Behind Your Laptop's Excessive Heating: Insights From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unlock-the-secrets-of-accessing-docx-files-with-ease-in-windows-essential-tips-by-yl-software-experts/"><u>Unlock the Secrets of Accessing .docx Files with Ease in Windows – Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-create-stunning-bokeh-top-apps-for-iphone-and-android/"><u>Updated 2024 Approved Create Stunning Bokeh Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-defender-how-are-you-notified-of-malware-threats/"><u>Windows Defender: How Are You Notified of Malware Threats?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/yl-software-reveals-proven-strategies-for-enhancing-pc-speeds-and-efficiency/"><u>YL Software Reveals Proven Strategies for Enhancing PC Speeds and Efficiency</u></a></li>
 </ul></div>
 

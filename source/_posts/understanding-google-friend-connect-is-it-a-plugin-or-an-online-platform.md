@@ -1,7 +1,7 @@
 ---
 title: "Understanding Google Friend Connect: Is It a Plugin or an Online Platform?"
-date: 2024-12-09T10:42:42.953Z
-updated: 2024-12-14T16:20:06.735Z
+date: 2024-12-20T01:37:51.291Z
+updated: 2024-12-23T23:15:14.911Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,9 +36,17 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -66,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -77,6 +81,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -87,24 +95,16 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/sequoia-macos-15-unveiled-detailed-timing-info-cutting-edge-capabilities-and-recent-developments/"><u>'Sequoia' MacOS 15 Unveiled: Detailed Timing Info, Cutting-Edge Capabilities & Recent Developments</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/alancing-content-creation-and-employment/"><u>[New] Balancing Content Creation and Employment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-archive-all-your-images-flawlessly-infinite-no-charge-and-elite-paid-storage/"><u>[Updated] Archive All Your Images Flawlessly Infinite, No-Charge & Elite Paid Storage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-crafting-unique-360-degree-videos-on-an-iphone/"><u>[Updated] In 2024, Crafting Unique 360-Degree Videos on an iPhone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tune-into-the-beats-with-these-free-online-scanners/"><u>[Updated] Tune Into the Beats with These Free Online Scanners</u></a></li>
-<li><a href="https://win-latest.techidaily.com/can-you-enjoy-immersive-audio-with-your-current-sound-cards-surround-sound-capability-unveiling-by-yl-software/"><u>Can You Enjoy Immersive Audio with Your Current Sound Card's Surround Sound Capability - Unveiling by YL Software</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effective-strategies-and-insights-for-resolving-pc-problems-guidance-from-yl-computings-expertise/"><u>Effective Strategies and Insights for Resolving PC Problems - Guidance From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-latest.techidaily.com/expert-tips-on-solving-detection-issues-with-outside-hdds-by-yl-software-experts/"><u>Expert Tips on Solving Detection Issues with Outside HDDs by YL Software Experts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-noticed-gl-problem-with-nvidia-driver/"><u>Fix Noticed: GL Problem with Nvidia Driver</u></a></li>
-<li><a href="https://win-latest.techidaily.com/high-definition-cristiano-ronaldo-juventas-posters-and-image-backdrops-premium-quality-wallpapers-for-desktop-and-mobile/"><u>High-Definition Cristiano Ronaldo Juventas Posters & Image Backdrops - Premium Quality Wallpapers for Desktop and Mobile</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-spot-and-fix-usual-pc-components-faults-on-windows-machines-tips-from-yl-systems-experts/"><u>How to Spot and Fix Usual PC Components Faults on Windows Machines - Tips From YL Systems Experts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-breaking-down-complex-gif-concepts-for-beginners/"><u>In 2024, Breaking Down Complex GIF Concepts for Beginners</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-xs-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone XS Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/soothing-screen-savers-and-hd-icons-professional-backgrounds-vistas-and-graphics-by-yl-tech/"><u>Soothing Screen Savers & HD Icons - Professional Backgrounds, Vistas, and Graphics by YL Tech</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-guide-locating-any-file-on-your-pc-with-windows-tips-by-yl-computing/"><u>Step-by-Step Guide: Locating Any File on Your PC with Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/the-impact-of-chiang-kai-shek-on-the-historical-struggle-of-chinese-civil-war-analysis-by-yl-software-solutions/"><u>The Impact of Chiang Kai-Shek on the Historical Struggle of Chinese Civil War - Analysis by YL Software Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-unlocking-audio-potential-a-user-friendly-approach-to-track-combining-in-premiere-pro/"><u>Updated Unlocking Audio Potential A User-Friendly Approach to Track Combining in Premiere Pro</u></a></li>
-<li><a href="https://win-latest.techidaily.com/windows-enthusiasts-rejoice-the-lyrx-karaoke-solution-is-here-compatible-with-pcdj-systems/"><u>Windows Enthusiasts Rejoice - The LYRX Karaoke Solution Is Here, Compatible with PCDJ Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>[New] The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-efficiently-transferring-files-in-windows-a-step-by-step-guide-yl-computing/"><u>1. 'Efficiently Transferring Files in Windows: A Step-by-Step Guide - YL Computing'</u></a></li>
+<li><a href="https://win-latest.techidaily.com/accelerate-your-laptop-speed-with-simple-cleanup-tricks-learn-how-from-yl-computer-experts/"><u>Accelerate Your Laptop Speed with Simple Cleanup Tricks - Learn How From YL Computer Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/drone-flight-smoothness-choosing-a-gimbal-wisely/"><u>Drone Flight Smoothness Choosing a Gimbal Wisely</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secure-and-save-periscope-videos-with-these-tips/"><u>In 2024, Secure & Save Periscope Videos with These Tips</u></a></li>
+<li><a href="https://win-latest.techidaily.com/recognizing-signs-of-a-deteriorating-pc-power-supply-tips-from-yl-computing/"><u>Recognizing Signs of a Deteriorating PC Power Supply - Tips From YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-terraria-6-reliable-strategies-for-reestablishing-connection/"><u>Troubleshoot Your Terraria: 6 Reliable Strategies for Reestablishing Connection</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-computer-hardware-failures-with-tips-from-yl-software-step-by-step-solutions-for-windows-users/"><u>Troubleshooting Computer Hardware Failures with Tips From YL Software - Step-by-Step Solutions for Windows Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Best Web-Based Selling & Media Distribution Platforms of 2012 Powered by MassMail Technology
-date: 2024-12-12T07:21:59.726Z
-updated: 2024-12-14T22:52:00.636Z
+date: 2024-12-17T04:10:11.516Z
+updated: 2024-12-24T09:47:28.176Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -58,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -78,9 +78,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -90,37 +98,25 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-experts-choice-the-best-windows-pc-screen-recorders/"><u>[Updated] Expert's Choice The Best Windows PC Screen Recorders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-mastering-multi-image-melding-on-computers-for-2024/"><u>[Updated] Mastering Multi-Image Melding on Computers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-11-best-free-youtube-name-generators-you-should-try/"><u>2024 Approved 11 Best Free YouTube Name Generators You Should Try</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-distinguished-makers-elite-instagram-highlight-constructors/"><u>2024 Approved Distinguished Makers Elite Instagram Highlight Constructors</u></a></li>
-<li><a href="https://win-latest.techidaily.com/efficient-management-of-user-profiles-and-secrets-a-guide-through-control-panel-settings-tips-by-yl-computing/"><u>Efficient Management of User Profiles & Secrets: A Guide Through Control Panel Settings - Tips by YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-edge-40-pro-by-drfone-android/"><u>How to Bypass FRP from Motorola Edge 40 Pro?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-90-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor 90 Pro Phone?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-youtubes-puzzling-buffering-patterns/"><u>In 2024, Navigating YouTube's Puzzling Buffering Patterns</u></a></li>
-<li><a href="https://win-latest.techidaily.com/resolving-windows-driver-problems-expert-tips-from-yl-computings-tech-gurus/"><u>Resolving Windows Driver Problems: Expert Tips From YL Computing's Tech Gurus</u></a></li>
-<li><a href="https://win-latest.techidaily.com/section-2b-five-facts-to-remember-about-interneurons/"><u>Section 2B: Five Facts to Remember About Interneurons</u></a></li>
-<li><a href="https://win-latest.techidaily.com/solving-the-blue-screen-of-death-issue-expert-tips-from-yl-computing/"><u>Solving the 'Blue Screen of Death' Issue: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/swiftly-survey-your-windows-documentation/"><u>Swiftly Survey Your Windows Documentation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-crafting-stunning-photography-mastering-hdr-merging-in-lightroom/"><u>[New] In 2024, Crafting Stunning Photography Mastering HDR Merging in Lightroom</u></a></li>
+<li><a href="https://win-latest.techidaily.com/10-with-yls-guidance-yl-tech-solutions/"><u>10 with YL's Guidance | YL Tech Solutions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/can-a-registry-cleaner-solve-your-windows-issues-uncover-the-truth-with-yl-softwares-expert-insight/"><u>Can a Registry Cleaner Solve Your Windows Issues? Uncover the Truth with YL Software’s Expert Insight</u></a></li>
+<li><a href="https://win-latest.techidaily.com/enhance-computer-speed-and-health-by-mastering-disk-defrag-strategies-tips-and-tricks-by-yl-software/"><u>Enhance Computer Speed and Health by Mastering Disk Defrag Strategies - Tips & Tricks by YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-becoming-a-vlogger-voice-confident-content-creation-strategies/"><u>In 2024, Becoming a Vlogger Voice Confident Content Creation Strategies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-xripad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone XR/iPad Without Computer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-igtv-potential-tips-and-strategies/"><u>In 2024, Unlocking IGTV Potential Tips & Strategies</u></a></li>
+<li><a href="https://win-latest.techidaily.com/navigating-crypto-trends-essential-insights-from-yl-software-updates-and-analysis/"><u>Navigating Crypto Trends: Essential Insights From YL Software Updates and Analysis</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-replacing-defective-components-in-your-pc-expert-tips-by-yl-computing/"><u>Step-by-Step Guide: Replacing Defective Components in Your PC - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-no-display-uncover-the-reasons-behind-your-graphics-cards-silence-expert-insight-by-yl-computing/"><u>Troubleshooting No Display: Uncover the Reasons Behind Your Graphics Card's Silence - Expert Insight by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-randomly-pressed-buttons-fixes-for-keyboard-errors/"><u>Troubleshooting Randomly Pressed Buttons: Fixes for Keyboard Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-magixs-acid-pro-and-its-market-rivals/"><u>Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-features-of-mingda-magician-pro2-a-review-focused-on-strength-and-subtlety/"><u>Unveiling the Features of Mingda Magician Pro2 – A Review Focused on Strength and Subtlety</u></a></li>
+<li><a href="https://win-latest.techidaily.com/verifying-scanner-functionality-in-your-windows-environment-a-step-by-step-guide-powered-by-yl-computing/"><u>Verifying Scanner Functionality in Your Windows Environment: A Step-by-Step Guide - Powered by YL Computing</u></a></li>
 </ul></div>
 
