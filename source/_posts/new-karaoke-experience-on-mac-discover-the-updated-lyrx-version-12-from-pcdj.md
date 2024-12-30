@@ -1,7 +1,7 @@
 ---
 title: "New Karaoke Experience on Mac: Discover the Updated Lyrx Version 1.2 From PCDJ"
-date: 2024-12-23T02:33:43.688Z
-updated: 2024-12-23T16:02:08.361Z
+date: 2024-12-24T22:02:06.651Z
+updated: 2024-12-29T18:16:11.784Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-complete-understanding-of-srt-covering-everything-important/"><u>[New] 2024 Approved Complete Understanding of SRT, Covering Everything Important</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-mastering-the-art-of-interpreting-blockchain-updates-and-insights-a-guide-by-yl-computing/"><u>1. Mastering the Art of Interpreting Blockchain Updates & Insights: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-streamline-shipment-5-methods-of-transporting-files/"><u>2024 Approved Streamline Shipment 5 Methods of Transporting Files</u></a></li>
-<li><a href="https://win-latest.techidaily.com/exploring-mao-zedongs-role-in-shaping-the-chinese-revolution-a-comprehensive-guide/"><u>Exploring Mao Zedong's Role in Shaping the Chinese Revolution: A Comprehensive Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-hardware-intel-raid-drivers-for-windows-users-on-version-11-10-8-and-7/"><u>Optimize Your Hardware: Intel RAID Drivers for Windows Users on Version 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-latest.techidaily.com/resolving-corrupt-os-issues-a-comprehensive-guide-solutions-from-yl-computing/"><u>Resolving Corrupt OS Issues: A Comprehensive Guide - Solutions From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/resolving-windows-bsod-issues-effectively-proven-strategies-by-professionals-at-yl-software-yl-computing/"><u>Resolving Windows BSOD Issues Effectively: Proven Strategies by Professionals at YL Software | YL Computing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/saudar-a-portugal-com-flauta-dos-dialetos/"><u>Saudar a Portugal Com Flauta Dos Dialetos</u></a></li>
-<li><a href="https://win-latest.techidaily.com/section-2b-five-facts-to-remember-about-interneurons/"><u>Section 2B: Five Facts to Remember About Interneurons</u></a></li>
-<li><a href="https://win11.techidaily.com/the-basics-of-windows-hardware-memory-set-aside/"><u>The Basics of Windows Hardware Memory Set-Aside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-viewing-the-complete-indiana-jones-franchise-sequentially/"><u>The Ultimate Guide: Viewing The Complete Indiana Jones Franchise Sequentially</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-to-overcome-game-lag-in-fallout-4/"><u>Top Strategies to Overcome Game Lag in Fallout 4</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-tips-to-master-free-countdown-functions/"><u>[New] Quick Tips to Master FREE Countdown Functions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>[Updated] In 2024, Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/calculate-your-digital-dividends-crypto-tax-guidance-by-yl-computing-experts/"><u>Calculate Your Digital Dividends: Crypto Tax Guidance by YL Computing Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-xiaomi-14-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi 14 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-s17t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo S17t Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-asus-rog-phone-7-ultimate-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Asus ROG Phone 7 Ultimate Phone? Unlock It Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-toms-electronics-review-sphere-insights-and-recommendations/"><u>Navigating Tom's Electronics Review Sphere: Insights and Recommendations</u></a></li>
+<li><a href="https://win-latest.techidaily.com/resolving-computer-connection-issues-troubleshooting-your-scanner-expert-advice-from-yl-computing/"><u>Resolving Computer Connection Issues: Troubleshooting Your Scanner - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/solving-the-mystery-reasons-behind-abrupt-software-failures-insights-from-yl-computing/"><u>Solving the Mystery: Reasons Behind Abrupt Software Failures - Insights From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-audiophile-woes-correcting-speaker-distortion-with-guidance-from-yl-tech-experts/"><u>Troubleshooting Audiophile Woes: Correcting Speaker Distortion with Guidance From YL Tech Experts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-collection-of-nike-logo-visuals-for-your-screen-premium-hd-images-photo-backgrounds-and-more-curated-by-yl-software/"><u>Ultimate Collection of Nike Logo Visuals for Your Screen: Premium HD Images, Photo Backgrounds, and More – Curated by YL Software</u></a></li>
+<li><a href="https://win-latest.techidaily.com/yl-computings-ultimate-hack-seamlessly-shifting-documents-between-directories-on-windows-os/"><u>YL Computing's Ultimate Hack: Seamlessly Shifting Documents Between Directories on Windows OS</u></a></li>
 </ul></div>
 
