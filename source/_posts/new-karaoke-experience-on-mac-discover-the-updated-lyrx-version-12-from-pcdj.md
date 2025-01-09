@@ -1,7 +1,7 @@
 ---
 title: "New Karaoke Experience on Mac: Discover the Updated Lyrx Version 1.2 From PCDJ"
-date: 2024-12-24T22:02:06.651Z
-updated: 2024-12-29T18:16:11.784Z
+date: 2025-01-05T02:09:32.845Z
+updated: 2025-01-09T01:41:04.818Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-tips-to-master-free-countdown-functions/"><u>[New] Quick Tips to Master FREE Countdown Functions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>[Updated] In 2024, Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
-<li><a href="https://win-latest.techidaily.com/calculate-your-digital-dividends-crypto-tax-guidance-by-yl-computing-experts/"><u>Calculate Your Digital Dividends: Crypto Tax Guidance by YL Computing Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/does-xiaomi-14-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi 14 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-s17t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo S17t Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-asus-rog-phone-7-ultimate-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Asus ROG Phone 7 Ultimate Phone? Unlock It Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-toms-electronics-review-sphere-insights-and-recommendations/"><u>Navigating Tom's Electronics Review Sphere: Insights and Recommendations</u></a></li>
-<li><a href="https://win-latest.techidaily.com/resolving-computer-connection-issues-troubleshooting-your-scanner-expert-advice-from-yl-computing/"><u>Resolving Computer Connection Issues: Troubleshooting Your Scanner - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/solving-the-mystery-reasons-behind-abrupt-software-failures-insights-from-yl-computing/"><u>Solving the Mystery: Reasons Behind Abrupt Software Failures - Insights From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-audiophile-woes-correcting-speaker-distortion-with-guidance-from-yl-tech-experts/"><u>Troubleshooting Audiophile Woes: Correcting Speaker Distortion with Guidance From YL Tech Experts</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-collection-of-nike-logo-visuals-for-your-screen-premium-hd-images-photo-backgrounds-and-more-curated-by-yl-software/"><u>Ultimate Collection of Nike Logo Visuals for Your Screen: Premium HD Images, Photo Backgrounds, and More – Curated by YL Software</u></a></li>
-<li><a href="https://win-latest.techidaily.com/yl-computings-ultimate-hack-seamlessly-shifting-documents-between-directories-on-windows-os/"><u>YL Computing's Ultimate Hack: Seamlessly Shifting Documents Between Directories on Windows OS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amplify-your-videos-impact-7-royalty-free-sounds/"><u>[New] 2024 Approved Amplify Your Video's Impact 7 Royalty-Free Sounds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-cross-platform-connections-effortless-insta-facebook-linkup/"><u>[New] Cross-Platform Connections Effortless Insta-Facebook Linkup</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-effortless-streams-screening-netflix-on-mac-professionally-for-2024/"><u>[New] Effortless Streams Screening Netflix on Mac Professionally for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-applications-of-virtual-reality/"><u>[New] In 2024, Applications of Virtual Reality</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expert-guide-resolving-common-hardware-malfunctions-with-ease-tips-from-yl-computing/"><u>Expert Guide: Resolving Common Hardware Malfunctions with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-community.techidaily.com/free-winx-video-converter-convert-dvds-to-mp4-on-windows-10-and-mobile-devices/"><u>Free WinX Video Converter: Convert DVDs to MP4 on Windows 10 & Mobile Devices</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-can-you-ensure-your-graphics-card-runs-at-peak-performance-insights-by-yl-computing/"><u>How Can You Ensure Your Graphics Card Runs at Peak Performance? - Insights by YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 6</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mighty-machines-meet-thieyes-t5-vs-jcb-sjcam-s6/"><u>Mighty Machines Meet Thieye's T5 Vs JCB SJCAM S6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-conversion-tactics-extracting-mp3-from-vids-on-social-media-for-2024/"><u>Quick Conversion Tactics Extracting MP3 From Vids on Social Media for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/transferring-your-powerpoint-slides-step-by-step-guide-to-moving-to-a-usb-tips-from-yl-computing/"><u>Transferring Your PowerPoint Slides: Step-by-Step Guide to Moving to a USB - Tips From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-wont-turn-on/"><u>Troubleshooting Steps: What to Do When Your PC Won't Turn On</u></a></li>
+<li><a href="https://win-latest.techidaily.com/yl-softwares-captivating-nakano-quintuplets-background-graphics-and-digital-artwork-for-your-screen-savers/"><u>YL Software's Captivating Nakano Quintuplets Background Graphics and Digital Artwork for Your Screen Savers</u></a></li>
 </ul></div>
 
