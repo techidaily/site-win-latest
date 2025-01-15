@@ -1,7 +1,7 @@
 ---
 title: Launch of the Collaborative Remote Request Feature Between PCDJ and SongBookDB – A New Era in DJ Karaoke
-date: 2025-01-05T02:40:18.489Z
-updated: 2025-01-09T08:04:37.635Z
+date: 2025-01-13T03:40:01.570Z
+updated: 2025-01-14T21:33:51.258Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ Graphics Card (ATI / Nvidia) with 256MB minimum dedicated graphics RAM, or Intel
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,18 +88,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/12/remotesongrequest-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-efficient-mov-editing-and-recording-tutorial-for-windows-11-users/"><u>[New] Efficient MOV Editing and Recording Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-brightening-up-your-youtube-content-for-2024/"><u>[Updated] The Ultimate Guide to Brightening Up Your YouTube Content for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ssdssd/"><u>如何成功地将更大容量SSD转移到更小SSD驱动器上</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728496132836-aomei/"><u>AOMEI 后拓：全面功能列表及其应用 - 专业讲解备份软件</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-honor-magic-5-lite-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor Magic 5 Lite Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/die-beeindruckendsten-losungen-zum-sichern-und-wiederherstellen-von-outlook-pst-dateien/"><u>Die Beeindruckendsten Lösungen Zum Sichern Und Wiederherstellen Von Outlook PST Dateien</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-fix-the-invalid-directory-name-error-on-windows-11-a-step-by-step-guide/"><u>How to Fix the 'Invalid Directory Name' Error on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/losungen-fur-das-problem-zugriff-auf-flashlaufwerk-wird-verweigert-ein-leitfaden/"><u>Lösungen Für Das Problem: 'Zugriff Auf Flashlaufwerk Wird Verweigert' - Ein Leitfaden</u></a></li>
-<li><a href="https://win-latest.techidaily.com/recuperare-i-tuoi-dati-persi-sulliphone-4-modi-di-successo-con-lapplicazione-memo-vocali/"><u>Recuperare I Tuoi Dati Persi Sull'iPhone: 4 Modi Di Successo Con L'applicazione Memo Vocali</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silencing-the-noise-a-step-by-nstep-solution-to-cracking-speakers-on-pcs-with-windows-710/"><u>Silencing the Noise: A Step-by-nStep Solution to Cracking Speakers on PCs with Windows 7/10</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/step-by-step-tutorial-for-transforming-mpeg-files-into-mp4-format-across-various-systems-updated/"><u>Step-by-Step Tutorial for Transforming MPEG Files Into MP4 Format Across Various Systems (Updated)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/strategies-for-deleting-watch-later-items-on-youtube-for-2024/"><u>Strategies for Deleting Watch Later Items on YouTube for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-checklist-for-video-praise-mastery-for-2024/"><u>The Ultimate Checklist for Video Praise Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fire-browser-excellence-premier-facebook-downloaders-and-addons-for-firefox/"><u>[New] 2024 Approved Fire-Browser Excellence Premier Facebook Downloaders & Addons for FireFox</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aximizing-audience-engagement-with-youtube-shorts-templates-for-2024/"><u>[New] Maximizing Audience Engagement with YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hings-about-asmr-video-you-should-know/"><u>[New] Things About ASMR Video You Should Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elevate-your-gaming-by-recording-ps3-games/"><u>[Updated] Elevate Your Gaming by Recording PS3 Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-make-every-xbox-moment-count-expert-recording-advice/"><u>[Updated] Make Every Xbox Moment Count Expert Recording Advice</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-shorts-creating-flawless-5-second-videos/"><u>2024 Approved YouTube Shorts Creating Flawless 5-Second Videos</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728509602385-7/"><u>失蹤的垃圾桶：如何快速處理！探索7大解決方案</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-set-up-windows-aturated-with-the-desire-for-knowledge-exploration-and-understandinga-stark-contrast-to-the-pragmatic-concerns-that-shape-so-much-of-o309/"><u>How to Set Up Windows Aturated with the Desire for Knowledge, Exploration, and Understanding—A Stark Contrast to the Pragmatic Concerns that Shape so Much of Our Modern World.</u></a></li>
+<li><a href="https://win-latest.techidaily.com/localizar-tus-videos-perdidos-en-la-pc-y-iphone-metodos-de-recuperacion-efectivos/"><u>Localizar Tus Videos Perdidos en La PC Y iPhone, Métodos De Recuperación Efectivos</u></a></li>
+<li><a href="https://win-latest.techidaily.com/protecting-windows-servers-a-comprehensive-guide-to-transferring-backups-onto-nas-systems/"><u>Protecting Windows Servers: A Comprehensive Guide to Transferring Backups Onto NAS Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-fn-keys-on-a-dell-laptop-the-definitive-guide-to-restoration-and-maintenveeance/"><u>Reviving the Fn Keys on a Dell Laptop: The Definitive Guide to Restoration and Maintenveeance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-tips-to-boost-your-iphones-wi-fi-connectivity-and-speed/"><u>Top 8 Tips to Boost Your iPhone's Wi-Fi Connectivity and Speed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/video-voiceover-software-for-pc-the-top-6-contenders/"><u>Video Voiceover Software for PC The Top 6 Contenders</u></a></li>
+<li><a href="https://win-latest.techidaily.com/wiederherstellung-von-versehentlich-geloschten-kindle-e-books-4-bewahrte-strategien/"><u>Wiederherstellung Von Versehentlich Gelöschten Kindle-E-Books: 4 Bewährte Strategien</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-7erecovery/"><u>Windows 7のeRecovery管理ツール - 最適化されたエラー修正アプリ</u></a></li>
 </ul></div>
 

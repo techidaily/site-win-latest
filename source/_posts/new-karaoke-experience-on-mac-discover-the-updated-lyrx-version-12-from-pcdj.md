@@ -1,7 +1,7 @@
 ---
 title: "New Karaoke Experience on Mac: Discover the Updated Lyrx Version 1.2 From PCDJ"
-date: 2025-01-05T02:09:32.845Z
-updated: 2025-01-09T01:41:04.818Z
+date: 2025-01-12T17:05:08.931Z
+updated: 2025-01-15T01:46:13.491Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amplify-your-videos-impact-7-royalty-free-sounds/"><u>[New] 2024 Approved Amplify Your Video's Impact 7 Royalty-Free Sounds</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-cross-platform-connections-effortless-insta-facebook-linkup/"><u>[New] Cross-Platform Connections Effortless Insta-Facebook Linkup</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-effortless-streams-screening-netflix-on-mac-professionally-for-2024/"><u>[New] Effortless Streams Screening Netflix on Mac Professionally for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-applications-of-virtual-reality/"><u>[New] In 2024, Applications of Virtual Reality</u></a></li>
-<li><a href="https://win-latest.techidaily.com/expert-guide-resolving-common-hardware-malfunctions-with-ease-tips-from-yl-computing/"><u>Expert Guide: Resolving Common Hardware Malfunctions with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-community.techidaily.com/free-winx-video-converter-convert-dvds-to-mp4-on-windows-10-and-mobile-devices/"><u>Free WinX Video Converter: Convert DVDs to MP4 on Windows 10 & Mobile Devices</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-can-you-ensure-your-graphics-card-runs-at-peak-performance-insights-by-yl-computing/"><u>How Can You Ensure Your Graphics Card Runs at Peak Performance? - Insights by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 6</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mighty-machines-meet-thieyes-t5-vs-jcb-sjcam-s6/"><u>Mighty Machines Meet Thieye's T5 Vs JCB SJCAM S6</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-conversion-tactics-extracting-mp3-from-vids-on-social-media-for-2024/"><u>Quick Conversion Tactics Extracting MP3 From Vids on Social Media for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/transferring-your-powerpoint-slides-step-by-step-guide-to-moving-to-a-usb-tips-from-yl-computing/"><u>Transferring Your PowerPoint Slides: Step-by-Step Guide to Moving to a USB - Tips From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-wont-turn-on/"><u>Troubleshooting Steps: What to Do When Your PC Won't Turn On</u></a></li>
-<li><a href="https://win-latest.techidaily.com/yl-softwares-captivating-nakano-quintuplets-background-graphics-and-digital-artwork-for-your-screen-savers/"><u>YL Software's Captivating Nakano Quintuplets Background Graphics and Digital Artwork for Your Screen Savers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-free-text-techniques-for-more-dynamic-video-experiences-for-2024/"><u>[New] FREE Text Techniques for More Dynamic Video Experiences for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-seamless-web-browsing-on-edge-with-picture-in-picture-mode-for-2024/"><u>[New] Seamless Web Browsing on Edge with Picture-in-Picture Mode for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-the-facts-why-has-italy-suddenly-banned-use-of-chatgpt/"><u>Breaking Down the Facts: Why Has Italy Suddenly Banned Use of ChatGPT?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/chatgpts-memory-capabilities-unveiled-an-in-depth-review-reveals-both-promise-and-constraints/"><u>ChatGPT's Memory Capabilities Unveiled: An In-Depth Review Reveals Both Promise and Constraints</u></a></li>
+<li><a href="https://win-latest.techidaily.com/descubre-las-formas-mas-simples-de-generar-una-imagen-de-recuperacion-para-windows-server-2016/"><u>Descubre Las Formas Más Simples De Generar Una Imagen De Recuperación Para Windows Server 2016</u></a></li>
+<li><a href="https://win-latest.techidaily.com/erfolgreiches-upgrade-ihrer-ps3-slim-ssd-datensicherung-unnotig/"><u>Erfolgreiches Upgrade Ihrer PS3 Slim SSD – Datensicherung Unnötig!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/essential-tips-on-retrieving-your-saved-website-favorites/"><u>Essential Tips on Retrieving Your Saved Website Favorites</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728492660683-hp/"><u>HPハードディスクの交換とオペレーティングシステム再インストール手順</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-step-by-step-framework-for-dimming-sounds-in-lumafusion/"><u>In 2024, A Step-by-Step Framework for Dimming Sounds in Lumafusion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-template-packs-for-effective-business-communications-for-2024/"><u>Innovative Template Packs for Effective Business Communications for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-scanner-drivers-update-your-scansnap-s1300i-in-a-few-minutes/"><u>Mastering Scanner Drivers: Update Your ScanSnap S1300i in a Few Minutes</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-alternatives-to-diskgenius-secure-your-files-with-these-options/"><u>Top Alternatives to DiskGenius: Secure Your Files with These Options</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728495563763-windows-1011/"><u>リカバリードライブ設定手順：Windows 10と11でのガイド</u></a></li>
 </ul></div>
 
