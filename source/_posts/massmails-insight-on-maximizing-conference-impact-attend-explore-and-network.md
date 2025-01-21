@@ -1,7 +1,7 @@
 ---
 title: "MassMail's Insight on Maximizing Conference Impact: Attend, Explore & Network"
-date: 2024-12-22T21:22:48.818Z
-updated: 2024-12-30T01:01:48.342Z
+date: 2025-01-19T05:20:34.843Z
+updated: 2025-01-20T18:27:39.356Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -35,10 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -70,25 +66,25 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,13 +94,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -115,7 +111,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-conquering-low-end-webcams-for-stellar-video-quality/"><u>[New] 2024 Approved Conquering Low-End WebCams for Stellar Video Quality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-in-depth-analysis-of-powerdirector-24-features/"><u>[New] 2024 Approved In-Depth Analysis of PowerDirector '24 Features</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/utomate-playlist-retrieval-from-youtube-directly/"><u>[New] Automate Playlist Retrieval From YouTube Directly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sony-blu-ray-player-s6700-new-insights/"><u>[New] Sony Blu-Ray Player S6700 New Insights</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-monitoring-and-alerts/"><u>[Updated] Monitoring and Alerts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-kinemasters-features-and-comparing-to-leading-online-games/"><u>2024 Approved Navigating KineMaster's Features and Comparing to Leading Online Games</u></a></li>
-<li><a href="https://win-latest.techidaily.com/3-easy-methods-how-to-retrieve-lost-images-from-damaged-jpg-files-for-free/"><u>3 Easy Methods: How to Retrieve Lost Images From Damaged JPG Files for Free</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728510200681-windows/"><u>如何在 Windows 平台上无麻烦地建立数据备份流程</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mkv-ogg-movavi/"><u>網路無限制 MKV 到 OGG 轉換 - 利用 Movavi 優化技術</u></a></li>
-<li><a href="https://win-latest.techidaily.com/choosing-between-disk-clones-and-disk-images-a-detailed-guide/"><u>Choosing Between Disk Clones and Disk Images: A Detailed Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/experience-unlimited-protection-with-aomeis-free-cyberbackup-software-test-drive/"><u>Experience Unlimited Protection with AOMEI's Free CyberBackup Software Test Drive</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-6-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 6 using find my iphone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/master-disk-cloning-on-windows-server-2012-r2-explore-2-proven-strategies/"><u>Master Disk Cloning on Windows Server 2012 (R2): Explore 2 Proven Strategies</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revive-your-iphones-address-book-tips-for-retrieving-data-from-itunes-sync/"><u>Revive Your iPhone's Address Book - Tips for Retrieving Data From iTunes Sync</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-gt-5-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme GT 5 Pro</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-restoring-lost-pictures-from-your-instagram-account/"><u>Step-by-Step Tutorial: Restoring Lost Pictures From Your Instagram Account</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-complete-guide-to-downloading-and-backup-of-instagram-vids-on-pcmacos/"><u>[New] In 2024, A Complete Guide to Downloading & Backup of Instagram Vids on PC/macOS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-live-video-recovery-on-facebook-2023-edition/"><u>[Updated] 2024 Approved Mastering Live Video Recovery on Facebook, 2023 Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-drone-buying-101-essential-info-to-make-an-informed-choice/"><u>[Updated] Drone Buying 101 Essential Info to Make an Informed Choice</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>[Updated] In 2024, From Viewers to Profits An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
+<li><a href="https://win-latest.techidaily.com/diagnosing-ram-and-rom-issues-expert-tips-from-yl-computings-latest-guide/"><u>Diagnosing RAM and ROM Issues: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effective-strategies-for-purchasing-and-safely-storing-your-digital-assets-insights-from-yl-computing/"><u>Effective Strategies for Purchasing & Safely Storing Your Digital Assets: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/explore-the-past-with-classic-sea-craft-imagery-and-digital-wallpaper-collections-by-yl-software/"><u>Explore the Past with Classic Sea Craft Imagery and Digital Wallpaper Collections by YL Software</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-reigns-supreme-leading-the-language-education-sphere/"><u>Mondly Reigns Supreme: Leading the Language Education Sphere</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/smart-home-sound-battle-unpacking-the-differences-between-google-nest-audio-and-nest-mini/"><u>Smart Home Sound Battle: Unpacking the Differences Between Google Nest Audio & Nest Mini</u></a></li>
+<li><a href="https://win-latest.techidaily.com/the-ultimate-step-by-step-process-for-revitalizing-old-programs-insights-from-yl-software/"><u>The Ultimate Step-by-Step Process for Revitalizing Old Programs: Insights From YL Software</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-tools-and-applications-to-optimize-your-pc-by-stopping-unwanted-background-tasks-recommendations-from-yl-computing/"><u>Top Tools and Applications to Optimize Your PC by Stopping Unwanted Background Tasks - Recommendations From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-your-non-charging-laptop-battery-expert-advice-from-yl-computing/"><u>Troubleshooting Your Non-Charging Laptop Battery - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-the-exclusive-complimentary-pcdj-dex-3-le-your-premier-choice-for-free-dj-programming/"><u>Unveiling the Exclusive, Complimentary PCDJ DEX 3 LE: Your Premier Choice for Free DJ Programming</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://win-latest.techidaily.com/verify-your-printer-setup-a-comprehensive-guide-to-ensuring-proper-installation-yl-computing/"><u>Verify Your Printer Setup: A Comprehensive Guide to Ensuring Proper Installation - YL Computing</u></a></li>
 </ul></div>
 

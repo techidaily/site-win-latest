@@ -1,7 +1,7 @@
 ---
 title: "Effective Viral Marketing Techniques for 2009: How to Leverage Tell-a-Friend Methods Using Massmail Software"
-date: 2024-12-22T23:34:01.501Z
-updated: 2024-12-29T16:33:30.730Z
+date: 2025-01-19T00:35:07.616Z
+updated: 2025-01-21T05:19:49.164Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -36,6 +36,10 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -49,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -78,10 +82,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -95,7 +95,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -103,7 +103,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -111,7 +111,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -149,20 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>[New] In 2024, 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-navigating-the-search-for-master-video-artists/"><u>[New] Navigating the Search for Master Video Artists</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-beginners-guide-to-producing-and-polishing-haul-videos/"><u>[Updated] A Beginner's Guide to Producing & Polishing Haul Videos</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-effective-techniques-for-restoring-accidentally-erased-sticky-notes-a-step-by-step-guide/"><u>1. Effective Techniques for Restoring Accidentally Erased Sticky Notes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-resoudre-le-probleme-dun-scanneur-incompatible-avec-windows-11/"><u>Comment Résoudre Le Problème D'un Scanneur Incompatible Avec Windows 11 ?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effizientes-wiederherstellungsprogramm-von-aomei-professionell-und-intuitiv-fur-windows-nutzer/"><u>Effizientes Wiederherstellungsprogramm Von AOMEI - Professionell Und Intuitiv Für Windows-Nutzer</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effortless-automated-backups-on-amazon-web-services-a-comprehensive-3-part-tutorial/"><u>Effortless Automated Backups on Amazon Web Services: A Comprehensive 3-Part Tutorial</u></a></li>
-<li><a href="https://win-latest.techidaily.com/fehlerbehebung-probleme-beim-wiedereinrichten-von-systemabbildern-aufgrund-von-efibios/"><u>Fehlerbehebung - Probleme Beim Wiedereinrichten Von Systemabbildern Aufgrund Von EFI/BIOS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/heavyweight-champion-a-detailed-look-at-radpowers-radcity-5-plus-performance/"><u>Heavyweight Champion? A Detailed Look at RadPower's RadCity 5 Plus Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-zte-blade-a73-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in ZTE Blade A73 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/overcoming-errors-how-to-fix-acronis-backup-unable-to-access-disk-issues/"><u>Overcoming Errors: How to Fix 'Acronis Backup Unable to Access Disk' Issues</u></a></li>
-<li><a href="https://win-latest.techidaily.com/uberziehbare-methoden-zum-verschieben-von-icloud-fotos-auf-verschiedene-gerate/"><u>Überziehbare Methoden Zum Verschieben Von iCloud-Fotos Auf Verschiedene Geräte</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-bert-an-in-depth-look-at-its-unique-approach-to-nlp/"><u>Understanding BERT: An In-Depth Look at Its Unique Approach to NLP</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/windows-7-boot-repair-via-command-prompt-using-chkdsk-and-bootrec-methods/"><u>Windows 7 Boot Repair via Command Prompt: Using Chkdsk and BootRec Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humorhub-generate-awesome-memes/"><u>[New] HumorHub Generate Awesome Memes</u></a></li>
+<li><a href="https://win-latest.techidaily.com/boost-your-computers-speed-on-windows-with-expert-optimization-techniques-from-yl-software/"><u>Boost Your Computer's Speed on Windows with Expert Optimization Techniques From YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descubre-los-mejores-convertidores-de-video-gratuitos-para-windows-10-y-por-que-son-la-eleccion-ideal/"><u>Descubre Los Mejores Convertidores De Vídeo Gratuitos Para Windows 10 Y Por Qué Son La Elección Ideal</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-steps-for-file-duplication-and-pasting-a-guide-by-yl-computing/"><u>Easy Steps for File Duplication & Pasting: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expert-guide-mastering-complex-network-configurations-on-windows-10-tips-from-yl-computing/"><u>Expert Guide: Mastering Complex Network Configurations on Windows 10 - Tips From YL Computing</u></a></li>
+<li><a href="https://win-latest.techidaily.com/master-the-art-of-debugging-physical-device-failures-expert-advice-from-yl-software-professionals/"><u>Master the Art of Debugging Physical Device Failures: Expert Advice From YL Software Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-nocturnal-bliss-the-5-superior-sleep-assistants-for-your-apple-watch/"><u>Mastering Nocturnal Bliss: The 5 Superior Sleep Assistants for Your Apple Watch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-a2-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo A2 Phones</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-7-best-daw-for-guitar-recording-and-players-perfect-solution/"><u>Updated 7 Best DAW for Guitar Recording and Players (Perfect Solution)</u></a></li>
 </ul></div>
 
