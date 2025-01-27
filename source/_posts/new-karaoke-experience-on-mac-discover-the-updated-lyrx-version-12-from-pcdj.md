@@ -1,7 +1,7 @@
 ---
 title: "New Karaoke Experience on Mac: Discover the Updated Lyrx Version 1.2 From PCDJ"
-date: 2025-01-14T19:27:26.528Z
-updated: 2025-01-21T05:45:03.940Z
+date: 2025-01-20T22:47:02.427Z
+updated: 2025-01-26T21:29:53.588Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-captivate-viewers-strategies-for-viral-video-success/"><u>[New] 2024 Approved Captivate Viewers Strategies for Viral Video Success</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-rhythmic-respite-top-20-easygoing-country-hits-for-stress-relief-dance-on-tiktok/"><u>[New] 2024 Approved Rhythmic Respite Top 20 Easygoing Country Hits for Stress-Relief Dance on TikTok</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-step-up-your-game-techniques-for-bordered-instagram-videos/"><u>[New] In 2024, Step Up Your Game Techniques for Bordered Instagram Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-rapid-methods-for-capturing-digital-conference-sessions/"><u>[Updated] In 2024, Rapid Methods for Capturing Digital Conference Sessions</u></a></li>
-<li><a href="https://win-latest.techidaily.com/diagnosing-ram-and-rom-issues-expert-tips-from-yl-computings-latest-guide/"><u>Diagnosing RAM and ROM Issues: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/effective-strategies-for-purchasing-and-safely-storing-your-digital-assets-insights-from-yl-computing/"><u>Effective Strategies for Purchasing & Safely Storing Your Digital Assets: Insights From YL Computing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-undo-macos-sierras-os-x-transition/"><u>How to Undo MacOS Sierra's OS X Transition</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-vivo-v29-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo V29 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/the-ultimate-step-by-step-process-for-revitalizing-old-programs-insights-from-yl-software/"><u>The Ultimate Step-by-Step Process for Revitalizing Old Programs: Insights From YL Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-70-unbeatable-video-game-bargains-on-prime-day-202e-last-chance-savings/"><u>Top 70 Unbeatable Video Game Bargains on Prime Day 202E: Last Chance Savings !</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-your-non-charging-laptop-battery-expert-advice-from-yl-computing/"><u>Troubleshooting Your Non-Charging Laptop Battery - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-eight-techniques-to-revive-a-broken-tablet-touchscreen/"><u>Unlock the Secrets: Eight Techniques to Revive a Broken Tablet Touchscreen</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unveiling-the-exclusive-complimentary-pcdj-dex-3-le-your-premier-choice-for-free-dj-programming/"><u>Unveiling the Exclusive, Complimentary PCDJ DEX 3 LE: Your Premier Choice for Free DJ Programming</u></a></li>
-<li><a href="https://win-latest.techidaily.com/verify-your-printer-setup-a-comprehensive-guide-to-ensuring-proper-installation-yl-computing/"><u>Verify Your Printer Setup: A Comprehensive Guide to Ensuring Proper Installation - YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-the-market-of-dronescopic-stabilizers/"><u>[New] In 2024, Navigating the Market of Dronescopic Stabilizers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-finders-playbook-for-quick-reconnaissance/"><u>[Updated] 2024 Approved Facebook Finder’s Playbook for Quick Reconnaissance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-drive-participation-with-artisanal-story-inquiries-for-2024/"><u>[Updated] Drive Participation with Artisanal Story Inquiries for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-leading-free-art-pages-for-easy-no-cost-illustrations-for-2024/"><u>[Updated] Leading Free Art Pages for Easy, No-Cost Illustrations for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/data-preservation-techniques-how-to-transition-your-drive-from-raw-to-ntfs-format/"><u>Data Preservation Techniques: How to Transition Your Drive From Raw to NTFS Format</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/download-high-quality-ford-escort-desktop-backgrounds-yl-tech-solutions/"><u>Download High-Quality Ford Escort Desktop Backgrounds - YL Tech Solutions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/download-our-no-cost-video-transformation-tool-easy-flv-format-upgrade/"><u>Download Our No-Cost Video Transformation Tool - Easy FLV Format Upgrade!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-strategies-to-lower-overconsumption-of-cpu-resources-in-new-world/"><u>Efficient Strategies to Lower Overconsumption of CPU Resources in New World</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-realme-narzo-60-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/enting-classic-cinema-best-swaps-1-7/"><u>Reinventing Classic Cinema Best Swaps #1-7</u></a></li>
+<li><a href="https://win-latest.techidaily.com/seamless-data-preservation-steps-to-automatically-back-up-your-pc-during-system-restart-windows-11-10-8-and-7/"><u>Seamless Data Preservation: Steps to Automatically Back Up Your PC During System Restart (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-modify-mp3-file-id3-metadata-across-windows-and-mac-with-premier-tagging-tools/"><u>Step-by-Step Guide to Modify MP3 File ID3 Metadata Across Windows and Mac with Premier Tagging Tools</u></a></li>
+<li><a href="https://win-latest.techidaily.com/the-best-substitutes-for-windows-movie-maker-comprehensive-guide/"><u>The Best Substitutes for Windows Movie Maker: Comprehensive Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-list-of-reliable-iphone-contact-backup-solutions-top-6-picks/"><u>Ultimate List of Reliable iPhone Contact Backup Solutions (Top 6 Picks)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-selection-of-the-best-6-applications-to-enhance-your-images-with-object-overlays/"><u>Ultimate Selection of the Best 6 Applications to Enhance Your Images with Object Overlays</u></a></li>
 </ul></div>
 
