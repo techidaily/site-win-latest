@@ -1,7 +1,7 @@
 ---
 title: "Effective Viral Marketing Techniques for 2009: How to Leverage Tell-a-Friend Methods Using Massmail Software"
-date: 2025-01-19T00:35:07.616Z
-updated: 2025-01-21T05:19:49.164Z
+date: 2025-02-16T23:01:52.977Z
+updated: 2025-02-19T00:09:57.423Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -51,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,9 +78,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -95,24 +99,16 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,14 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humorhub-generate-awesome-memes/"><u>[New] HumorHub Generate Awesome Memes</u></a></li>
-<li><a href="https://win-latest.techidaily.com/boost-your-computers-speed-on-windows-with-expert-optimization-techniques-from-yl-software/"><u>Boost Your Computer's Speed on Windows with Expert Optimization Techniques From YL Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/descubre-los-mejores-convertidores-de-video-gratuitos-para-windows-10-y-por-que-son-la-eleccion-ideal/"><u>Descubre Los Mejores Convertidores De Vídeo Gratuitos Para Windows 10 Y Por Qué Son La Elección Ideal</u></a></li>
-<li><a href="https://win-latest.techidaily.com/easy-steps-for-file-duplication-and-pasting-a-guide-by-yl-computing/"><u>Easy Steps for File Duplication & Pasting: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/expert-guide-mastering-complex-network-configurations-on-windows-10-tips-from-yl-computing/"><u>Expert Guide: Mastering Complex Network Configurations on Windows 10 - Tips From YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/master-the-art-of-debugging-physical-device-failures-expert-advice-from-yl-software-professionals/"><u>Master the Art of Debugging Physical Device Failures: Expert Advice From YL Software Professionals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-nocturnal-bliss-the-5-superior-sleep-assistants-for-your-apple-watch/"><u>Mastering Nocturnal Bliss: The 5 Superior Sleep Assistants for Your Apple Watch</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-a2-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo A2 Phones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-7-best-daw-for-guitar-recording-and-players-perfect-solution/"><u>Updated 7 Best DAW for Guitar Recording and Players (Perfect Solution)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevating-content-clarity-with-video-dates-and-times/"><u>[New] In 2024, Elevating Content Clarity with Video Dates and Times</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-slow-start-technique/"><u>[New] Slow Start Technique</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-chorus-of-creators-guidelines-for-sharing-sounds-online/"><u>[Updated] Chorus of Creators Guidelines for Sharing Sounds Online</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-monetizing-success-a-strategic-approach/"><u>[Updated] Monetizing Success A Strategic Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>2024 Approved Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/countdown-begins-for-microsofts-major-crisis-in-windows-10-solutions-within-a-year-zdnet-reports/"><u>Countdown Begins for Microsoft's Major Crisis in Windows 10 | Solutions Within a Year? ZDNET Reports</u></a></li>
+<li><a href="https://win-latest.techidaily.com/defying-the-odds-successful-windows-11-installation-on-ineligible-pcs-real-life-examples-zdnet/"><u>Defying the Odds: Successful Windows 11 Installation on Ineligible PCs - Real-Life Examples | ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effortless-file-transfer-sharing-documents-between-your-pc-and-android-devices-using-google-quick-share-a-step-by-step-guide/"><u>Effortless File Transfer: Sharing Documents Between Your PC & Android Devices Using Google Quick Share - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/gardyn-home-kit-30-review-a-high-yield-space-saving-smart-garden-ideal-for-urban-living-tech-insights/"><u>Gardyn Home Kit 3.0 Review - A High Yield, Space-Saving Smart Garden Ideal for Urban Living | Tech Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-game-setup-for-diverse-channels/"><u>Ideal Game Setup for Diverse Channels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-wav-mp4/"><u>Movavi WAV 파일을 MP4로 쉽게 변환하는 단계룹</u></a></li>
+<li><a href="https://win-latest.techidaily.com/new-survey-reveals-over-half-of-executives-demand-ai-proficiency-in-job-candidates-zdnet-insights/"><u>New Survey Reveals: Over Half of Executives Demand AI Proficiency in Job Candidates | ZDNet Insights</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-rated-acoustic-drapes-in-2-best-of-2024-insights-and-reviews-gizmopedia/"><u>Top-Rated Acoustic Drapes in 2# (Best of 2024) - Insights & Reviews | GizmoPedia</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-rated-gaming-seats-the-ultimate-guide-techradar/"><u>Top-Rated Gaming Seats : The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-visual-identification-issues-and-how-to-fix-them/"><u>Understanding iPhone Visual Identification Issues and How to Fix Them</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-professional-hdr-magic-in-adobes-photoshop-for-2024/"><u>Unveiling Professional HDR Magic in Adobe's Photoshop for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-the-hidden-gems-microsofts-best-kept-secrets-in-surface-props-now-aimed-at-enterprise-techinsight/"><u>Unveiling the Hidden Gems: Microsoft's Best-Kept Secrets in Surface Props Now Aimed at Enterprise | TechInsight</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unveiling-the-latest-microsoft-365-copilot-ai-enhancements-discover-and-utilize-these-powerful-tools-zdnet/"><u>Unveiling the Latest Microsoft 365 Copilot AI Enhancements: Discover & Utilize These Powerful Tools | ZDNet</u></a></li>
 </ul></div>
 

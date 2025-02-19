@@ -1,7 +1,7 @@
 ---
 title: "New Karaoke Experience on Mac: Discover the Updated Lyrx Version 1.2 From PCDJ"
-date: 2025-02-03T05:55:42.837Z
-updated: 2025-02-09T02:33:03.893Z
+date: 2025-02-15T17:28:31.881Z
+updated: 2025-02-19T07:05:31.022Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,16 +78,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-converting-twitter-video-lyrics-to-custom-gif-animations/"><u>[New] Converting Twitter Video Lyrics to Custom GIF Animations</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-top-5-zero-cost-windows-screen-recorder-tools/"><u>Best Top 5 Zero-Cost Windows Screen Recorder Tools</u></a></li>
-<li><a href="https://win-latest.techidaily.com/das-problem-des-itunes-verbundes-bei-iphone-1413-und-wie-man-es-behebt-ein-blick-auf-fonebackup/"><u>Das Problem Des iTunes-Verbundes Bei iPhone 14/13 Und Wie Man Es Behebt - Ein Blick Auf FoneBackup</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-support-and-protect-young-writers-a-parents-guide-using-massmail-for-content-creation-management/"><u>How to Support and Protect Young Writers: A Parent's Guide Using Massmail for Content Creation Management</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-email-communication-strategies-a-selection-of-premium-instructional-resources-backed-by-massmail-pros/"><u>Mastering Email Communication Strategies: A Selection of Premium Instructional Resources Backed by MassMail Pros</u></a></li>
-<li><a href="https://win-latest.techidaily.com/simple-guide-step-by-step-process-for-quickly-exporting-your-whole-outlook-email-archive/"><u>Simple Guide: Step-by-Step Process for Quickly Exporting Your Whole Outlook Email Archive</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-guide-to-designing-impactful-imagery-for-2024/"><u>Step-by-Step Guide to Designing Impactful Imagery for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-airtag-wallet-reviews-industry-experts-verdicts/"><u>Top-Rated AirTag Wallet Reviews : Industry Experts' Verdicts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolve-terraria-game-crashes-top-techniques-for-a-smooth-play-in-2/"><u>Ultimate Guide to Resolve Terraria Game Crashes - Top Techniques for a Smooth Play in 2#</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-screen-record-on-android/"><u>[New] 2024 Approved How to Screen Record on Android</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-essential-guide-sharpening-your-iphone-pics-without-paid-apps-for-2024/"><u>[New] Essential Guide Sharpening Your iPhone Pics Without Paid Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-faithful-melodies-how-to-install-christian-chimes/"><u>2024 Approved Faithful Melodies How to Install Christian Chimes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-strategies-for-enhancing-youtube-videos-perfecting-your-thumbnails/"><u>2024 Approved Strategies for Enhancing YouTube Videos Perfecting Your Thumbnails</u></a></li>
+<li><a href="https://win-latest.techidaily.com/5oko5aw977yb5oir5lin5bcp5bplusd5yig6zmk5lqg5lia5liq5pah5lu25as577ym546w5zyo6kplusl5aac5l2v6yen5bu65a6d77yf/"><u>您好！我不小心删除了一个文件夹，现在该如何重建它？</u></a></li>
+<li><a href="https://win-latest.techidaily.com/5pah5a2x44oh44o844k44ks5zue5b6pieoajoodleocoeocpoodqplusodroocsplusodvoodieoajeobjoegtoaqjeoblplusoageocuplusocsoodoeodsplusodioobruiqreobvpluswpluociuobqpl56/"><u>文字データを回復!「ファイルレコード」が破損し、セグメントの読み取りに失敗した時のヒント</u></a></li>
+<li><a href="https://win-latest.techidaily.com/choosing-the-ideal-m2-ssd-a-comprehensive-guide-for-your-os-installation/"><u>Choosing the Ideal M.2 SSD: A Comprehensive Guide for Your OS Installation</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effortless-data-backup-on-windows-systems-using-samsungs-t5-portable-ssd-and-backup-software/"><u>Effortless Data Backup on Windows Systems Using Samsung's T5 Portable SSD and Backup Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audiences-choice-in-drama-writings/"><u>In 2024, Audience's Choice in Drama Writings</u></a></li>
+<li><a href="https://win-latest.techidaily.com/installare-facilmente-aomei-onekey-recovery-per-il-ripristino-del-tuo-computer/"><u>Installare Facilmente AOMEI OneKey Recovery per Il Ripristino Del Tuo Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-t2-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo T2 Pro 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mbr-ssdgpt/"><u>MBR SSD上复制GPT：简单指南</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-free-video-blur-hack-online-solution/"><u>New In 2024, The Ultimate Free Video Blur Hack Online Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-ksuserdll-file-cannot-be-found-steps-to-repair-the-issue/"><u>Resolving 'ksuser.dll' File Cannot Be Found: Steps to Repair the Issue</u></a></li>
+<li><a href="https://win-latest.techidaily.com/tecnicas-faciles-de-implementar-configurando-el-sistema-operativo-en-ordenadores-multitudinarios/"><u>Técnicas Fáciles De Implementar: Configurando El Sistema Operativo en Ordenadores Multitudinarios</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-computers-hardware-a-guide-for-windows-users-by-yl-software/"><u>Troubleshooting Your Computer's Hardware: A Guide for Windows Users by YL Software</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-11sticky-notes/"><u>Windows 11のSticky Notesを探す：位置とリストア手順</u></a></li>
 </ul></div>
 

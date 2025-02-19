@@ -1,7 +1,7 @@
 ---
 title: Best Web-Based Selling & Media Distribution Platforms of 2012 Powered by MassMail Technology
-date: 2025-02-04T18:14:13.127Z
-updated: 2025-02-09T02:22:29.777Z
+date: 2025-02-18T04:27:58.038Z
+updated: 2025-02-18T16:14:25.814Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -35,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -54,6 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -66,16 +74,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -86,29 +90,25 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-video-content-transcriber/"><u>[New] 2024 Approved Video Content Transcriber</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-iphone-video-playback-cycles-for-2024/"><u>[Updated] Mastering iPhone Video Playback Cycles for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-sound-symphony-music-within-whatsapp-statuses-for-2024/"><u>[Updated] Sound Symphony Music Within WhatsApp Statuses for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unleash-creativity-on-tiktok-using-mac-or-pc-devices-for-2024/"><u>[Updated] Unleash Creativity on TikTok Using MAC or PC Devices for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-tablet-picks-in-depth-reviews-and-ratings-from-industry-professionals-zdnet/"><u>Affordable Tablet Picks : In-Depth Reviews and Ratings From Industry Professionals | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/before-you-level-up-check-these-5-must-know-points-when-buying-a-game-console/"><u>Before You Level Up? Check These 5 Must-Know Points When Buying a Game Console</u></a></li>
-<li><a href="https://win-latest.techidaily.com/boost-your-computers-speed-with-these-expert-recommended-tools/"><u>Boost Your Computer’s Speed with These Expert-Recommended Tools</u></a></li>
-<li><a href="https://win-latest.techidaily.com/essential-hardware-specifications-needed-for-effective-operation-of-windows-defender-detailed-analysis-by-yl-computing/"><u>Essential Hardware Specifications Needed for Effective Operation of Windows Defender - Detailed Analysis by YL Computing</u></a></li>
-<li><a href="https://win-latest.techidaily.com/gold-investment-rollercoaster-managing-market-risks-in-unpredictable-times-with-expert-advice-from-yl-computing-and-yl-software/"><u>Gold Investment Rollercoaster: Managing Market Risks in Unpredictable Times with Expert Advice From YL Computing and YL Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y28-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y28 5G Device</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://win-latest.techidaily.com/is-evaluating-the-random-access-memory-important-if-you-encounter-a-central-processing-unit-malfunction-expert-advice-from-yl-computing/"><u>Is Evaluating the Random Access Memory Important if You Encounter a Central Processing Unit Malfunction? – Expert Advice From YL Computing.</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-multilingual-windows-expert-tricks-for-changing-region-and-language-settings-insights-by-yl-software-experts/"><u>Mastering Multilingual Windows: Expert Tricks for Changing Region and Language Settings – Insights by YL Software Experts</u></a></li>
-<li><a href="https://win-latest.techidaily.com/outcomes-and-consequences-unveiling-the-aftermath-of-the-second-opium-war-yl-computings-insights/"><u>Outcomes and Consequences: Unveiling the Aftermath of the Second Opium War - YL Computing's Insights</u></a></li>
-<li><a href="https://win-latest.techidaily.com/premium-shell-artwork-hd-and-detailed-sea-turtle-images-for-pc-screensavers-curated-collection-from-yl-software/"><u>Premium Shell Artwork: HD and Detailed Sea Turtle Images for PC Screensavers – Curated Collection From YL Software</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-converting-your-collection-of-vob-files-into-mp4-for-universal-playback/"><u>Step-by-Step Guide: Converting Your Collection of VOB Files Into MP4 for Universal Playback</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unlocking-the-secrets-of-concealed-files-on-your-pc-a-guide-by-yl-computing/"><u>Unlocking the Secrets of Concealed Files on Your PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlock-the-potential-of-snapchat-boomerangs/"><u>[New] 2024 Approved Unlock the Potential of Snapchat Boomerangs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-comparing-mobile-vr-gear-top-10-edition/"><u>[New] Comparing Mobile VR Gear - Top 10 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-list-top-7-android-apps-blocking-intrusive-ads/"><u>[Updated] 2024 Approved The Ultimate List Top 7 Android Apps Blocking Intrusive Ads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-outstanding-book-trailer-samples/"><u>[Updated] In 2024, Outstanding Book Trailer Samples</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-eastern-mini-homes-top-6-creative-concepts-in-mc/"><u>2024 Approved Eastern Mini-Homes Top 6 Creative Concepts in MC</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows781011/"><u>专业提示：如何在Windows版本（7/8/10/11）中免费且全面地恢复已删除大型文件</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-nord-n30-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus Nord N30 5G?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comprehensive-step-by-step-manual-mastering-the-hp-cloud-recovery-app-on-windows-11/"><u>Comprehensive Step-by-Step Manual: Mastering the HP Cloud Recovery App on Windows 11</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expertenanleitung-effizientes-synchronisieren-von-synology-und-sharepoint-der-optimale-ansatz/"><u>Expertenanleitung: Effizientes Synchronisieren Von Synology Und SharePoint - Der Optimale Ansatz</u></a></li>
+<li><a href="https://win-latest.techidaily.com/fix-issues-of-dark-display-showing-up-post-alt-key-combo-use-for-task-switching/"><u>Fix Issues of Dark Display Showing Up Post-Alt Key Combo Use for Task Switching</u></a></li>
+<li><a href="https://win-latest.techidaily.com/gratuites-iso-windows-11-rufus-installer-creation-dun-cle-usb-de-demarrage/"><u>Gratuites ISO Windows 11 Rufus Installer - Création D'un Clé USB De Démarrage</u></a></li>
+<li><a href="https://win-latest.techidaily.com/guida-passo-passo-per-copiare-una-partizione-da-un-pc-allaltro-in-windows-1011/"><u>Guida Passo-Passo per Copiare Una Partizione Da Un PC All'Altro in Windows 10/11</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-7a-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 7a in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-15-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 15 iCloud Activation Lock</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-13-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 13 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/in-depth-analysis-of-undelete-360-plus-comparable-options-the-ultimate-selection-guide/"><u>In-Depth Analysis of Undelete 360 Plus Comparable Options: The Ultimate Selection Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-enhance-your-tomahawk-motherboard-msi-b3nb-with-compatible-drivers-on-windows-710/"><u>Secure & Enhance Your Tomahawk Motherboard (MSI B3nB) with Compatible Drivers on Windows 7/10</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-3-prodotti-di-spostamento-p2v-dalla-hardware-al-virtual-inizia-la-tua-transizione-oggi/"><u>Top 3 Prodotti Di Spostamento P2V: Dalla Hardware Al Virtual - Inizia La Tua Transizione Oggi!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-the-start-menu-issue-in-windows-server-2019-fast-solutions/"><u>Troubleshooting the Start Menu Issue in Windows Server 2019: Fast Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Who Facilitated Peace: The Signatories of the 1895 Treaty Marking Japan's Victory Over China"
-date: 2025-02-04T16:09:40.302Z
-updated: 2025-02-09T05:09:17.630Z
+date: 2025-02-16T19:00:55.543Z
+updated: 2025-02-19T07:02:53.181Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-redefine-gaming-radeons-latest-release/"><u>[New] In 2024, Redefine Gaming Radeon's Latest Release</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-shockingly-simple-steps-for-suddenly-massive-video-views/"><u>[Updated] 2024 Approved Shockingly Simple Steps for Suddenly Massive Video Views</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-glow-up-guide-for-the-social-savvy-top-three-highlighters-on-instagram/"><u>[Updated] Glow-Up Guide for the Social Savvy Top Three Highlighters on Instagram</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-screenmasters-battleground/"><u>[Updated] ScreenMasters Battleground</u></a></li>
-<li><a href="https://win-latest.techidaily.com/3-easy-methods-how-to-retrieve-lost-images-from-damaged-jpg-files-for-free/"><u>3 Easy Methods: How to Retrieve Lost Images From Damaged JPG Files for Free</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728510200681-windows/"><u>如何在 Windows 平台上无麻烦地建立数据备份流程</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728510152498-windows/"><u>如何在Windows计算机中重建删除的图像：一步到位指南</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-recouvrer-votre-donnees-perdus-apres-une-suppression-sous-windows-11/"><u>Comment Recouvrer Votre Données Perdus Après Une Suppression Sous Windows 11?</u></a></li>
-<li><a href="https://win-latest.techidaily.com/experience-unlimited-protection-with-aomeis-free-cyberbackup-software-test-drive/"><u>Experience Unlimited Protection with AOMEI's Free CyberBackup Software Test Drive</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-still-to-story-the-art-of-adding-text-to-photos-os-style-for-2024/"><u>From Still to Story The Art of Adding Text to Photos, OS Style for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/master-disk-cloning-on-windows-server-2012-r2-explore-2-proven-strategies/"><u>Master Disk Cloning on Windows Server 2012 (R2): Explore 2 Proven Strategies</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-restoring-lost-pictures-from-your-instagram-account/"><u>Step-by-Step Tutorial: Restoring Lost Pictures From Your Instagram Account</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-weather-monitoring-mobile-applications/"><u>Top-Rated Weather Monitoring Mobile Applications</u></a></li>
-<li><a href="https://win-latest.techidaily.com/troubleshooting-guide-overcoming-inaccessible-d-drive-problems-in-windows-11/"><u>Troubleshooting Guide: Overcoming Inaccessible D-Drive Problems in Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-logitech-f710-drivers-on-various-windows-versions/"><u>Troubleshooting Logitech F710 Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-13c-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi 13C 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-elevating-your-youtube-content-selecting-professional-gear/"><u>[New] In 2024, Elevating Your YouTube Content Selecting Professional Gear</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-building-bonds-before-buying-subscription-strategies/"><u>[Updated] In 2024, Building Bonds Before Buying Subscription Strategies</u></a></li>
+<li><a href="https://win-latest.techidaily.com/complete-tutorial-on-how-to-perform-a-system-scan-using-windows-defender-yl-tech-solutions/"><u>Complete Tutorial on How to Perform a System Scan Using Windows Defender - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-audio-magic-a-windows-10-sound-journey/"><u>Crafting Audio Magic A Windows 10 Sound Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/darkthemetogglefornotepadw10w11/"><u>DarkThemeToggleForNotepadW10/W11</u></a></li>
+<li><a href="https://win-latest.techidaily.com/detecting-and-troubleshooting-your-graphics-card-issues-learn-how-with-yl-computings-expert-guidance/"><u>Detecting and Troubleshooting Your Graphics Card Issues - Learn How with YL Computing's Expert Guidance</u></a></li>
+<li><a href="https://win-latest.techidaily.com/evaluating-safety-in-overclocking-memory-a-comprehensive-guide-by-yl-computing/"><u>Evaluating Safety in Overclocking Memory: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-customize-your-gaming-experience-through-nvidia-control-panels-3d-settings/"><u>How to Customize Your Gaming Experience Through NVIDIA Control Panel’s 3D Settings</u></a></li>
+<li><a href="https://win-latest.techidaily.com/identifying-and-mitigating-vulnerabilities-in-the-windows-registry-in-depth-analysis-by-yl-software/"><u>Identifying and Mitigating Vulnerabilities in the Windows Registry – In-Depth Analysis by YL Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-products-best-free-and-paid-macpc-video-decoders-for-2024/"><u>Prime Products Best Free & Paid Mac/PC Video Decoders for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-steam-library-synchronization-error/"><u>Resolving Windows Steam Library Synchronization Error</u></a></li>
+<li><a href="https://win-latest.techidaily.com/the-insiders-guide-to-understanding-and-resolving-laggy-network-performance-issues/"><u>The Insider's Guide to Understanding & Resolving Laggy Network Performance Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-a24-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy A24 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-moto-z2-smart-technology-unleashed/"><u>Understanding Moto Z2 Smart Technology Unleashed</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unlock-the-secrets-of-accessing-docx-files-with-ease-in-windows-essential-tips-by-yl-software-experts/"><u>Unlock the Secrets of Accessing .docx Files with Ease in Windows – Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-defender-how-are-you-notified-of-malware-threats/"><u>Windows Defender: How Are You Notified of Malware Threats?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/yl-software-reveals-proven-strategies-for-enhancing-pc-speeds-and-efficiency/"><u>YL Software Reveals Proven Strategies for Enhancing PC Speeds and Efficiency</u></a></li>
 </ul></div>
 
